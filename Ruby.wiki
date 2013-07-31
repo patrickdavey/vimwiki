@@ -1,0 +1,6 @@
+{{{class="brush: ruby"
+
+  def something
+    blah = 0
+  end
+}}}
