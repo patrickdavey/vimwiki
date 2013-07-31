@@ -1,7 +1,9 @@
-[[=]] Patrick Davey personal Wiki =
-    * [[Tasks]] -- things to be done _yesterday_!!!
+= Patrick Davey personal Wiki =
+    * [[Books]] -- to read
     * [[Vim Tips]]-- anything to do with vim.
+    * [[Git Tips]]-- anything to do with git.
     * [[Refinery]]-- useful Refinery Stuff
     * [[Ruby]]-- useful Ruby Stuff
     * Scratchpad -- various temporary stuff.
+    * [[Todo]] -- things to do
 
