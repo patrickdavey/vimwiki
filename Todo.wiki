@@ -1,0 +1,7 @@
+= Things to do - today =
+
+* [ ] Add navigation to wiki
+* [ ] Investigate GitHub Pages
+* [ ] Post receive hook for publishing wiki
+* [ ] Discuss Meetup.com group for Ruby
+
