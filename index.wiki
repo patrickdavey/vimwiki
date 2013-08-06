@@ -6,4 +6,5 @@
     * [[Ruby]]-- useful Ruby Stuff
     * Scratchpad -- various temporary stuff.
     * [[Todo]] -- things to do
+    * [[Quotes]] -- Nothing to do with programming!
 
