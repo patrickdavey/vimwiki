@@ -1,3 +1,6 @@
 http://vim.wikia.com/wiki/Vim_Tips_Wiki
 
 Update all helptags :Helptags
+
+Using Vim Surround add quotes around a word:
+    csw'
