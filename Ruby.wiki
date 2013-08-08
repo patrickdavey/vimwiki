@@ -1,8 +1,6 @@
 {{{class="brush: ruby"
-
-  def something
-    blah = 0
-  end
+  #to get a random record from an Active Record
+  <% major = Story.offset(rand(Story.count)).first.major %>
 }}}
 
 http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html
