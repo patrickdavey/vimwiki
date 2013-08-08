@@ -1,0 +1,1 @@
+http://blog.heapsource.com/post/55696145680/effortless-two-factor-authentication-in-rails

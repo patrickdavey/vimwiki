@@ -3,6 +3,4 @@
 * [ ] Add navigation to wiki
 * [ ] Investigate GitHub Pages
 * [ ] Post receive hook for publishing wiki
-* [ ] Discuss Meetup.com group for Ruby
-* [ ] Look at tmux http://robots.thoughtbot.com/post/2641409235/a-tmux-crash-course
 
