@@ -1,4 +1,4 @@
-http://vim.wikia.com/wiki/Vim_Tips_Wiki
+[[http://vim.wikia.com/wiki/Vim_Tips_Wiki|Vim Tips Wiki]]
 
 Update all helptags :Helptags
 

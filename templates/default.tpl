@@ -1,19 +1,35 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html>
-<head>
-<link rel="Stylesheet" type="text/css" href="%root_path%%css%" />
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="Stylesheet" type="text/css" href="%root_path%%css%" />
     <link type="text/css" rel="stylesheet" href="./styles/shCore.css" />
     <link type="text/css" rel="stylesheet" href="./styles/shThemeDefault.css" />
+    <link type="text/css" rel="stylesheet" href="./styles/bootstrap.min.css" />
     <script type="text/javascript" src="./scripts/shCore.js"></script>
     <script type="text/javascript" src="./scripts/shBrushRuby.js"></script>
     <script type="text/javascript">
       SyntaxHighlighter.all();
     </script>
-<title>%title%</title>
-<meta http-equiv="Content-Type" content="text/html; charset=%encoding%">
+  <title>%title%</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=%encoding%">
 </head>
-<body>
-<a href="index.html">Home</a><br/>
-%content%
+<body id="%title%">
+  <div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <a class="brand" href="index.html">Wiki</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="span12">
+        <h2 id="title">%title%</h2>
+        %content%
+      </div>
+    </div>
+  </div>
 </body>
 </html>

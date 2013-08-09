@@ -2,5 +2,4 @@
 
 * [ ] Add navigation to wiki
 * [ ] Investigate GitHub Pages
-* [ ] Post receive hook for publishing wiki
 

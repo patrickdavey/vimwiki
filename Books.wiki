@@ -1,8 +1,6 @@
-= Books =
-
-== To Read ==
+=== To Read ===
 * [ ] 7 languages in 7 weeks
 
-== Read ==
+=== Read ===
 * [X] Pragmatic Thinking and Learning
 * [X] Crucial Conversations
