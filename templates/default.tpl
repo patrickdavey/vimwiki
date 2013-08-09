@@ -3,9 +3,10 @@
   <head>
     <meta charset="utf-8">
     <link rel="Stylesheet" type="text/css" href="%root_path%%css%" />
+    <link type="text/css" rel="stylesheet" href="./styles/bootstrap.min.css" />
+    <link type="text/css" rel="stylesheet" href="./overrides.css" />
     <link type="text/css" rel="stylesheet" href="./styles/shCore.css" />
     <link type="text/css" rel="stylesheet" href="./styles/shThemeDefault.css" />
-    <link type="text/css" rel="stylesheet" href="./styles/bootstrap.min.css" />
     <script type="text/javascript" src="./scripts/shCore.js"></script>
     <script type="text/javascript" src="./scripts/shBrushRuby.js"></script>
     <script type="text/javascript">
