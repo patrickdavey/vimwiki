@@ -5,7 +5,7 @@
     * [[Refinery]]-- useful Refinery Stuff
     * [[Ruby]]-- useful Ruby Stuff
     * [[Rails]]-- useful Rails Stuff
-    * Scratchpad -- various temporary stuff.
+    * [[Scratchpad]] -- various temporary stuff.
     * [[Todo]] -- things to do
     * [[Quotes]] -- Nothing to do with programming!
 
