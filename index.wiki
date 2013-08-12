@@ -4,6 +4,7 @@
     * [[Git Tips]]-- anything to do with git.
     * [[Refinery]]-- useful Refinery Stuff
     * [[Ruby]]-- useful Ruby Stuff
+    * [[Tmux]]-- useful Tmux Stuff
     * [[Rails]]-- useful Rails Stuff
     * [[Scratchpad]] -- various temporary stuff.
     * [[Todo]] -- things to do
