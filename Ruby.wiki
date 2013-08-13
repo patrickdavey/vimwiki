@@ -5,5 +5,4 @@
 
  http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html
 
- [[http://blog.codeclimate.com/blog/2013/08/07/deciphering-ruby-code-metrics|Ruby
- Code Metrics]]
+ [[http://blog.codeclimate.com/blog/2013/08/07/deciphering-ruby-code-metrics|Ruby Code Metrics]]
