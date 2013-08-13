@@ -1,0 +1,9 @@
+.syntaxhighlighter .toolbar {
+  display: none;
+}
+
+.code .container:after,
+.code .container:before {
+  content: "" !important;
+  display: none !important;
+}
