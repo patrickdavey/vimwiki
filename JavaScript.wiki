@@ -1,0 +1,7 @@
+{{{class="brush: ruby"
+  //scroll to the first field_with_errors field
+  if ($(".field_with_errors").first().length) {
+    $ele = $(".field_with_errors").first();
+    $("html, body").animate({ scrollTop: $ele.offset().top }, 1000);
+  }
+}}}
