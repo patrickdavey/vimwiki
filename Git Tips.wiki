@@ -12,3 +12,10 @@ If you happen to want to run vim in a git commit hook, like I do for this wiki
 }}}
 
 
+ignore a file locally which has been checked into git (useful for database.yml
+for example)
+
+{{{class="brush: bash"
+  git update-index --skip-worktree FILENAME
+}}}
+
