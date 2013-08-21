@@ -3,6 +3,18 @@
   <% major = Story.offset(rand(Story.count)).first.major %>
 }}}
 
+
+{{{class="brush: ruby"
+  #case statements in erb are a bit weird
+  <% case @variable
+     when 'this' %>
+     it's this
+  <% when 'that' %>
+     it's that
+  <% end %>
+}}}
+
+
  http://matt.weppler.me/2013/07/19/lets-build-a-sinatra-app.html
 
  [[http://blog.codeclimate.com/blog/2013/08/07/deciphering-ruby-code-metrics|Ruby Code Metrics]]
