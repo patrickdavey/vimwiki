@@ -5,3 +5,5 @@
     $("html, body").animate({ scrollTop: $ele.offset().top }, 1000);
   }
 }}}
+
+[[http://blog.bigbinary.com/2011/08/18/understanding-bind-and-bindall-in-backbone.html|Good write up on Bind]]
