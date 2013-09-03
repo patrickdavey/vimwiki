@@ -1,4 +1,11 @@
-Search and Replace in files
 {{{class="brush: bash"
   find ./path -type f -exec sed -i 's/find_this/replace_this/g' {} \;
 }}}
+Search and Replace in files
+
+
+{{{class="brush: bash"
+  grep -R -A 2 matching *
+}}}
+
+Show two lines after the matching grep
