@@ -1,5 +1,8 @@
 {{{class="brush: bash"
   find ./path -type f -exec sed -i 's/find_this/replace_this/g' {} \;
+
+#in osx you need a blank extension? argument?
+  find . -type f -exec sed -i "" 's/find_this/replace_this/g' {} \;
 }}}
 Search and Replace in files
 
