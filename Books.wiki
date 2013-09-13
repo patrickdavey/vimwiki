@@ -1,5 +1,6 @@
 === To Read ===
 * [ ] 7 languages in 7 weeks
+* [ ] [[http://www.feynmanlectures.caltech.edu/I_toc.html|Feynman Lectures]]
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
