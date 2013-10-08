@@ -8,6 +8,12 @@ Search and Replace in files
 
 
 {{{class="brush: bash"
+  find . -name Gemfile | xargs grep blog
+}}}
+using find and grep
+
+
+{{{class="brush: bash"
   grep -R -A 2 matching *
 }}}
 
