@@ -4,3 +4,5 @@ Update all helptags :Helptags
 
 Using Vim Surround add quotes around a word:
     csw'
+
+To use auto correct - z=

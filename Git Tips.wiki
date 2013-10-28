@@ -19,3 +19,8 @@ for example)
   git update-index --skip-worktree FILENAME
 }}}
 
+
+Copy untracked files into a different directory
+{{{class="brush: bash"
+  git ls-files --others --exclude-standard -z | cpio -pmd0 ../untracked-backup/
+}}}
