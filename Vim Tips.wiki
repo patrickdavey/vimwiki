@@ -1,11 +1,11 @@
 [[http://vim.wikia.com/wiki/Vim_Tips_Wiki|Vim Tips Wiki]]
 
-Update all helptags :Helptags
+Update all helptags `:Helptags`
 
 Using Vim Surround add quotes around a word:
-    csw'
+    `csw'`
 
-To use auto correct - z=
+To use auto correct - `z=`
 
 Sometimes when copying and pasting in text from windows / docx or whatever you
 get hex chars which aren't utf-8.  If you want to do a search and replace you
