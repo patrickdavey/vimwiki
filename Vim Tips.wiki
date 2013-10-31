@@ -6,3 +6,11 @@ Using Vim Surround add quotes around a word:
     csw'
 
 To use auto correct - z=
+
+Sometimes when copying and pasting in text from windows / docx or whatever you
+get hex chars which aren't utf-8.  If you want to do a search and replace you
+can
+
+# Find the hex code by putting your cursor on the charachter and pressing `ga`
+# Then use a search/replace string as normal but specifying hex.  E.G
+  `:%s/\%xNN//g`
