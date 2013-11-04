@@ -3,6 +3,7 @@
     * [[Vim Tips]]-- anything to do with vim.
     * [[Git Tips]]-- anything to do with git.
     * [[Bash Tips]]-- anything to do with bash.
+    * [[Mysql Tips]]-- anything to do with mysql.
     * [[Refinery]]-- useful Refinery Stuff
     * [[Ruby]]-- useful Ruby Stuff
     * [[Backbone]]-- useful Backbone Stuff
