@@ -24,3 +24,6 @@ Copy untracked files into a different directory
 {{{class="brush: bash"
   git ls-files --others --exclude-standard -z | cpio -pmd0 ../untracked-backup/
 }}}
+
+List tags and their annotated messages
+`git tag -l -n1`
