@@ -5,6 +5,9 @@ Update all helptags `:Helptags`
 Using Vim Surround add quotes around a word:
     `csw'`
 
+Using Vim Surround remove quotes around a word:
+    `dsw'`
+
 To use auto correct - `z=`
 
 Sometimes when copying and pasting in text from windows / docx or whatever you
