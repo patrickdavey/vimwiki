@@ -21,11 +21,11 @@ a craftsman, that's when the pillars of *impact, creativity and control* will
 come out in the your job.
 
 ====10,000 Hours====
-Well, 10000 hours is all well and good, but only if you're putting in
+10,000 hours is all well and good, but only if you're putting in
 deliberate practice - otherwise you're just going to plateaux.  The problem
 with deliberate practice is that it's hard work and it's uncomfortable hard
-work at that.  It takes you past where you're comfortable - or from the [[Ruby
-Rogues Episode|http://rubyrogues.com/131-rr-how-to-learn/]] you need to push
+work at that.  It takes you past where you're comfortable - or from the
+[[http://rubyrogues.com/131-rr-how-to-learn/|Ruby Rogues Episode]] you need to push
 into the things that are hard, embrace, extend!
 
 {{{
