@@ -24,3 +24,25 @@
  [[http://blog.codeclimate.com/blog/2013/08/07/deciphering-ruby-code-metrics|Ruby Code Metrics]]
 
 [[https://gist.github.com/nellshamrell/6031738|Link to gist on Regex links]]
+
+
+Nice example of a decorator
+{{{class="brush: ruby"
+class ItemDecorator
+  def self.build_collection(items)
+    items.map { |item| new(item) }
+  end
+
+  def initialize(item)
+    @item = item
+  end
+
+  def method_missing(method_name, *args, &block)
+    @item.send(method_name, *args, &block)
+  end
+
+  def respond_to_missing?(method_name, include_private = false)
+    @item.respond_to?(method_name, include_private) || super
+  end
+end
+ }}}
