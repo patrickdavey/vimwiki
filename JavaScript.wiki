@@ -8,3 +8,5 @@
 
 [[http://blog.bigbinary.com/2011/08/18/understanding-bind-and-bindall-in-backbone.html|Good write up on Bind]]
 http://ejohn.org/apps/learn/#2
+
+http://perfectionkills.com/understanding-delete/
