@@ -5,3 +5,7 @@ http://freedns.afraid.org/ - free dyndns it seems
 http://subtlepatterns.com/tag/light/
 
 http://www.sitebuilderreport.com/websites-101/design-guides/where-the-best-designers-go-to-find-photos-and-graphics
+
+next two links about hosting a static site on S3 with cloudfront
+http://caisson.co/
+http://paulstamatiou.com/hosting-on-amazon-s3-with-cloudfront/
