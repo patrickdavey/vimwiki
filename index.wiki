@@ -4,6 +4,7 @@
     * [[Git Tips]]-- anything to do with git.
     * [[Bash Tips]]-- anything to do with bash.
     * [[Mysql Tips]]-- anything to do with mysql.
+    * [[css - responsive - design Tips]]-- anything to do with css etc..
     * [[Refinery]]-- useful Refinery Stuff
     * [[Ruby]]-- useful Ruby Stuff
     * [[Backbone]]-- useful Backbone Stuff
