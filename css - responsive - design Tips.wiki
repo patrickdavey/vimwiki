@@ -1,8 +1,8 @@
-[[http://www.abookapart.com/products/responsive-web-design|Responsive Web]]
-[[http://easy-readers.net/books/adaptive-web-design/|Adaptive Web Design]]
-[[http://responsive.is/|Responsive.is]]
-[[http://www.markboulton.co.uk/|The Personal Disquiet of Mark Boulton]]
-[[http://futurefriend.ly/resources.html|Future Friendly Resources]]
-[[http://www.lukew.com/|LukeW Ideation + Design]]
-[[http://mediaqueri.es/|Media Queries]]
-[[https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag|Viewport Meta Tag]]
+[[http://www.abookapart.com/products/responsive-web-design|Responsive Web]]<br>
+[[http://easy-readers.net/books/adaptive-web-design/|Adaptive Web Design]]<br>
+[[http://responsive.is/|Responsive.is]]<br>
+[[http://www.markboulton.co.uk/|The Personal Disquiet of Mark Boulton]]<br>
+[[http://futurefriend.ly/resources.html|Future Friendly Resources]]<br>
+[[http://www.lukew.com/|LukeW Ideation + Design]]<br>
+[[http://mediaqueri.es/|Media Queries]]<br>
+[[https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag|Viewport Meta Tag]]<br>

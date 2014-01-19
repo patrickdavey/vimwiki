@@ -8,4 +8,9 @@ http://www.sitebuilderreport.com/websites-101/design-guides/where-the-best-desig
 
 next two links about hosting a static site on S3 with cloudfront
 http://caisson.co/
+
 http://paulstamatiou.com/hosting-on-amazon-s3-with-cloudfront/
+
+http://barrysmyth.me/2014/01/18/building-a-better-ski-app/
+
+http://vimwiki.googlecode.com/hg/misc/Vimwiki1.1.1QR.pdf
