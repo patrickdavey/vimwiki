@@ -27,3 +27,6 @@ Copy untracked files into a different directory
 
 List tags and their annotated messages
 `git tag -l -n1`
+
+Order branches by latest commit
+`git for-each-ref --count=30 --sort=-committerdate refs/heads/ --format='%(refname:short)'`

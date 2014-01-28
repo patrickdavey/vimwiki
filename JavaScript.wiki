@@ -10,3 +10,5 @@
 http://ejohn.org/apps/learn/#2
 
 http://perfectionkills.com/understanding-delete/
+
+http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
