@@ -12,3 +12,5 @@ http://ejohn.org/apps/learn/#2
 http://perfectionkills.com/understanding-delete/
 
 http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript

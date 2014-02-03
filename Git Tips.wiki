@@ -30,3 +30,7 @@ List tags and their annotated messages
 
 Order branches by latest commit
 `git for-each-ref --count=30 --sort=-committerdate refs/heads/ --format='%(refname:short)'`
+
+Delete branches merged into current branch (note will delete master if you're
+not on it)
+`git branch --merged | grep -v "\*" | xargs -n 1 git branch -d`
