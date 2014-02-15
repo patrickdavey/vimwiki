@@ -18,3 +18,9 @@ using find and grep
 }}}
 
 Show two lines after the matching grep
+
+{{{class="brush: bash"
+  ls -lSrh
+}}}
+
+list files by increasing (human readable) sizes

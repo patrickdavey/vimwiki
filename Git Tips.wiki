@@ -34,3 +34,5 @@ Order branches by latest commit
 Delete branches merged into current branch (note will delete master if you're
 not on it)
 `git branch --merged | grep -v "\*" | xargs -n 1 git branch -d`
+
+[[http://git-scm.com/blog|Excellent introduction to reset]]
