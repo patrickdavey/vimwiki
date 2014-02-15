@@ -31,3 +31,5 @@ http://www.moshebergman.com/2013/04/vagrantchef-soloknife-solo-and-setting-up-us
 http://matteodepalo.github.io/blog/2013/03/07/how-i-migrated-from-heroku-to-digital-ocean-with-chef-and-capistrano/
 
 http://matschaffer.github.io/knife-solo/
+
+https://www.youtube.com/watch?v=hYt0E84kYUI

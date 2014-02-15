@@ -20,3 +20,7 @@ can
 
 Tabular.vim 
 `Tab/:\zs` will line up css nicely on a block
+
+[[http://www.danielmiessler.com/study/vim/|Excellent vim reference]]
+
+
