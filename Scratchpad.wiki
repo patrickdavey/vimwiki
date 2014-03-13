@@ -14,3 +14,9 @@ http://paulstamatiou.com/hosting-on-amazon-s3-with-cloudfront/
 http://barrysmyth.me/2014/01/18/building-a-better-ski-app/
 
 http://vimwiki.googlecode.com/hg/misc/Vimwiki1.1.1QR.pdf
+
+http://asoftmurmur.com/
+
+http://creativecommons.org/licenses/by-sa/2.0/deed.en_GB
+
+http://gofreerange.com/tracing-the-git-history-of-a-ruby-method
