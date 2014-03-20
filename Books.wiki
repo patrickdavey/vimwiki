@@ -6,4 +6,3 @@
 === Read ===
 * [X] Pragmatic Thinking and Learning
 * [X] Crucial Conversations
-* [ ] [[Design of Everyday Things]]
