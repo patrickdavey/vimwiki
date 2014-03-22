@@ -7,6 +7,7 @@
     * [[css - responsive - design Tips]]-- anything to do with css etc..
     * [[Refinery]]-- useful Refinery Stuff
     * [[Ruby]]-- useful Ruby Stuff
+    * [[iOS]]-- useful iOS Stuff
     * [[Backbone]]-- useful Backbone Stuff
     * [[JavaScript]]-- useful JS Stuff
     * [[Tmux]]-- useful Tmux Stuff

@@ -33,3 +33,5 @@ http://matteodepalo.github.io/blog/2013/03/07/how-i-migrated-from-heroku-to-digi
 http://matschaffer.github.io/knife-solo/
 
 https://www.youtube.com/watch?v=hYt0E84kYUI
+
+[[http://blog.cloud66.com/post/72452631738/how-to-manage-your-cloudatcost-vm-with-cloud66|Setting up cloud at cost with cloud66]]
