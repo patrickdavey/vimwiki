@@ -46,3 +46,5 @@ class ItemDecorator
   end
 end
  }}}
+
+ http://www.sitepoint.com/understanding-object-model/

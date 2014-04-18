@@ -1,1 +1,6 @@
 http://blog.heapsource.com/post/55696145680/effortless-two-factor-authentication-in-rails
+
+==Test Links==
+http://www.sitepoint.com/lite-spec-helper-faster-rails-tests/
+http://stackoverflow.com/questions/9822624/rails-isolated-tests-running-under-rails-env
+
