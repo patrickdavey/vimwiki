@@ -1,1 +1,3 @@
 http://blog.heapsource.com/post/55696145680/effortless-two-factor-authentication-in-rails
+
+http://viget.com/extend/8-insanely-useful-activeadmin-customizations
