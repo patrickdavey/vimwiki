@@ -47,4 +47,5 @@ class ItemDecorator
 end
  }}}
 
- http://www.sitepoint.com/understanding-object-model/
+http://www.sitepoint.com/understanding-object-model/
+https://github.com/cypriss/mutations

@@ -4,3 +4,4 @@ http://blog.heapsource.com/post/55696145680/effortless-two-factor-authentication
 http://www.sitepoint.com/lite-spec-helper-faster-rails-tests/
 http://stackoverflow.com/questions/9822624/rails-isolated-tests-running-under-rails-env
 
+http://viget.com/extend/8-insanely-useful-activeadmin-customizations

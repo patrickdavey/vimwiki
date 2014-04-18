@@ -7,7 +7,12 @@
 [[http://mediaqueri.es/|Media Queries]]<br>
 [[https://developer.mozilla.org/en-US/docs/Mozilla/Mobile/Viewport_meta_tag|Viewport Meta Tag]]<br>
 http://www.iconsdb.com/ <br>
+<<<<<<< HEAD
 
 http://www.sitepoint.com/maintain-image-aspect-ratios-responsive-web-design/
 
 http://learnlayout.com/
+=======
+https://placeit.net/ <br>
+http://www.colormoo.com/ <br>
+>>>>>>> 3585d0c9e6f9255c06089cd6c9ca208f97efa062
