@@ -49,3 +49,4 @@ end
 
 http://www.sitepoint.com/understanding-object-model/
 https://github.com/cypriss/mutations
+[[https://hakiri.io/facets|Gemfile.lock checker]]
