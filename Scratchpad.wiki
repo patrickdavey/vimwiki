@@ -22,3 +22,7 @@ http://creativecommons.org/licenses/by-sa/2.0/deed.en_GB
 http://gofreerange.com/tracing-the-git-history-of-a-ruby-method
 
 [[https://news.ycombinator.com/item?id=7495337|Password Manager HN Thread]]
+
+http://luminescente.com/2014/03/how-to-build-your-own-phonegap-clone-on-ios/
+
+http://www.higherorderheroku.com/articles/cloudflare-dns-heroku/

@@ -37,3 +37,5 @@ https://www.youtube.com/watch?v=hYt0E84kYUI
 [[http://blog.cloud66.com/post/72452631738/how-to-manage-your-cloudatcost-vm-with-cloud66|Setting up cloud at cost with cloud66]]
 
 tasksel - useful command line installer
+
+http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers

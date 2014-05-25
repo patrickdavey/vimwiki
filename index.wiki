@@ -12,7 +12,7 @@
     * [[JavaScript]]-- useful JS Stuff
     * [[Tmux]]-- useful Tmux Stuff
     * [[Rails]]-- useful Rails Stuff
-    * [[Scratchpad]] -- various temporary stuff.
+    * [[Scratchpad]] temporary stuff.
     * [[Server Setup]] -- checklist to setup a server.
     * [[Todo]] -- things to do
     * [[Quotes]] -- Nothing to do with programming!
