@@ -26,3 +26,7 @@ http://gofreerange.com/tracing-the-git-history-of-a-ruby-method
 http://luminescente.com/2014/03/how-to-build-your-own-phonegap-clone-on-ios/
 
 http://www.higherorderheroku.com/articles/cloudflare-dns-heroku/
+
+https://help.github.com/articles/using-jekyll-with-pages
+
+http://samlevy.me/blog/2013/deploying-middleman-with-amazon-s3-cloudfront-and-route-53/

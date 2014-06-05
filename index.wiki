@@ -17,5 +17,6 @@
     * [[Todo]] -- things to do
     * [[Quotes]] -- Nothing to do with programming!
     * [[Movies to watch]] -- Movies to watch
+    * [[lent items]]
 
 
