@@ -12,6 +12,10 @@ Search and Replace in files
 }}}
 using find and grep
 
+{{{class="brush: bash"
+  find . -name *.swp -exec rm -rf {} \;
+}}}
+Find and delete swap files
 
 {{{class="brush: bash"
   grep -R -A 2 matching *

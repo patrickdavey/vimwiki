@@ -24,7 +24,7 @@
 * [ ] Setup apache virtual-hosts directives for specific sites
 * [ ] Find out what a deploy user should be able to do - file system
 
-
+ 'unattended-upgrades' - ubuntu auto update - look into this
 possibly useful links:
 http://www.moshebergman.com/2013/04/vagrantchef-soloknife-solo-and-setting-up-users/
 
