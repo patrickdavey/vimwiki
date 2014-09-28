@@ -6,6 +6,7 @@ http://subtlepatterns.com/tag/light/
 
 http://www.sitebuilderreport.com/websites-101/design-guides/where-the-best-designers-go-to-find-photos-and-graphics
 
+
 next two links about hosting a static site on S3 with cloudfront
 http://caisson.co/
 
@@ -30,3 +31,15 @@ http://www.higherorderheroku.com/articles/cloudflare-dns-heroku/
 https://help.github.com/articles/using-jekyll-with-pages
 
 http://samlevy.me/blog/2013/deploying-middleman-with-amazon-s3-cloudfront-and-route-53/
+
+http://c2.com/cgi/wiki?SoftwareDesignPatternsIndex
+
+https://bookofbadarguments.com/
+
+https://raygun.io/pricing
+
+https://www.sleepio.com/buy/
+
+http://www.passwordstore.org/
+
+[[https://support.google.com/mail/answer/7190?hl=en|Google Mail Search Tips]]

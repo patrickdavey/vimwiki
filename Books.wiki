@@ -1,13 +1,14 @@
 === To Read ===
 * [ ] 7 languages in 7 weeks
 * [ ] [[http://www.feynmanlectures.caltech.edu/I_toc.html|Feynman Lectures]]
-* [ ] A Clash of Kings
-* [ ] A Storm of Swords
-* [ ] A Feast for Crows
-* [ ] A Dance with Dragons
+* [ ] [[Objects on Rails]]
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
 * [X] Crucial Conversations
 * [X] [[So Good they can't ignore you]]
 * [X] A Game of Thrones
+* [X] A Clash of Kings
+* [X] A Storm of Swords
+* [X] A Feast for Crows
+* [X] A Dance with Dragons

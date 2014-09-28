@@ -6,7 +6,6 @@
 }}}
 Search and Replace in files
 
-
 {{{class="brush: bash"
   find . -name Gemfile | xargs grep blog
 }}}
@@ -20,11 +19,14 @@ Find and delete swap files
 {{{class="brush: bash"
   grep -R -A 2 matching *
 }}}
-
 Show two lines after the matching grep
 
 {{{class="brush: bash"
   ls -lSrh
 }}}
-
 list files by increasing (human readable) sizes
+
+{{{class="brush: bash"
+  rm -rf !(keep)
+}}}
+remove all files except the file/directory called 'keep'

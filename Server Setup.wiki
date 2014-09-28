@@ -18,7 +18,7 @@
   - [ ] mysql secure installation?
 * [ ] Install postresql
   - [ ] secure installation?
-* [ ] Install brightbox ppa for ruby
+* [ ] Install [[http://brightbox.com/docs/ruby/ubuntu/|brightbox ppa for ruby]]
   - [ ] install ruby2, 1.9 (how to switch between them)
 * [ ] Install mod-passenger
 * [ ] Setup apache virtual-hosts directives for specific sites
@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=hYt0E84kYUI
 tasksel - useful command line installer
 
 http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers
+
+[[Useful IRC Transcript]]
+

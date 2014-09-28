@@ -19,5 +19,6 @@
     * [[Movies to watch]] -- Movies to watch
     * [[lent items]]
     * [[bike stuff]]
+    * [[raspberrypi]]
 
 
