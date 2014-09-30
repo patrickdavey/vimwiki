@@ -18,3 +18,5 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_Jav
 [[http://coffeescriptcookbook.com/chapters/strings/capitalizing-words|CoffeeScript cookbook ]]
 
 http://www.objectplayground.com/
+
+[[http://addyosmani.com/resources/essentialjsdesignpatterns/book/|Javascript Design Patterns]]
