@@ -43,3 +43,11 @@ https://www.sleepio.com/buy/
 http://www.passwordstore.org/
 
 [[https://support.google.com/mail/answer/7190?hl=en|Google Mail Search Tips]]
+
+Change vimwiki to work with markdown
+https://vimwiki.googlecode.com/hg-history/afe0572c9e4a27432866135801388b0479df453a/src/autoload/vimwiki/customwiki2html.sh
+
+https://readme.io/
+
+= regex =
+http://regex101.com/ very nice explain tool

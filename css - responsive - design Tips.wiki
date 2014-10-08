@@ -13,5 +13,5 @@ http://www.sitepoint.com/maintain-image-aspect-ratios-responsive-web-design/
 http://learnlayout.com/
 https://placeit.net/ <br>
 http://www.colormoo.com/ <br>
-
-http://www.goodui.org/
+http://www.goodui.org/ <br>
+[[http://www.evotech.net/articles/testjsentities.html| HTML entity converter]] <br/>
