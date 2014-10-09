@@ -3,4 +3,4 @@ require 'pry'
 require 'pry-remote'
 
 a = 1
-binding.pry
+binding.pry_remote
