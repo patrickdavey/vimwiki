@@ -1,6 +1,9 @@
 #!/usr/bin/env ruby
 require 'pry'
 require 'pry-remote'
+require './options.rb'
 
-a = 1
-binding.pry_remote
+
+
+# this is what you're passed in ARGV
+options = Options.new
