@@ -1,4 +1,4 @@
-# Patrick Davey personal Wiki
+## Patrick Davey personal Wiki
 * [[Books]] -- to read
 * [[Vim Tips]]-- anything to do with vim.
 * [[Git Tips]]-- anything to do with git.
