@@ -5,7 +5,7 @@
 # every minute between 8am and 18:00.
 #
 # m h  dom mon dow   command
-* 8,9,10,11,12,13,14,15,16,17,18 * * * /home/pi/cron_scripts/camera.sh
+* 8-18 * * * /home/pi/cron_scripts/camera.sh
 
 ```
 
