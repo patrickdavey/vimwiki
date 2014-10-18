@@ -5,7 +5,6 @@
 * [[Bash Tips]]-- anything to do with bash.
 * [[Mysql Tips]]-- anything to do with mysql.
 * [[css - responsive - design Tips]]-- anything to do with css etc..
-* [[Refinery]]-- useful Refinery Stuff
 * [[Backbone]]-- useful Backbone Stuff
 * [[Tmux]]-- useful Tmux Stuff
 * [[Rails]]-- useful Rails Stuff

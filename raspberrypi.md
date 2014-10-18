@@ -2,3 +2,8 @@ http://www.instructables.com/id/Simple-timelapse-camera-using-Raspberry-Pi-and-a
 raspistill -t 0 -tl 5000 -o image%04d.jpg
 
 [[My setup for timelapse]]
+
+[nice hack for a video in
+markdown](http://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
+
+

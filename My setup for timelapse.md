@@ -2,7 +2,7 @@
 ```bash
 #
 # This crontab tells the camera to run the camera.sh script
-# every minute between 8am and 18:00.
+# every minute between 8am and 18:59.
 #
 # m h  dom mon dow   command
 * 8-18 * * * /home/pi/cron_scripts/camera.sh
