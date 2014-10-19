@@ -1,4 +1,4 @@
-##Shopping List##
+## Shopping List ##
 If you want to build this yourself... there are a few things you'll need to get
 
 1. [A Raspberry Pi, this is the B+ I had the B](http://www.adafruit.com/products/1914)
