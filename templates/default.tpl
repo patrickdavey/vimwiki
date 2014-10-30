@@ -5,16 +5,6 @@
     <link type="text/css" rel="stylesheet" href="./style.css" />
     <link type="text/css" rel="stylesheet" href="./styles/bootstrap.min.css" />
     <link type="text/css" rel="stylesheet" href="./overrides.css" />
-    <link type="text/css" rel="stylesheet" href="./styles/shCore.css" />
-    <link type="text/css" rel="stylesheet" href="./styles/shThemeDefault.css" />
-    <script type="text/javascript" src="./scripts/shCore.js"></script>
-    <script type="text/javascript" src="./scripts/shBrushRuby.js"></script>
-    <script type="text/javascript" src="./scripts/shObjectiveC.js"></script>
-    <script type="text/javascript" src="./scripts/shBrushBash.js"></script>
-    <script type="text/javascript" src="./scripts/shBrushJScript.js"></script>
-    <script type="text/javascript">
-      SyntaxHighlighter.all();
-    </script>
   <title>%title%</title>
   <meta http-equiv="Content-Type" content="text/html; charset=%encoding%">
   %pygments%
