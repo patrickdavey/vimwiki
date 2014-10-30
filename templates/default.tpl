@@ -17,9 +17,7 @@
     </script>
   <title>%title%</title>
   <meta http-equiv="Content-Type" content="text/html; charset=%encoding%">
-  <style>
-    %pygments%
-  </style>
+  %pygments%
 </head>
 <body id="%title%">
   <div class="navbar navbar-inverse navbar-fixed-top">
