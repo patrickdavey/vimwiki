@@ -1,8 +1,8 @@
-### Summary of (So good they can't ignore you)[http://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/] ###
+### Summary of [So good they can't ignore you](http://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/) ###
 
 Link to a bunch of interviews with different people about their career paths.
 Watch the one with Irie Glass (This American Life fame)
-(Road Trip Nation)[http://roadtripnation.com/explore/index]
+[Road Trip Nation](http://roadtripnation.com/explore/index)
 
 Basically the idea of *_follow your passion_* is bad advice.  Get the skills
 first and then you'll be able to get the career / job / calling you want.
@@ -25,7 +25,7 @@ come out in the your job.
 deliberate practice - otherwise you're just going to plateaux.  The problem
 with deliberate practice is that it's hard work and it's uncomfortable hard
 work at that.  It takes you past where you're comfortable - or from the
-(Ruby Rogues Episode)[http://rubyrogues.com/131-rr-how-to-learn/] you need to push
+[Ruby Rogues Episode](http://rubyrogues.com/131-rr-how-to-learn/) you need to push
 into the things that are hard, embrace, extend!
 
     Deliberate Practice is actively designed, typically by a teacher, for the
