@@ -24,6 +24,7 @@
 
 [[https://gist.github.com/nellshamrell/6031738|Link to gist on Regex links]]
 
+http://andycroll.com/ruby/benchmarking-each_with_object-against-inject-when-building-hashes-from-arrays
 
 Nice example of a decorator
 ```ruby
