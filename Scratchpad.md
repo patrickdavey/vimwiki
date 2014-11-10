@@ -54,3 +54,6 @@ http://regex101.com/ very nice explain tool
 
 
 http://www.dancarlin.com/product/hardcore-history-50-blueprint-for-armageddon-i/
+
+
+[https://play.google.com/store/apps/details?id=com.blogspot.solheimsoftware.gps.location.saver](Possibly useful gps location)

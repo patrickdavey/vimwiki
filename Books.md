@@ -1,5 +1,6 @@
 === To Read ===
 * [ ] 7 languages in 7 weeks
+* [ ] [[Design Patterns in Ruby]]
 * [ ] [[Thinking fast and slow]]
 * [ ] [[http://www.feynmanlectures.caltech.edu/I_toc.html|Feynman Lectures]]
 
