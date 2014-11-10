@@ -1,2 +1,4 @@
 * [[Template Pattern]]
 * [[Strategy Pattern]]
+* [[Observer Pattern]]
+* [[Composite Pattern]]
