@@ -3,3 +3,4 @@
 * [[Observer Pattern]]
 * [[Composite Pattern]]
 * [[Iterator Pattern]]
+* [[Command Pattern]]
