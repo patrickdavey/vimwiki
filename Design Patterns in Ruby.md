@@ -2,3 +2,4 @@
 * [[Strategy Pattern]]
 * [[Observer Pattern]]
 * [[Composite Pattern]]
+* [[Iterator Pattern]]
