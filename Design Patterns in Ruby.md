@@ -1,1 +1,2 @@
 * [[Template Pattern]]
+* [[Strategy Pattern]]
