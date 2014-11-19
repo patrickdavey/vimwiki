@@ -12,3 +12,5 @@ http://www.sitepoint.com/basecamp-like-subdomains-with-devise/
 flog, flay, rails-best-practice : test out these gems
 
 http://rubyweekly.com/issues/213 possibly useful upgrade 3.2 4.+ links
+
+[Really nice video on Draper, by Jeff Casimir - Mr. Draper](https://www.youtube.com/watch?v=VC5z8nadnQE)

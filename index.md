@@ -7,7 +7,6 @@
 * [[css - responsive - design Tips]]-- anything to do with css etc..
 * [[Backbone]]-- useful Backbone Stuff
 * [[Tmux]]-- useful Tmux Stuff
-* [[Rails]]-- useful Rails Stuff
 * [[Scratchpad]] temporary stuff.
 * [[Server Setup]] -- checklist to setup a server.
 * [[Todo]] -- things to do
@@ -18,7 +17,8 @@
 * [[raspberrypi]]
 
 
-## Languages
+## Languages & Frameworks
 * [[Ruby]]-- useful Ruby Stuff
+* [[Rails]]-- useful Rails Stuff
 * [[iOS]]-- useful iOS Stuff
 * [[JavaScript]]-- useful JS Stuff

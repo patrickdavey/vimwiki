@@ -127,3 +127,5 @@ with_game "Bomber Raid" do
   capture_screenshot
 end
 ```
+
+[[Example of a decorator]]
