@@ -3,6 +3,17 @@
   <% major = Story.offset(rand(Story.count)).first.major %>
 ```
 
+```ruby
+# given a hash representing a bunch of string mappings
+# i.e. { 'string_a' => 'string_b' }
+# this wee beauty will do the mappings for you
+
+re = Regexp.union(mappings.keys)
+array_of_string_to_replace_over.each do |string|
+  string.gsub(re, mappings)
+end
+```
+
 
 ```ruby
   #case statements in erb are a bit weird
