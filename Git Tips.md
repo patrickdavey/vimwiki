@@ -25,6 +25,11 @@ Copy untracked files into a different directory
   git ls-files --others --exclude-standard -z | cpio -pmd0 ../untracked-backup/
 ```
 
+Zip up files which have changed between current branch and master
+```bash
+  git diff master --name-only | zip -@ changed.zip
+```
+
 List tags and their annotated messages
 `git tag -l -n1`
 
