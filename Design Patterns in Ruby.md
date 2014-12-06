@@ -4,3 +4,4 @@
 * [[Composite Pattern]]
 * [[Iterator Pattern]]
 * [[Command Pattern]]
+* [[Adapter Pattern]]
