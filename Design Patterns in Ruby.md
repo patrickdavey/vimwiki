@@ -5,3 +5,4 @@
 * [[Iterator Pattern]]
 * [[Command Pattern]]
 * [[Adapter Pattern]]
+* [[Proxy Pattern]]
