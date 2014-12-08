@@ -3,7 +3,7 @@
     The estimated rates of extintion are now 1,000 times
     what they would be without human impact.
 
-
+ 
     At present, there is little near-term concern over petroleum
     supplies... The world's petroleum resources are finite, however,
     and global production will eventually peak and then start to
