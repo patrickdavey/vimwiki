@@ -2,25 +2,34 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <link type="text/css" rel="stylesheet" href="./style.css" />
-    <link type="text/css" rel="stylesheet" href="./styles/bootstrap.min.css" />
-    <link type="text/css" rel="stylesheet" href="./overrides.css" />
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <style>
+      body { padding: 60px; 0px; }
+      pre {
+        overflow-x: auto;
+      }
+      pre code {
+        overflow-wrap: normal;
+        white-space: pre;
+      }
+    </style>
   <title>%title%</title>
   <meta http-equiv="Content-Type" content="text/html; charset=%encoding%">
   %pygments%
 </head>
 <body id="%title%">
-  <div class="navbar navbar-inverse navbar-fixed-top">
-    <div class="navbar-inner">
-      <div class="container">
-        <a class="brand" href="index.html">Wiki</a>
+  <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="index.html">Wiki</a>
       </div>
     </div>
-  </div>
+  </nav>
 
   <div class="container">
     <div class="row">
-      <div class="span12">
+      <div class="col-md-12">
         <h2 id="title">%title%</h2>
         %content%
       </div>
