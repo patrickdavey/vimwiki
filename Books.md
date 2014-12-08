@@ -1,7 +1,7 @@
 === To Read ===
 * [ ] 7 languages in 7 weeks
-* [ ] [[Design Patterns in Ruby]]
 * [ ] [[Thinking fast and slow]]
+* [ ] [[Limits to growth - the 30 year update]]
 * [ ] [[http://www.feynmanlectures.caltech.edu/I_toc.html|Feynman Lectures]]
 
 === Read ===
@@ -14,3 +14,4 @@
 * [X] A Storm of Swords
 * [X] A Feast for Crows
 * [X] A Dance with Dragons
+* [X] [[Design Patterns in Ruby]]
