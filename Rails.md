@@ -15,3 +15,8 @@ http://rubyweekly.com/issues/213 possibly useful upgrade 3.2 4.+ links
 
 [Really nice video on Draper, by Jeff Casimir - Mr. Draper](https://www.youtube.com/watch?v=VC5z8nadnQE)
 [Foreign Keys](http://robots.thoughtbot.com/referential-integrity-with-foreign-keys)
+
+```ruby
+# useful for printing out SQL in rails2 console
+  ActiveRecord::Base.connection.instance_variable_set :@logger, Logger.new(STDOUT)
+```

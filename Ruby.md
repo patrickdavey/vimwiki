@@ -64,10 +64,6 @@ https://github.com/cypriss/mutations
 [[https://hakiri.io/facets|Gemfile.lock checker]]
 
 
-```ruby
-# useful for printing out SQL in rails2 console
-  ActiveRecord::Base.connection.instance_variable_set :@logger, Logger.new(STDOUT)
-```
 
 ```ruby
 # basic DSL example
