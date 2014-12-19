@@ -1,7 +1,6 @@
 === To Read ===
 * [ ] 7 languages in 7 weeks
 * [ ] [[Thinking fast and slow]]
-* [ ] [[Limits to growth - the 30 year update]]
 * [ ] [[http://www.feynmanlectures.caltech.edu/I_toc.html|Feynman Lectures]]
 
 === Read ===
@@ -15,6 +14,7 @@
 * [X] A Feast for Crows
 * [X] A Dance with Dragons
 * [X] [[Design Patterns in Ruby]]
+* [X] [[Limits to growth - the 30 year update]]
 
 
 [HN Thread on interesting books](https://news.ycombinator.com/item?id=8716111)

@@ -44,4 +44,55 @@ Report.new(&HTML_FORMATTER)
 report.output_report
 ```
 
+Another nice way, which I _think_ is Strategy patternesque mentioned
+in the Eloquent Ruby book was to use modules and interchange
+dynamically... e.g.
 
+```ruby
+module FancyWriter
+  class Setup
+    def something
+      # do something
+    end
+  end
+
+  class Performer
+    def some_other_method
+      # ommitted for .. fun
+    end
+  end
+end
+
+module LessFancyWriter
+  class Setup
+    def something
+      # do something
+    end
+  end
+
+  class Performer
+    def some_other_method
+      # ommitted for .. fun
+    end
+  end
+end
+
+#now we can just interchange the two at runtime
+
+if something_is_fancy?
+  writer = FancyWriter
+else
+  writer = LessFancyWriter
+end
+
+# ok, or...
+writer = something_is_fancy? ? FancyWriter : LessFancyWriter
+# whatever, purists
+
+#then we just call as normalish
+
+writer::Setup
+writer::Performer
+
+# ok, so not the nicest class names, but naming is hard, naming is hard.
+```
