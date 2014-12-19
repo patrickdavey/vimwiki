@@ -3,21 +3,25 @@
 [Git Commit Hooks for auto deploying](http://toroid.org/ams/git-website-howto)
 
 
-If you happen to want to run vim in a git commit hook, like I do for this wiki
 
 ```bash
   #!/bin/bash
   vim - "+VimwikiIndex" "+VimwikiAll2HTML" "+quit"
   ~/vimwiki/site_html/sync.sh
 ```
+If you happen to want to run vim in a git commit hook, like I do for this wiki
 
-
-ignore a file locally which has been checked into git (useful for database.yml
-for example)
 
 ```bash
   git update-index --skip-worktree FILENAME
 ```
+ignore a file locally which has been checked into git (useful for database.yml
+for example)
+
+```bash
+  git ls-files -v | grep '^S'
+```
+Show the locally ignored (skipped) files (i.e. to find what you did above)
 
 
 Copy untracked files into a different directory

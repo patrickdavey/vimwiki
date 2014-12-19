@@ -15,3 +15,6 @@
 * [X] A Feast for Crows
 * [X] A Dance with Dragons
 * [X] [[Design Patterns in Ruby]]
+
+
+[HN Thread on interesting books](https://news.ycombinator.com/item?id=8716111)

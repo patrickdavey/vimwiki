@@ -20,3 +20,5 @@ http://rubyweekly.com/issues/213 possibly useful upgrade 3.2 4.+ links
 # useful for printing out SQL in rails2 console
   ActiveRecord::Base.connection.instance_variable_set :@logger, Logger.new(STDOUT)
 ```
+
+[Refactoring Rails Recipes](http://rails-refactoring.com/recipes/)

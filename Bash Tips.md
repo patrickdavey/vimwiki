@@ -37,3 +37,9 @@ remove all files except the file/directory called 'keep'
   | grep -v '\(system\|stylesheets\|javascripts\)' > sorted_unique.txt
 ```
 spider a site to make a rudimentary sitemap
+
+
+```bash
+# list directories by size
+du -sh ./*/
+```
