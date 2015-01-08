@@ -16,6 +16,7 @@
 * [[bike stuff]]
 * [[raspberrypi]]
 * [[docker]]
+* [[privacy]]
 
 
 ## Languages & Frameworks

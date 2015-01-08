@@ -136,3 +136,8 @@ end
 ```
 
 [[Example of a decorator]]
+
+[[Playing with iterators]]
+
+[Awesome awesome link about blocks, procs and closures](https://innig.net/software/ruby/closures-in-ruby)
+

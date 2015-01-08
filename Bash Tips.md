@@ -43,3 +43,5 @@ spider a site to make a rudimentary sitemap
 # list directories by size
 du -sh ./*/
 ```
+
+[Intro to sed](http://www.grymoire.com/Unix/Sed.html#uh-0)
