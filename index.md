@@ -17,6 +17,7 @@
 * [[raspberrypi]]
 * [[docker]]
 * [[privacy]]
+* [[speaking and presentations]]
 
 
 ## Languages & Frameworks

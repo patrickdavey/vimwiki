@@ -1,5 +1,6 @@
 === To Read ===
 * [ ] 7 languages in 7 weeks
+* [ ] [Harry potter and the methods of rationality](http://hpmor.com/chapter/2)
 * [ ] [[Thinking fast and slow]]
 * [ ] [[http://www.feynmanlectures.caltech.edu/I_toc.html|Feynman Lectures]]
 
