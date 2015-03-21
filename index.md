@@ -18,6 +18,12 @@
 * [[docker]]
 * [[privacy]]
 * [[speaking and presentations]]
+* [[stuff to buy maybe someday]]
+* [[database tools]]
+
+## Hack ideas
+* [[anki - meetup.com integration]]
+* [[timelapses]]
 
 
 ## Languages & Frameworks

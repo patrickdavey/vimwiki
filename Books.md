@@ -19,3 +19,19 @@
 
 
 [HN Thread on interesting books](https://news.ycombinator.com/item?id=8716111)
+
+
+(Chronological Hornblower Series)
+Mr Midshipman Hornblower
+Lieutenant Hornblower
+Hornblower and the Hotspur
+Hornblower and the Crisis - unfinished* (Hornblower during the Crisis)
+Hornblower and the Atropos
+The Happy Return (Beat to Quarters)
+A Ship of the Line (Ship of the Line)
+Flying Colours
+The Commodore (Commodore Hornblower)
+Lord Hornblower
+Hornblower in the West Indies (Admiral Hornblower in the West Indies)
+
+

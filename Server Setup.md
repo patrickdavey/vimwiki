@@ -24,12 +24,14 @@
 * [ ] Install mod-passenger
 * [ ] Setup apache virtual-hosts directives for specific sites
 * [ ] Find out what a deploy user should be able to do - file system
-
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-14-04
  'unattended-upgrades' - ubuntu auto update - look into this
 possibly useful links:
 http://www.moshebergman.com/2013/04/vagrantchef-soloknife-solo-and-setting-up-users/
 
 http://matteodepalo.github.io/blog/2013/03/07/how-i-migrated-from-heroku-to-digital-ocean-with-chef-and-capistrano/
+
+https://gorails.com/deploy/ubuntu/14.04
 
 http://matschaffer.github.io/knife-solo/
 

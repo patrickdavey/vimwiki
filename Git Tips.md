@@ -8,6 +8,10 @@
   #!/bin/bash
   vim - "+VimwikiIndex" "+VimwikiAll2HTML" "+quit"
   ~/vimwiki/site_html/sync.sh
+  
+  # also, if you want to just send normal commands
+  # the following would move you into the second wiki
+  vim - "+normal 2\ww" "+VimwikiAll2HTML" "+quit"
 ```
 If you happen to want to run vim in a git commit hook, like I do for this wiki
 
