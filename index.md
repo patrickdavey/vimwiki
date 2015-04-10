@@ -20,9 +20,9 @@
 * [[speaking and presentations]]
 * [[stuff to buy maybe someday]]
 * [[database tools]]
+* [[Coursera]]
 
 ## Hack ideas
-* [[anki - meetup.com integration]]
 * [[timelapses]]
 
 

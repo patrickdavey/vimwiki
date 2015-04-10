@@ -22,3 +22,6 @@ http://rubyweekly.com/issues/213 possibly useful upgrade 3.2 4.+ links
 ```
 
 [Refactoring Rails Recipes](http://rails-refactoring.com/recipes/)
+
+
+http://awesome-ruby.com/
