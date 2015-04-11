@@ -22,3 +22,5 @@ https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-us
 http://bigcowpi.blogspot.co.nz/2013/03/pi-3g-router-query-signal-quality-and.html
 http://www.raspberrypi.org/forums/viewtopic.php?t=9646
 http://elinux.org/RPi_Powered_USB_Hubs
+
+https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-usbmodeswitch-and-wvdial
