@@ -23,4 +23,4 @@ Tabular.vim
 
 [Excellent vim reference](http://www.danielmiessler.com/study/vim/)
 
-
+http://www.viemu.com/a-why-vi-vim.html

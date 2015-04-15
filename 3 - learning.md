@@ -22,3 +22,26 @@ together into a chunk.  One effective way, especially when you're learning new s
 just learned it.  That way you will find out whether you really have understood it or not. _Close the book and test yourself!_
 - Practice.  Part of this is gaining context.  IE the attention & understanding parts get you the chunk (what it is), the practice gives you the
 bigger picutre of when to use the particular chunk.
+
+## Procrastination
+
+When you're thinking about doing something you might not enjoy (learning a new hard skill, doing a tricky piece of work, going to the gym, whatever)
+then your brain activates the pain response.  This can then lead to a (learned) response of procrastination - which gets you out of that painful moment.
+Obviously it's fleeing and not going to really work long term.
+
+Chunks are a sort of energy saver (e.g. once we know how to drive, we don't have to focus on it).  In the same way, procrastination as an automatic response
+can be a very dangerous chunked habit to get into.
+
+### Habits
+
+1. *Cue* Every habit starts with a cue.  Cues are basically neutral, it's what we do with them that make the difference.
+2. *Routine*.  Typical brain response. What you do after the cue has happened.  E.G going to Facebook, eating chocolate etc.
+3. *Reward*. Habits form and continue because we get an immediate reward.  Procrastination gives immediate sense of wellness as we don't have to think about the thing we don't want to
+4. *The Belief*. Habits have power because of your belief in them.  To change a habit you have to change your underlying belief.
+
+### Process not Product.
+
+If you focus on the *product* (e.g. creating some massive feature), then you can get turned off & procrastinate as your brain again has the fear / pain pathways activated.  Better to focus on the *process*, e.g. I'm going to work on this for 25 minutes.  Like today when I did a spike on a refactor and ended up basically implementing the functionlaity required.  Still needs tests though ;)  You need to push those immediate negative (procrastination anyone?) feelings to one side - get stuck into the process.
+
+
+
