@@ -62,3 +62,4 @@ Finally talked about the Memory Palace, which is an idea I'd come across but hav
    get eggs, imagine an huge ostritch egg on a pedastal in the middle of the table.
 3. Practice practice practice.
 
+
