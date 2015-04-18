@@ -44,4 +44,21 @@ can be a very dangerous chunked habit to get into.
 If you focus on the *product* (e.g. creating some massive feature), then you can get turned off & procrastinate as your brain again has the fear / pain pathways activated.  Better to focus on the *process*, e.g. I'm going to work on this for 25 minutes.  Like today when I did a spike on a refactor and ended up basically implementing the functionlaity required.  Still needs tests though ;)  You need to push those immediate negative (procrastination anyone?) feelings to one side - get stuck into the process.
 
 
+## Learning Tricks - Visual system
+
+Our brains, for some odd reason, didn't evolve to remember theoretical software techniques, lists of phone numbers etc.  They _did_ evolve to remember where the really nice berries that you saw last month were, or how to get home after 2 months scavanging around.  Tapping into the visual system is a good hack for trying to remember things.
+
+They gave the example of trying to remember *F = ma* .. the visual queue was a Flying Mule in the Air.  Sure it's mental, but that's the point I guess.  Also talked about Spaced Repitition Systems (like [anki](http://ankisrs.net)).
+
+### Memory Palace
+
+Finally talked about the Memory Palace, which is an idea I'd come across but haven't practiced yet.
+
+1. Get a place you know really well (like your house).  This is actually
+   tricky having moved around so often, I guess you want
+   somewhere that will never really change but that you can visualise well..
+2. Place the objects / ideas / people you're trying to remember in the memory
+   palace, but make them ridiculous.  For example, if you have to remember to
+   get eggs, imagine an huge ostritch egg on a pedastal in the middle of the table.
+3. Practice practice practice.
 
