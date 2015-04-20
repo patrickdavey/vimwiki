@@ -14,9 +14,8 @@ Sometimes when copying and pasting in text from windows / docx or whatever you
 get hex chars which aren't utf-8.  If you want to do a search and replace you
 can
 
-# Find the hex code by putting your cursor on the charachter and pressing `ga`
-# Then use a search/replace string as normal but specifying hex.  E.G
-  `:%s/\%xNN//g`
+1. Find the hex code by putting your cursor on the charachter and pressing `ga`
+2. Then use a search/replace string as normal but specifying hex.  E.G `:%s/\%xNN//g`
 
 Tabular.vim 
 `Tab/:\zs` will line up css nicely on a block

@@ -141,3 +141,4 @@ end
 
 [Awesome awesome link about blocks, procs and closures](https://innig.net/software/ruby/closures-in-ruby)
 
+https://sourcemaking.com/refactoring/bad-smells-in-code

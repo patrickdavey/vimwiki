@@ -25,7 +25,6 @@
 ## Hack ideas
 * [[timelapses]]
 
-
 ## Languages & Frameworks
 * [[Ruby]]-- useful Ruby Stuff
 * [[Rails]]-- useful Rails Stuff
