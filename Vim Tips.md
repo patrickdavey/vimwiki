@@ -17,7 +17,7 @@ can
 1. Find the hex code by putting your cursor on the charachter and pressing `ga`
 2. Then use a search/replace string as normal but specifying hex.  E.G `:%s/\%xNN//g`
 
-Tabular.vim 
+Tabular.vim
 `Tab/:\zs` will line up css nicely on a block
 
 [Excellent vim reference](http://www.danielmiessler.com/study/vim/)
