@@ -62,4 +62,11 @@ Finally talked about the Memory Palace, which is an idea I'd come across but hav
    get eggs, imagine an huge ostritch egg on a pedastal in the middle of the table.
 3. Practice practice practice.
 
+### Study Groups
+
+Not really so applicable now that I'm not in uni, but they can be an effective way to keep you on track.  They point out that the Focused mode is quite able to skip over
+glaring errors, whereas the right brain can help to show you the bigger picture and can help spot macro level errors in your thinking.  Also points out that when you're
+totally certain you're right, that can be the most dangrous time.  To quote Feynman.
+
+`The first principle is that you must not fool yourself, and you are the easiest person to fool`
 
