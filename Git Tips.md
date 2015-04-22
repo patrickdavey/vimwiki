@@ -49,3 +49,22 @@ branch.
 `git branch --merged | grep -v "\*\|master" | xargs -n 1 git branch -d`
 
 [Excellent introduction to reset](http://git-scm.com/blog)
+
+[Nice way to revert a whole lot of commits in one go](http://stackoverflow.com/questions/1895059/revert-to-a-commit-by-a-sha-hash-in-git)
+```bash
+" from the above stack overflow article
+
+"reset the index back to the state you're interested in.
+git reset <sha>
+
+"reset the branch pointer back to previous HEAD .
+git reset --soft HEAD@{1}
+
+"commit your changes
+git commit -m "my happy state"
+
+"update working copy to reflect the current commit
+git reset --hard
+```
+
+
