@@ -52,18 +52,18 @@ branch.
 
 [Nice way to revert a whole lot of commits in one go](http://stackoverflow.com/questions/1895059/revert-to-a-commit-by-a-sha-hash-in-git)
 ```bash
-" from the above stack overflow article
+# from the above stack overflow article
 
-"reset the index back to the state you're interested in.
+# reset the index back to the state you're interested in.
 git reset <sha>
 
-"reset the branch pointer back to previous HEAD .
+# reset the branch pointer back to previous HEAD .
 git reset --soft HEAD@{1}
 
-"commit your changes
+# commit your changes
 git commit -m "my happy state"
 
-"update working copy to reflect the current commit
+# update working copy to reflect the current commit
 git reset --hard
 ```
 
