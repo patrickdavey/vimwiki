@@ -1,6 +1,6 @@
 ## Patrick Davey personal Wiki
 * [[Books]] -- to read
-* [[Vim Tips]]-- anything to do with vim.
+* [[Vim Tips]]-- anything to do with Vim.
 * [[Git Tips]]-- anything to do with git.
 * [[Bash Tips]]-- anything to do with bash.
 * [[Mysql Tips]]-- anything to do with mysql.
@@ -8,7 +8,7 @@
 * [[Backbone]]-- useful Backbone Stuff
 * [[Tmux]]-- useful Tmux Stuff
 * [[Scratchpad]] temporary stuff.
-* [[Server Setup]] -- checklist to setup a server.
+* [[Server Setup]] -- check-list to setup a server.
 * [[Todo]] -- things to do
 * [[Quotes]] -- Nothing to do with programming!
 * [[Movies to watch]] -- Movies to watch
