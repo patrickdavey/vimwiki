@@ -7,6 +7,14 @@
 ```
 
 ```bash
+#search and replace (unix) only matching the first occurance
+
+sed -i   '0,/AUTO_INCREMENT=20252962/s/AUTO_INCREMENT=20252962/AUTO_INCREMENT=0/' /path/todump
+
+         #'0,/WHATTOMATCH/s/WHATTOMATCH/REPLACEIT/'
+```
+
+```bash
 # using find and grep
   find . -name Gemfile | xargs grep blog
 ```

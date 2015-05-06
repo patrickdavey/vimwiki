@@ -1,5 +1,7 @@
 [Vim Tips Wiki](http://vim.wikia.com/wiki/Vim_Tips_Wiki)
 
+[SO on how to use quickfix for searching and replacing](http://stackoverflow.com/questions/5686206/search-replace-using-quickfix-list-in-vim)
+
 Update all helptags `:Helptags`
 
 Using Vim Surround add quotes around a word:
@@ -23,3 +25,17 @@ Tabular.vim
 [Excellent vim reference](http://www.danielmiessler.com/study/vim/)
 
 http://www.viemu.com/a-why-vi-vim.html
+
+
+    # search and replace from within Vim (possibly useful with vim-abolish)
+
+    #first - grep all the files into the arglist
+    :args `grep -lR string_to_find dirs_to_search`
+
+    # perform your search and replace
+    :argdo %s/string_to_find/replace_with_this/g
+
+    # update the pages
+    :argdo update
+
+    # very handy

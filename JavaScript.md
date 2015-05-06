@@ -33,3 +33,5 @@ https://docs.google.com/presentation/d/1Is4f881t0pImLAQLCz4AlcLaUL8Fk4-C_Q2Hbu2D
 http://6to5.org/
 
 http://js2.coffee/
+
+[Mapping thread on HN - world map](https://news.ycombinator.com/item?id=9464348)
