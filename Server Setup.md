@@ -45,3 +45,6 @@ http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-li
 
 [[Useful IRC Transcript]]
 
+[[chat with francois]]
+
+[Swap space on DO](https://www.digitalocean.com/community/tutorials/how-to-add-swap-on-ubuntu-14-04)
