@@ -58,5 +58,10 @@ du -sh ./*/
 for i in {1..100}; do dd if=/dev/urandom bs=1 count=1 of=file$i; done 
 ```
 
+```bash
+# ssh port forward local 9000 to 1080 on remove (useful for mailcatcher e.g.)
+ssh -L 9000:localhost:1025 ssh-alias
+```
+
 
 [Intro to sed](http://www.grymoire.com/Unix/Sed.html#uh-0)

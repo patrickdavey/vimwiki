@@ -1,17 +1,17 @@
 ## Patrick Davey personal Wiki
-* [[Books]] -- to read
-* [[Vim Tips]]-- anything to do with Vim.
-* [[Git Tips]]-- anything to do with git.
-* [[Bash Tips]]-- anything to do with bash.
-* [[Mysql Tips]]-- anything to do with mysql.
-* [[css - responsive - design Tips]]-- anything to do with css etc..
-* [[Backbone]]-- useful Backbone Stuff
-* [[Tmux]]-- useful Tmux Stuff
-* [[Scratchpad]] temporary stuff.
-* [[Server Setup]] -- check-list to setup a server.
-* [[Todo]] -- things to do
-* [[Quotes]] -- Nothing to do with programming!
-* [[Movies to watch]] -- Movies to watch
+* [[Books]]
+* [[Vim Tips]]
+* [[Git Tips]]
+* [[Bash Tips]]
+* [[Mysql Tips]]
+* [[css - responsive - design Tips]]
+* [[Backbone]]
+* [[Tmux]]
+* [[Scratchpad]]
+* [[Server Setup]]
+* [[Todo]]
+* [[Quotes]]
+* [[Movies to watch]]
 * [[lent items]]
 * [[bike stuff]]
 * [[raspberrypi]]
@@ -20,14 +20,14 @@
 * [[speaking and presentations]]
 * [[stuff to buy maybe someday]]
 * [[database tools]]
-* [[Coursera]]
+* [[Coursera - Udacity]]
 
 ## Hack ideas
 * [[timelapses]]
 
 ## Languages & Frameworks
-* [[Ruby]]-- useful Ruby Stuff
-* [[Rails]]-- useful Rails Stuff
-* [[iOS]]-- useful iOS Stuff
+* [[Ruby]]
+* [[Rails]]
+* [[iOS]]
 * [[android]]
-* [[JavaScript]]-- useful JS Stuff
+* [[JavaScript]]
