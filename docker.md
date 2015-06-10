@@ -9,3 +9,5 @@ http://www.fig.sh/
 https://robots.thoughtbot.com/rails-on-docker
 
 https://intercityup.com/blog/how-i-build-a-docker-image-for-my-rails-app.html
+
+http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/

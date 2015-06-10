@@ -1,5 +1,6 @@
 ## Patrick Davey personal Wiki
 * [[Books]]
+* [[Movies to watch]]
 * [[Vim Tips]]
 * [[Git Tips]]
 * [[Bash Tips]]
@@ -11,7 +12,6 @@
 * [[Server Setup]]
 * [[Todo]]
 * [[Quotes]]
-* [[Movies to watch]]
 * [[lent items]]
 * [[bike stuff]]
 * [[raspberrypi]]
@@ -21,6 +21,7 @@
 * [[stuff to buy maybe someday]]
 * [[database tools]]
 * [[Coursera - Udacity]]
+* [[For talking to clients about refactoring etc.]]
 
 ## Hack ideas
 * [[timelapses]]

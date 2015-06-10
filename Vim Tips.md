@@ -1,4 +1,6 @@
 [Vim Tips Wiki](http://vim.wikia.com/wiki/Vim_Tips_Wiki)
+http://sheerun.net/2014/03/21/how-to-boost-your-vim-productivity/
+https://news.ycombinator.com/item?id=9645729 - read through this properly at some point
 
 [SO on how to use quickfix for searching and replacing](http://stackoverflow.com/questions/5686206/search-replace-using-quickfix-list-in-vim)
 

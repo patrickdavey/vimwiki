@@ -1,9 +1,13 @@
 === To Read ===
-* [ ] 7 languages in 7 weeks
+* [ ] [[7 languages in 7 weeks]]
 * [ ] [Harry potter and the methods of rationality](http://hpmor.com/chapter/2)
 * [ ] [[Thinking fast and slow]]
 * [ ] [[http://www.feynmanlectures.caltech.edu/I_toc.html|Feynman Lectures]]
 * [ ] http://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/ref=sr_1_1?ie=UTF8&qid=1427217491&sr=8-1&keywords=mastery
+* [ ] This changes everything
+* [ ] http://www.amazon.com/The-Power-Broker-Robert-Moses/dp/0394720245 (Alex Lam suggestion)
+* [ ] , Robert Caro books - Churchill bios (also Alex Lam suggestions)
+* [ ] Mistakes Were Made But Not By Me (@cczona)
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
