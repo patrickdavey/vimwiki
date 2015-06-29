@@ -26,6 +26,10 @@
 ## Hack ideas
 * [[timelapses]]
 
+## Railscamp stuff
+* [[ideas]]
+* [[glynn]]
+
 ## Languages & Frameworks
 * [[Ruby]]
 * [[Rails]]
