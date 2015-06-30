@@ -35,6 +35,13 @@ sed -i   '0,/AUTO_INCREMENT=20252962/s/AUTO_INCREMENT=20252962/AUTO_INCREMENT=0/
 ```
 
 ```bash
+# telnet to somewhere and execute some remote commands
+# handy for the odd backgammon server or two ;)
+
+{ echo "username"; sleep 1; echo "password"; sleep 10; exit; } | telnet somesite.com port
+```
+
+```bash
 # remove all files except the file/directory called 'keep'
   rm -rf !(keep)
 ```
