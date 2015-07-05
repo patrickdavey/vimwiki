@@ -28,10 +28,78 @@ Now, all of those except the gooseneck mount can be bought at adafruit.com, it m
 ```bash
 #!/bin/bash
 
-DATE=$(date +"%Y-%m-%d_%H%M")
+python /home/pi/cron_scripts/check.py
+# this returns a happy exit status if we should take a picutre
+if [ $? -eq 0 ]; then
+  DATE=$(date +"%Y-%m-%d_%H%M%S")
 
-cd /home/pi/cron_scripts && raspistill -vf -hf -rot 180 -o /home/pi/camera/$DATE.jpg
+  cd /home/pi/cron_scripts && raspistill -vf -w 1920 -h 1080 -hf -rot 180 -o /home/pi/camera/$DATE.jpg
+
+  sleep 15 
+
+  DATE=$(date +"%Y-%m-%d_%H%M%S")
+
+  cd /home/pi/cron_scripts && raspistill -vf -w 1920 -h 1080 -hf -rot 180 -o /home/pi/camera/$DATE.jpg
+
+  sleep 15 
+
+  DATE=$(date +"%Y-%m-%d_%H%M%S")
+
+  cd /home/pi/cron_scripts && raspistill -vf -w 1920 -h 1080 -hf -rot 180 -o /home/pi/camera/$DATE.jpg
+fi
+
 ```
+
+### Contents of /home/pi/cron_scripts/check.py
+Set the contents of the latitude and longitude to be the location
+of your webcam.... this means the webcam will only take pictures
+between (natutical) sunrise and sunset
+
+```python
+
+import ephem
+import sys
+import datetime
+
+class DaylightChecker:
+    WEBCAM_LATITUDE = '-43.5648825'
+    WEBCAM_LONGITUDE = '172.6591456'
+
+    def __init__(self):
+        self.observer = ephem.Observer()
+        self.observer.lat = self.WEBCAM_LATITUDE
+        self.observer.long = self.WEBCAM_LONGITUDE
+        self.observer.horizon = '-12' # we use nautical twilight
+        self.s = ephem.Sun()
+
+    def _todays_sunrise(self):
+        next_rising = ephem.localtime(self.observer.previous_rising(self.s))
+        previous_rising = ephem.localtime(self.observer.next_rising(self.s))
+
+        if datetime.datetime.now().day == next_rising.day:
+            return next_rising
+        else:
+            return previous_rising
+
+    def _todays_sunset(self):
+        next_sunset = ephem.localtime(self.observer.previous_setting(self.s))
+        previous_sunset = ephem.localtime(self.observer.next_setting(self.s))
+
+        if datetime.datetime.now().day == next_sunset.day:
+            return next_sunset
+        else:
+            return previous_sunset
+
+    def checkit(self):
+        if self._todays_sunrise() < datetime.datetime.now() < self._todays_sunset():
+            sys.exit(0)
+        else:
+            sys.exit(-1)
+
+checker = DaylightChecker()
+checker.checkit()
+```
+
 
 ### Contents of /home/pi/cron_scripts/make_video.sh
 ```bash
@@ -47,3 +115,6 @@ mencoder -nosound -ovc lavc -lavcopts vcodec=mpeg4:aspect=16/9:vbitrate=8000000 
 cp $DATE.avi ~/
 
 ```
+
+I have a separate script which uploads the videos to youtube, contact
+me if you need more information.

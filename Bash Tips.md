@@ -7,6 +7,11 @@
 ```
 
 ```bash
+# grep and kill (example delayed_job processes)
+kill $(ps aux | grep 'delayed_job' | awk '{print $2}')
+```
+
+```bash
 #search and replace (unix) only matching the first occurance
 
 sed -i   '0,/AUTO_INCREMENT=20252962/s/AUTO_INCREMENT=20252962/AUTO_INCREMENT=0/' /path/todump

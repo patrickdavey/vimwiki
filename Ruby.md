@@ -156,3 +156,5 @@ message.scan(/.{4}|.+/).map { |a| [a.to_i(16)].pack('U') }
 [Awesome awesome link about blocks, procs and closures](https://innig.net/software/ruby/closures-in-ruby)
 
 https://sourcemaking.com/refactoring/bad-smells-in-code
+
+[interesting looking article on signals](www.sitepoint.com/license-to-sigkill/?utm_source=rubyweekly&utm_medium=email)

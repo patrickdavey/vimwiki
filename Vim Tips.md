@@ -41,3 +41,6 @@ http://www.viemu.com/a-why-vi-vim.html
     :argdo update
 
     # very handy
+  
+
+http://vimcolors.com/112/jellyx/dark
