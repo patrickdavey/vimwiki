@@ -103,17 +103,20 @@ checker.checkit()
 
 ### Contents of /home/pi/cron_scripts/make_video.sh
 ```bash
-#!/bin/bash
 
 cd /home/pi/camera
+
+# nuke incomplete / broken jpgs, happens sometimes.
+find . -type f -name '*.jpg' -size -10c -exec rm -f {} \;
 ls *.jpg > stills.txt
+ls -lah *.jpg > stills_full_info.txt
 
 DATE=$(date +"%Y-%m-%d_%H%M")
 
 mencoder -nosound -ovc lavc -lavcopts vcodec=mpeg4:aspect=16/9:vbitrate=8000000 -vf scale=1920:1080 -o $DATE.avi -mf type=jpeg:fps=24 mf://@stills.txt
 
-cp $DATE.avi ~/
-
+cp $DATE.avi ~/finished_videos/
+rm *.jpg
 ```
 
 I have a separate script which uploads the videos to youtube, contact
