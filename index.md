@@ -13,7 +13,7 @@
 * [[Todo]]
 * [[Quotes]]
 * [[lent items]]
-* [[bike stuff]]
+* [[bike and car stuff]]
 * [[raspberrypi]]
 * [[docker]]
 * [[privacy]]
