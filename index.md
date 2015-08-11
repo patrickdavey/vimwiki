@@ -21,7 +21,7 @@
 * [[stuff to buy maybe someday]]
 * [[database tools]]
 * [[Coursera - Udacity]]
-* [[For talking to clients about refactoring etc.]]
+* [[refactoring OO-design]]
 
 ## Hack ideas
 * [[timelapses]]

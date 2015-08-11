@@ -28,3 +28,4 @@ heroku ember cli buildpack
 
 [[blog post]]
 
+[[gtypist_ruby]]

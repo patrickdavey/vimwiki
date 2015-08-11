@@ -5,6 +5,77 @@
     $("html, body").animate({ scrollTop: $ele.offset().top }, 1000);
   }
 ```
+Taken from the '[Classical Inheritence is Obsolete](https://www.youtube.com/watch?v=lKCCZTUx0sI)' talk
+
+### Delegate prototype
+```javascript
+
+  // decent way of creating a function object + prototype method
+
+  var proto = {
+    hello: function hello(){
+      return 'Hello ' + this.name;
+    }
+  };
+
+  var patrick = Object.create(proto);
+  patrick.name = 'Patrick';
+
+```
+
+### Cloning style prototype
+1. Great for default state
+2. Mixins
+
+
+```javascript
+  var proto = {
+    hello: function hello(){
+      return 'Hello ' + this.name;
+    }
+  };
+  
+  var patrick = _.extend({}, proto, { name: 'Patrick' });
+```
+
+### Functional Inheritance
+1. Great for encapsulation / privacy
+2. Functional mixins
+3. Replace Constructors, Init functions, replace super()
+
+```javascript
+  var model = function(){
+    var attrs = {}; //private
+
+    this.set = function(name, value){
+      attrs[name] = value;
+      this.trigger('change', {
+        name: name,
+        value: value
+      });
+    };
+
+    this.get = function(name){
+      return attrs[name];
+    };
+
+    // example creating an event emitter
+    _.extend(this, Backbone.Events);
+  };
+
+
+  // use it like this
+
+  var patrick = {};
+  model.call(patrick).set('name', 'Patrick');
+  patrick.get('name'); // 'Patrick'
+  
+  patrick.on('change', function(event){
+    console.log(event.name);  
+  });
+  
+  patrick.set('name', 'Blah'); // Blah
+```
 
 [[Speedtest snippet]]
 

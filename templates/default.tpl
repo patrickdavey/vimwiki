@@ -13,6 +13,27 @@
         overflow-wrap: normal;
         white-space: pre;
       }
+
+      h1, h2, h3, h4, h5 {
+        position: relative;
+      }
+
+      h1:hover .octicon-link:before, h2:hover .octicon-link:before, h3:hover .octicon-link:before, h4:hover .octicon-link:before, h5:hover .octicon-link:before {
+        content: '\0000a7';
+      }
+
+      .anchor {
+        position: absolute;
+        top: 0;
+        left: -18px;
+        display: block;
+        padding-right: 6px;
+        padding-left: 30px;
+        margin-left: -30px;
+      }
+      h1, h2, h3, h4, h5 {
+        position: relative;
+      }
     </style>
   <title>%title%</title>
   <meta http-equiv="Content-Type" content="text/html; charset=%encoding%">

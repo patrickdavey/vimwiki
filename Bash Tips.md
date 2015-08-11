@@ -75,5 +75,11 @@ for i in {1..100}; do dd if=/dev/urandom bs=1 count=1 of=file$i; done
 ssh -L 9000:localhost:1025 ssh-alias
 ```
 
+```bash
+# rename files like 
+# answer_1_b0YaiCkW.png
+# thumb_1_sdfjksfj.png
+rename -n 's/([\w]+)_([\d])(_[\w]+).png/$1_$2.png/' * 
+```
 
 [Intro to sed](http://www.grymoire.com/Unix/Sed.html#uh-0)
