@@ -25,6 +25,7 @@
 
 ## Hack ideas
 * [[timelapses]]
+* https://github.com/junegunn/vim-plug
 
 ## Railscamp stuff
 * [[ideas]]
@@ -36,3 +37,4 @@
 * [[iOS]]
 * [[android]]
 * [[JavaScript]]
+* [[elixir]]

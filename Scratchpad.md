@@ -57,3 +57,6 @@ http://www.dancarlin.com/product/hardcore-history-50-blueprint-for-armageddon-i/
 
 
 [https://play.google.com/store/apps/details?id=com.blogspot.solheimsoftware.gps.location.saver](Possibly useful gps location)
+
+
+if capture("cd #{latest_release} && #{source.local.log(from)} lib/assets/ vendor/assets/ app/assets/ | wc -l").to_i > 0

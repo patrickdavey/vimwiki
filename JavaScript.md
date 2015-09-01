@@ -106,3 +106,7 @@ http://6to5.org/
 http://js2.coffee/
 
 [Mapping thread on HN - world map](https://news.ycombinator.com/item?id=9464348)
+
+https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
+
+http://www.sitepoint.com/video-an-introduction-to-component-state/
