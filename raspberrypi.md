@@ -30,4 +30,4 @@ https://www.thefanclub.co.za/how-to/how-setup-usb-3g-modem-raspberry-pi-using-us
 
 [Motion capture system](http://www.pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/)
 
-
+[HN thread on touch display](https://news.ycombinator.com/item?id=10184510)

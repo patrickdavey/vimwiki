@@ -2,6 +2,9 @@
 # Search and Replace in files
   find ./path -type f -exec sed -i 's/find_this/replace_this/g' {} \;
 
+# with xargs instead
+  find ./path -type f -print0 | xargs -0 sed -i s/replace_this/with_this/g
+
 #in osx you need a blank extension? argument?
   find . -type f -exec sed -i "" 's/find_this/replace_this/g' {} \;
 ```

@@ -19,3 +19,5 @@ http://www.goodui.org/ <br>
 [Nice timeseries visualizations](http://metricsgraphicsjs.org/examples.htm)
 
 http://packery.metafizzy.co/
+
+read this: http://www.fredparke.com/blog/css-padding-trick-responsive-intrinsic-ratios

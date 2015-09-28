@@ -1,5 +1,3 @@
-vim-airline
-
 ctags
 
 guard-ctags-bundler
@@ -8,8 +6,6 @@ guard-ctags-bundler
 
 Drew Neil core vim course
 
-annotate - trigger on update
-xray-rails - bonza like ember inspector
 bundle-audit : security vuls
 guard can notify you about errors in tmux
 
@@ -18,9 +14,6 @@ notification :tmux,
   
 thoughtbot/rcm
 
-vundle
-
-github
 kana/vim-textobj-entire
 
 

@@ -10,7 +10,6 @@
 * [[Tmux]]
 * [[Scratchpad]]
 * [[Server Setup]]
-* [[Todo]]
 * [[Quotes]]
 * [[lent items]]
 * [[bike and car stuff]]
@@ -26,6 +25,8 @@
 ## Hack ideas
 * [[timelapses]]
 * https://github.com/junegunn/vim-plug
+* https://telegram.org/ and https://rbnrpi.wordpress.com/raspberry-pi-control-gpio-and-your-pi-camera-using-your-phone/
+* https://gist.github.com/xavriley/418f8283af2fbe95fc90
 
 ## Railscamp stuff
 * [[ideas]]
