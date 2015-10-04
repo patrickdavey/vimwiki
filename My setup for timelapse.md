@@ -73,8 +73,8 @@ class DaylightChecker:
         self.s = ephem.Sun()
 
     def _todays_sunrise(self):
-        next_rising = ephem.localtime(self.observer.previous_rising(self.s))
-        previous_rising = ephem.localtime(self.observer.next_rising(self.s))
+        previous_rising = ephem.localtime(self.observer.previous_rising(self.s))
+        next_rising = ephem.localtime(self.observer.next_rising(self.s))
 
         if datetime.datetime.now().day == next_rising.day:
             return next_rising
@@ -82,13 +82,25 @@ class DaylightChecker:
             return previous_rising
 
     def _todays_sunset(self):
-        next_sunset = ephem.localtime(self.observer.previous_setting(self.s))
-        previous_sunset = ephem.localtime(self.observer.next_setting(self.s))
-
+        previous_sunset = ephem.localtime(self.observer.previous_setting(self.s))
+        next_sunset = ephem.localtime(self.observer.next_setting(self.s))
         if datetime.datetime.now().day == next_sunset.day:
             return next_sunset
         else:
             return previous_sunset
+
+    def _yesterday_midday(self):
+      midday = datetime.time(hour=0) # relative to GMT we're at midnight
+      yesterday = datetime.datetime.utcnow()
+      return datetime.datetime.combine(yesterday, midday)
+
+    def yesterday_sunset(self):
+        self.observer.date = self._yesterday_midday()
+        return ephem.localtime(self.observer.next_setting(self.s))
+
+    def yesterday_sunrise(self):
+        self.observer.date = self._yesterday_midday()
+        return ephem.localtime(self.observer.previous_rising(self.s))
 
     def checkit(self):
         if self._todays_sunrise() < datetime.datetime.now() < self._todays_sunset():

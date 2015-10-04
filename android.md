@@ -5,3 +5,5 @@ Location of DCIM on OPO
 
 
 https://play.google.com/store/apps/details?id=net.ia.iawriter&hl=en
+
+http://developer.android.com/tools/devices/emulator.html#vm-linux

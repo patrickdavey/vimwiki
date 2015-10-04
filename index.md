@@ -27,6 +27,8 @@
 * https://github.com/junegunn/vim-plug
 * https://telegram.org/ and https://rbnrpi.wordpress.com/raspberry-pi-control-gpio-and-your-pi-camera-using-your-phone/
 * https://gist.github.com/xavriley/418f8283af2fbe95fc90
+* Tasker - android app
+* [[_scratch]]
 
 ## Railscamp stuff
 * [[ideas]]
