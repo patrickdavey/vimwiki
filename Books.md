@@ -8,6 +8,7 @@
 * [ ] http://www.amazon.com/The-Power-Broker-Robert-Moses/dp/0394720245 (Alex Lam suggestion)
 * [ ] , Robert Caro books - Churchill bios (also Alex Lam suggestions)
 * [ ] Mistakes Were Made But Not By Me (@cczona)
+* [ ]  http://www.amazon.com/Long-Way-Gone-Memoirs-Soldier/dp/0374531269
 
 === Read ===
 * [X] Pragmatic Thinking and Learning

@@ -25,3 +25,15 @@ http://rubyweekly.com/issues/213 possibly useful upgrade 3.2 4.+ links
 
 
 http://awesome-ruby.com/
+
+```ruby
+# if you need to set the timezone for users.. just make sure the time_zone
+# returns something sensible
+class ApplicationController
+  around_filter :set_timezone_for_this_request, if: :current_user
+
+  def set_timezone_for_this_request(&block)
+    Time.use_zone(current_user.time_zone, &block)
+  end
+end
+```

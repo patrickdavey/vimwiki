@@ -23,6 +23,11 @@ sed -i   '0,/AUTO_INCREMENT=20252962/s/AUTO_INCREMENT=20252962/AUTO_INCREMENT=0/
 ```
 
 ```bash
+# recusively set the modified time on files
+find . -print0 | xargs -0 -- touch -a -m -t 200501181205.09
+```
+
+```bash
 # using find and grep
   find . -name Gemfile | xargs grep blog
 ```

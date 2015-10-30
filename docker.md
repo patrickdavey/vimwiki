@@ -13,3 +13,5 @@ https://intercityup.com/blog/how-i-build-a-docker-image-for-my-rails-app.html
 http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/
 
 http://blog.codeship.com/testing-rails-application-docker/
+
+http://merrigrove.blogspot.co.nz/2015/10/visualizing-docker-containers-and-images.html

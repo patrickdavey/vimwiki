@@ -159,3 +159,8 @@ https://sourcemaking.com/refactoring/bad-smells-in-code
 
 [interesting looking article on signals](www.sitepoint.com/license-to-sigkill/?utm_source=rubyweekly&utm_medium=email)
 [Really good Ruby weekly article](http://rubyweekly.com/issues/255)
+
+#### Ruby conferences
+* http://rubyconferences.org/ 
+* http://lanyrd.com/topics/ruby/
+

@@ -1,19 +1,40 @@
 
-------- 07/10/2015 07:57:20 ---------
-Check out @Raspberry_Pi's Tweet: https://twitter.com/Raspberry_Pi/status/651454859263111169?s=09
+------- 26/10/2015 11:42:54 ---------
 
-------- 08/10/2015 06:57:00 ---------
-http://webopsweekly.us1.list-manage1.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=3a471bccf2&e=5cc73bf51a
+http://exploringjs.com/es6/
 
-------- 09/10/2015 06:35:39 ---------
-https://youtu.be/2BdJeSC4FFI
+------- 27/10/2015 07:04:30 ---------
 
-------- 09/10/2015 06:36:33 ---------
-http://rubyweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=a0234c0ede&e=aba8b9cf6c
+https://www.oxbridgenotes.com/articles/css_refactoring_from_append_only_to_modular_css
 
-------- 09/10/2015 06:39:23 ---------
-http://cheatrags.com/capybara?utm_source=rubyweekly&utm_medium=email
+------- 27/10/2015 07:18:25 ---------
+Check out @andrzejkrzywda's Tweet: https://twitter.com/andrzejkrzywda/status/658645814248648704?s=09
 
-------- 10/10/2015 07:43:04 ---------
+------- 29/10/2015 07:45:21 ---------
+Check out @rauschma's Tweet: https://twitter.com/rauschma/status/659366027382362112?s=09
 
-https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
+------- 29/10/2015 07:48:56 ---------
+Check out @andrzejkrzywda's Tweet: https://twitter.com/andrzejkrzywda/status/659384332398796800?s=09
+
+------- 29/10/2015 19:29:34 ---------
+leaflet js
+
+------- 29/10/2015 19:29:38 ---------
+leaflet js
+
+------- 29/10/2015 19:29:48 ---------
+leaflet js
+
+------- 29/10/2015 21:20:37 ---------
+Casper, sitespeed.io
+
+------- 30/10/2015 06:16:38 ---------
+http://blog.codeship.com/deploying-docker-rails-app/?utm_source=rubyweekly&utm_medium=email
+
+------- 30/10/2015 06:17:18 ---------
+http://rubyweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=a2159afd59&e=aba8b9cf6c
+
+------- 30/10/2015 09:49:22 ---------
+he 2015 NZ Skeptics Conference is being held November 20-22, at the Rochester-Rutherford Halls in Christchurch, and is open to all. Further information and registrations can be found online at http://conference.skeptics.nz/
+For more information:
+NZ Skeptics 2015 Conference

@@ -3,6 +3,8 @@ raspistill -t 0 -tl 5000 -o image%04d.jpg
 
 [[ScienceCam]]
 
+[[Home media server]]
+
 
 [[My setup for timelapse]]
 
