@@ -1,3 +1,6 @@
+[Screenshotting and testing tool](http://casperjs.org/)
+
+
 ```javascript
   //scroll to the first field_with_errors field
   if ($(".field_with_errors").first().length) {
