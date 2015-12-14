@@ -48,28 +48,8 @@ The trip to Italy
 ------- 04/12/2015 20:49:13 ---------
 Shackleton's journey
 
-------- 06/12/2015 23:05:14 ---------
-test
+------- 04/12/2015 20:49:15 ---------
+Shackleton's journey
 
-------- 07/12/2015 08:20:36 ---------
-blah
-
-------- 07/12/2015 08:29:03 ---------
-Unuyi salt planes salar
-Kuelap Peru (north chacha poyas)
-Skyscanner
-
-
-
-------- 07/12/2015 09:16:09 ---------
-
-http://www.codetriage.com/
-
-------- 07/12/2015 17:59:09 ---------
-Check out @JonRowe's Tweet: https://twitter.com/JonRowe/status/673700653462491136?s=09
-
-------- 11/12/2015 09:15:01 ---------
-Check out @mametter's Tweet: https://twitter.com/mametter/status/675279554659815424?s=09
-
-------- 13/12/2015 15:03:58 ---------
-Check out @ag_dubs's Tweet: https://twitter.com/ag_dubs/status/675846886251630592?s=09
+------- 04/12/2015 20:49:16 ---------
+Shackleton's journey

@@ -9,6 +9,8 @@
 * [ ] , Robert Caro books - Churchill bios (also Alex Lam suggestions)
 * [ ] Mistakes Were Made But Not By Me (@cczona)
 * [ ]  http://www.amazon.com/Long-Way-Gone-Memoirs-Soldier/dp/0374531269
+* [ ] Aurora by Kim Stanley Robinson.(Isaac suggestion)
+* [ ] Masters of Doom (Tim suggestion)
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
