@@ -8,3 +8,5 @@ http://fuel.papo-art.com/
 http://www.cascadedesigns.com/msr/blog/fuels-around-world-finding-stove-fuel-foreign-country/
 
 [[argentina]]
+
+steripen - Lithium or Nickel Metal Hydride best NOT Alkaline and NiCad batteries

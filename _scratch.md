@@ -73,3 +73,33 @@ Check out @mametter's Tweet: https://twitter.com/mametter/status/675279554659815
 
 ------- 13/12/2015 15:03:58 ---------
 Check out @ag_dubs's Tweet: https://twitter.com/ag_dubs/status/675846886251630592?s=09
+
+------- 14/12/2015 13:18:58 ---------
+Check out @thoughtbot's Tweet: https://twitter.com/thoughtbot/status/676397544931500032?s=09
+
+------- 01/01/2016 11:03:52 ---------
+Check out @aupajo's Tweet: https://twitter.com/aupajo/status/667274473825959936?s=09
+
+------- 01/01/2016 18:07:54 ---------
+bus sur
+
+------- 01/01/2016 18:07:56 ---------
+bus sur
+
+------- 01/01/2016 18:07:57 ---------
+bus sur
+
+------- 07/01/2016 18:13:51 ---------
+https://youtu.be/n0WUjGkDFS0
+
+------- 18/01/2016 06:51:05 ---------
+http://6ftdan.com/allyourdev/2016/01/13/101-ruby-code-factoids/?utm_source=rubyweekly&utm_medium=email
+
+------- 19/01/2016 16:35:40 ---------
+upcase ep 40 matrix
+
+------- 21/01/2016 19:21:19 ---------
+https://zealdocs.org/
+
+------- 21/01/2016 21:38:48 ---------
+https://github.com/mruby/mruby

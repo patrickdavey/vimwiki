@@ -11,6 +11,7 @@
 * [ ]  http://www.amazon.com/Long-Way-Gone-Memoirs-Soldier/dp/0374531269
 * [ ] Aurora by Kim Stanley Robinson.(Isaac suggestion)
 * [ ] Masters of Doom (Tim suggestion)
+* [ ] When life nearly died (Yvonne - antarctica)
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
@@ -43,3 +44,4 @@ Lord Hornblower
 Hornblower in the West Indies (Admiral Hornblower in the West Indies)
 
 
+http://ramiro.org/vis/hn-most-linked-books/

@@ -27,6 +27,7 @@
 
 ## Hack ideas
 * [[timelapses]]
+* https://docs.docker.com/compose/wordpress/
 * https://github.com/junegunn/vim-plug
 * https://telegram.org/ and https://rbnrpi.wordpress.com/raspberry-pi-control-gpio-and-your-pi-camera-using-your-phone/
 * https://gist.github.com/xavriley/418f8283af2fbe95fc90
@@ -36,6 +37,8 @@
 * Tasker - android app
 * [[download these videos]]
 * http://skilldrick.github.io/easyforth/
+* https://www.youtube.com/user/CooperPress/videos watch sometime
+* https://github.com/ben174/git-draw silly thing, but maybe make my heatmap say travel.. also https://github.com/gelstudios/gitfiti
 
 ## Railscamp stuff
 * [[ideas]]

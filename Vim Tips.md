@@ -46,3 +46,7 @@ http://www.viemu.com/a-why-vi-vim.html
 http://vimcolors.com/112/jellyx/dark
 
 http://dougblack.io/words/a-good-vimrc.html
+
+
+String replace over newlines (useful for wordpress picture insertion)
+    :%s/<\/a>\n\{-}<a href/<\/a><a href/g

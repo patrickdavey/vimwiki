@@ -91,3 +91,24 @@ rename -n 's/([\w]+)_([\d])(_[\w]+).png/$1_$2.png/' *
 ```
 
 [Intro to sed](http://www.grymoire.com/Unix/Sed.html#uh-0)
+
+```bash
+# find files greater than 50 megs
+find  . -size +50M
+```
+
+```bash
+# using exiftool (remove ImageDescription and CameraID from Olympus style images.. which add annoying metadata)
+find . -iname "PC*.jpg" -print0 | xargs -0 exiftool -ImageDescription= -CameraID= -overwrite_original_in_place
+```
+
+```bash
+# find all the txt files in subdirectories and move them into this one
+find . -type f -name *.txt -print0 | xargs -0 -I {} mv {} .
+`````
+
+```bash
+# useful for modifying podcasts so that they'll work nicely on an old ipod sorting wise
+find . -type f -name *.mp3  -print0 | xargs -0 -I {} mv {} .
+ls -1tr | xargs -I {} stat -f '%m %N' {} | xargs -L1 bash -c 'id3tag -s$0_$1 $1'
+```
