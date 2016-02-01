@@ -35,7 +35,7 @@
 * [arduino starter - thanks to Pete Nicholls for the link](https://gist.github.com/Aupajo/501c719de8647320ebe2)
 * http://www.rileybrandt.com/2015/10/15/foss-photo-flow-2015/
 * Tasker - android app
-* [[download these videos]]
+* https://www.youtube.com/user/CooperPress/videos download these videos 
 * http://skilldrick.github.io/easyforth/
 * https://www.youtube.com/user/CooperPress/videos watch sometime
 * https://github.com/ben174/git-draw silly thing, but maybe make my heatmap say travel.. also https://github.com/gelstudios/gitfiti
