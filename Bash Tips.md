@@ -112,3 +112,9 @@ find . -type f -name *.txt -print0 | xargs -0 -I {} mv {} .
 find . -type f -name *.mp3  -print0 | xargs -0 -I {} mv {} .
 ls -1tr | xargs -I {} stat -f '%m %N' {} | xargs -L1 bash -c 'id3tag -s$0_$1 $1'
 ```
+
+```bash
+# repeat an rsync command until it is complete
+# from http://serverfault.com/a/98750/129747
+while ! rsync -a .... ;do sleep 5;done
+```
