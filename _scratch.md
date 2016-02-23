@@ -103,3 +103,24 @@ https://zealdocs.org/
 
 ------- 21/01/2016 21:38:48 ---------
 https://github.com/mruby/mruby
+
+------- 16/02/2016 09:15:37 ---------
+https://github.com/so-fancy/diff-so-fancy?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly
+
+------- 22/02/2016 18:43:30 ---------
+hard-core history podcast
+
+------- 22/02/2016 18:44:29 ---------
+stuff you missed in history class podcast
+
+------- 23/02/2016 07:53:33 ---------
+stuff you missed in history class podcast
+
+------- 23/02/2016 07:53:38 ---------
+http://rxr.whitequark.org/mri/source
+
+------- 23/02/2016 07:53:51 ---------
+test
+
+------- 23/02/2016 07:59:47 ---------
+http://peter-murach.github.io/tty/?utm_source=rubyweekly&utm_medium=email

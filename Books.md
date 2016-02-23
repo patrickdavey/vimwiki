@@ -25,6 +25,7 @@
 * [X] A Dance with Dragons
 * [X] [[Design Patterns in Ruby]]
 * [X] [[Limits to growth - the 30 year update]]
+* [X] [[The pragmatic programmer]]
 
 
 [HN Thread on interesting books](https://news.ycombinator.com/item?id=8716111)
