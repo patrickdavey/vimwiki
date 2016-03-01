@@ -72,3 +72,75 @@ Well, this is an excellent book, and one which bears reading a few times I think
 68. Build Documentation In, Don't Bolt It On
 69. Gently Exceed Your Users' Expectations
 70. Sign Your Work
+
+## Selected quotes from Pragmatic Programmer, From Journeyman To Master - Andrew Hunt, David Thomas - Addison Wesley, The - 1999
+
+> On estimates - On the other hand, a diver trapped underwater
+> and running out of air is probably interested in an answer down to the
+> second. What's the value of pi If you're wondering how much edging to
+> buy to put around a circular flower bed, then "3" is probably good enough.
+> [10] If you're in school, then maybe "22/7" is a good approximation.
+> If you're in NASA, then maybe 12 decimal places will do. [10] "3" is also
+> apparently good enough if you are a legislator. In 1897, Indiana State
+> Legislature House Bill No. 246 attempted to decree that henceforth pi
+> should have the value of "3". The Bill was tabled indefinitely at its
+> second reading when a mathematics professor pointed out that their powers
+> did not quite extend to passing laws of nature. One of the interesting
+> things about estimating is that the units you use make a difference in
+> the interpretation of the result. If you say that something will take
+> about 130 working days, then people will be expecting it to come in pretty
+> close. However, if you say "Oh, about six months," then they know to look
+> for it any time between five and seven months from now. Both numbers represent
+> the same duration, but "130 days" probably implies a higher degree of
+> accuracy than you feel. We recommend that you scale time estimates as
+> follows: Duration Quote estimate in 1-15 days days 3-8 weeks weeks 8-30
+> weeks months 30+ weeks think hard before giving an estimate So, if after
+> doing all the necessary work, you decide that a project will take 125
+> working days (25 weeks), you might want to deliver an estimate of "about
+> six months." The same concepts apply to estimates of any quantity: choose
+> the units of your answer to reflect the accuracy you intend to convey
+
+> What to Say When Asked for an Estimate You say " I'll get back to you"
+
+> The O () notation is a mathematical way of dealing with approximations.
+> When we write that a particular sort routine sorts n records in O ( n
+> 2 ) time, we are simply saying that the worst-case time taken will vary
+> as the square of n. Double the number of records, and the time will increase
+> roughly fourfold. Think of the O as meaning on the order
+
+> The key to managing growth of requirements is to point out each new feature's
+> impact on the schedule to the project sponsors
+
+> he who hesitates is sometimes saved
+
+> Landing Pilot is the Non-Handling Pilot until the 'decision altitude' call,
+> when the Handling Non-Landing Pilot hands the handling to the Non-Handling
+> Landing Pilot, unless the latter calls 'go-around,' in which case the
+> Handling Non-Landing Pilot continues handling and the Non-Handling Landing
+> Pilot continues non-handling until the next call of 'land' or 'go-around'
+> as appropriate. In view of recent confusions over these rules, it was
+> deemed necessary to restate them clearly.
+
+> If a bug slips through the net of existing tests, you need to add a new
+> test to trap it next time
+
+> Books Computing books can be expensive, but choose carefully and they're
+> a worthwhile investment. Here are a handful of the many we like. Analysis
+> and Design Object-Oriented Software Construction, 2nd Edition. Bertrand
+> Meyer's epic book on the fundamentals of object-oriented development,
+> all in about 1,300 pages [ Mey97b ] . Design Patterns. A design pattern
+> describes a way to solve a particular class of problems at a higher level
+> than a programming language idiom. This now-classic book [ GHJV95 ] by
+> the Gang of Four describes 23 basic design patterns, including Proxy,
+> Visitor, and Singleton . Analysis Patterns. A treasure trove of high-level,
+> architectural patterns taken from a wide variety of real-world projects
+> and distilled in book form. A relatively quick way to gain the insight
+> of many years of modeling experience [ Fow96 ] . Teams and Projects The
+> Mythical Man Month. Fred Brooks' classic on the perils of organizing
+> project teams, recently updated [ Bro95 ] . Dynamics of Software Development.
+> A series of short essays on building software in large teams, focusing
+> on the dynamics between team members, and between the team and the rest
+> of the world [ McC95 ]
+
+> VisualWorks www.objectshare.com Home of the VisualWorks Smalltalk
+> environment. Noncommercial versions

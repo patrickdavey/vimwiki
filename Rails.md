@@ -1,3 +1,7 @@
+[Interesting link on asset gems](https://github.com/rails/rails/commit/49c4af43ec5819d8f5c1a91f9b84296c927ce6e7) basically discusses a way around memory bloat of loading asset oriented gems in production.  Seems completely reasonable to me.
+
+
+
 http://blog.heapsource.com/post/55696145680/effortless-two-factor-authentication-in-rails
 
 ## Test Links

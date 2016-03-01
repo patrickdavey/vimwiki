@@ -1,10 +1,8 @@
 === To Read ===
 * [ ] [[7 languages in 7 weeks]]
 * [ ] [Harry potter and the methods of rationality](http://hpmor.com/chapter/2)
-* [ ] [[Thinking fast and slow]]
 * [ ] [[http://www.feynmanlectures.caltech.edu/I_toc.html|Feynman Lectures]]
 * [ ] http://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/ref=sr_1_1?ie=UTF8&qid=1427217491&sr=8-1&keywords=mastery
-* [ ] This changes everything
 * [ ] http://www.amazon.com/The-Power-Broker-Robert-Moses/dp/0394720245 (Alex Lam suggestion)
 * [ ] , Robert Caro books - Churchill bios (also Alex Lam suggestions)
 * [ ] Mistakes Were Made But Not By Me (@cczona)
@@ -12,6 +10,7 @@
 * [ ] Aurora by Kim Stanley Robinson.(Isaac suggestion)
 * [ ] Masters of Doom (Tim suggestion)
 * [ ] When life nearly died (Yvonne - antarctica)
+* [ ] [[The Happiness Trap]]
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
@@ -26,6 +25,13 @@
 * [X] [[Design Patterns in Ruby]]
 * [X] [[Limits to growth - the 30 year update]]
 * [X] [[The pragmatic programmer]]
+* [X] [[This changes everything]]
+* [X] [[A mind for numbers]]
+* [X] [[Code Complete]]
+* [X] [[Eloquent Ruby]]
+* [X] [[Hornblower and the Atropos]]
+* [X] [[Matilda]]
+* [X] [[Thinking fast and slow]]
 
 
 [HN Thread on interesting books](https://news.ycombinator.com/item?id=8716111)
@@ -36,7 +42,7 @@ Mr Midshipman Hornblower
 Lieutenant Hornblower
 Hornblower and the Hotspur
 Hornblower and the Crisis - unfinished* (Hornblower during the Crisis)
-Hornblower and the Atropos
+[[Hornblower and the Atropos]]
 The Happy Return (Beat to Quarters)
 A Ship of the Line (Ship of the Line)
 Flying Colours

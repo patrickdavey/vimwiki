@@ -71,4 +71,4 @@ git commit -m "my happy state"
 git reset --hard
 ```
 
-
+https://medium.freecodecamp.com/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.xtwfkhby6

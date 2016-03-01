@@ -124,3 +124,6 @@ test
 
 ------- 23/02/2016 07:59:47 ---------
 http://peter-murach.github.io/tty/?utm_source=rubyweekly&utm_medium=email
+
+------- 24/02/2016 14:30:18 ---------
+http://stackoverflow.com/questions/25637485/access-google-contacts-api-on-ruby
