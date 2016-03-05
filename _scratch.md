@@ -127,3 +127,12 @@ http://peter-murach.github.io/tty/?utm_source=rubyweekly&utm_medium=email
 
 ------- 24/02/2016 14:30:18 ---------
 http://stackoverflow.com/questions/25637485/access-google-contacts-api-on-ruby
+
+------- 03/03/2016 17:46:46 ---------
+http://resources.codeship.com/ebooks/continuous-integration-continuous-delivery-with-docker?utm_source=cicddockerebook
+
+------- 04/03/2016 11:13:23 ---------
+http://pythontutor.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fav
+
+------- 04/03/2016 18:17:30 ---------
+http://maps.google.com/maps?q=loc:-23.584797,-65.396500
