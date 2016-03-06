@@ -1,6 +1,9 @@
 http://www.instructables.com/id/Simple-timelapse-camera-using-Raspberry-Pi-and-a-c/
 raspistill -t 0 -tl 5000 -o image%04d.jpg
 
+dataplicity.com - linked from http://www.geekzone.co.nz/forums.asp?forumid=46&topicid=166207&page_no=3#1506941
+seems like a clever way of allowing remote access to your pi. Excellent
+
 [[ScienceCam]]
 
 [[Home media server]]
