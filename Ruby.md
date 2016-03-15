@@ -164,3 +164,4 @@ https://sourcemaking.com/refactoring/bad-smells-in-code
 * http://rubyconferences.org/ 
 * http://lanyrd.com/topics/ruby/
 
+[ASCII tables for testing](https://punctuatedproductivity.wordpress.com/2016/02/02/ascii-tables-for-clearer-testing/)

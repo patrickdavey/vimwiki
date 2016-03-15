@@ -136,3 +136,6 @@ http://pythontutor.com/?utm_source=hackernewsletter&utm_medium=email&utm_term=fa
 
 ------- 04/03/2016 18:17:30 ---------
 http://maps.google.com/maps?q=loc:-23.584797,-65.396500
+
+------- 14/03/2016 18:49:28 ---------
+http://hackernewsletter.us1.list-manage1.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=de215306d4&e=8dc29a812d

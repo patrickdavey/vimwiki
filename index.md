@@ -1,4 +1,5 @@
 ## Patrick Davey personal Wiki
+
 * [[Books]]
 * [[Movies to watch]]
 * [[Vim Tips]]
@@ -44,6 +45,7 @@
 * [[glynn]]
 
 ## Languages & Frameworks
+* [[Things to play with and try out]]
 * [[Ruby]]
 * [[Rails]]
 * [[iOS]]
