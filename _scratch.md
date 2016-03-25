@@ -139,3 +139,18 @@ http://maps.google.com/maps?q=loc:-23.584797,-65.396500
 
 ------- 14/03/2016 18:49:28 ---------
 http://hackernewsletter.us1.list-manage1.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=de215306d4&e=8dc29a812d
+
+------- 16/03/2016 17:12:30 ---------
+https://developers.google.com/optimization/routing/tsp#the-problem
+
+------- 17/03/2016 08:22:50 ---------
+http://www.bedsforcyclists.co.uk/articles/2014/04/13/how-to-plan-a-route-in-google-maps-and-export-it-to-gpx-your-phone/
+
+------- 21/03/2016 18:58:38 ---------
+https://news.ycombinator.com/item?id=11283955&utm_term=comment
+
+------- 21/03/2016 18:59:06 ---------
+try i3 on ubuntu
+
+------- 22/03/2016 16:44:25 ---------
+http://www.3ders.org/articles/20160320-this-tiny-3d-printed-gameboy-raspberry-pi-zero-will-take-you-back-to-the-90s.html
