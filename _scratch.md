@@ -160,3 +160,8 @@ http://www.betterruby.com/gangs-in-ruby-remember-me/?utm_source=rubyweekly&utm_m
 
 ------- 25/03/2016 10:01:03 ---------
 http://t.rdsv1.net/wf/click?upn=UZ1DXE2YEvl9TigjhP3cezTt-2FH6S6JH1xSWpPVrzCWo3d-2BnWtqSrw2wKCKqhp7cQ4LgbF-2ByW8dv1-2BS4CjhOFslZ9-2F-2FVV6DVzEWFXsOUX-2B5vj40Pd87D5yTVjloQs8K4jB1kDT7vXnObrbgcutYZ804sXZqxapM7QpuXHuHwDla4hitrEjRfJ11eiDnOnTOM46BKCCUCGVylxIqWA1Wu31w0swX3dJaP1Qw8Rbza60WM-3D_Kd5TrgWPa9kIBV1pnxZ-2FWUgH3C2P2iLBdInIAs4prK5GbOY4iW-2BY4NwCX8wmwbrvoo2YZfso3y6S3kiy43-2BQ6sDrZyjIePpPUl7JOGI9iZ-2BgUIS-2FN8SLvHKVxxzRyTINCKuvq3X8H3nKlHVk-2FE8XDxMCXVwCvzOw1Co2CJtYQveSeVOodyEuSB7A1yV9JxmZoRsg1tBIu-2FV2X6Vkj0iaCuAide6olakBT3hWP-2FiSTtcw273eFhhzPkw32mBfLTcjBNVy6vtzH1pgpbNmRb7Wm8-2B5P4S0oOSAxV9hAm5RN85g-2BNOvB5JK9q1raCSvW03qBjQ9PwQwqbluFHtZbNWa-2Fp-2FtjTBJFcGFWOTzbMVMTqyQE4eyJDpYsIiy9BJCD13r4gfeC-2B78OFBg4eWY0w3B8PtS1a2zb4LI-2B79eXRKPZmKWS8bwCp-2BbvVh9mu2WnS7O6pOnVHqIfQB9Ez3If220J4uALygH7Gq3eJYVwLGyk7A-3D
+
+------- 25/03/2016 20:15:24 ---------
+Daniel Calvo
+Location: geo:-19.047823,-65.25795?z=17
+http://osmand.net/go?lat=-19.047823&lon=-65.25795&z=17

@@ -109,6 +109,8 @@ find . -type f -name *.txt -print0 | xargs -0 -I {} mv {} .
 
 ```bash
 # useful for modifying podcasts so that they'll work nicely on an old ipod sorting wise
+# first we move all the mp3.s into the current directory, then we get the modified time
+# of the mp3, and set that as the title (title = title_filename)
 find . -type f -name *.mp3  -print0 | xargs -0 -I {} mv {} .
 ls -1tr | xargs -I {} stat -f '%m %N' {} | xargs -L1 bash -c 'id3tag -s$0_$1 $1'
 ```

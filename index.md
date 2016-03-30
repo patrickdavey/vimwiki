@@ -39,7 +39,11 @@
 * Tasker - android app
 * http://skilldrick.github.io/easyforth/
 * https://www.youtube.com/user/CooperPress/videos watch sometime
-* https://github.com/ben174/git-draw silly thing, but maybe make my heatmap say travel.. also https://github.com/gelstudios/gitfiti
+* http://www.ember-fastboot.com/
+* [Link on trying EVIL mode in emacs, and on orgmode](https://news.ycombinator.com/item?id=11387787)
+
+## Presentation Tools
+* [nice code formatting](https://github.com/thejameskyle/spectacle-code-slide)
 
 ## Railscamp stuff
 * [[ideas]]
@@ -53,6 +57,7 @@
 * [[android]]
 * [[JavaScript]]
 * [[elixir]]
+* [Spanish](Spanish)
 
 ## Scratch pad
 * [[_scratch]]
