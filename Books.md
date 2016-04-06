@@ -1,6 +1,5 @@
 === To Read ===
 * [ ] [[7 languages in 7 weeks]]
-* [ ] [Harry potter and the methods of rationality](http://hpmor.com/chapter/2)
 * [ ] [[http://www.feynmanlectures.caltech.edu/I_toc.html|Feynman Lectures]]
 * [ ] http://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/ref=sr_1_1?ie=UTF8&qid=1427217491&sr=8-1&keywords=mastery
 * [ ] http://www.amazon.com/The-Power-Broker-Robert-Moses/dp/0394720245 (Alex Lam suggestion)
@@ -11,6 +10,8 @@
 * [ ] Masters of Doom (Tim suggestion)
 * [ ] When life nearly died (Yvonne - antarctica)
 * [ ] [[The Happiness Trap]]
+* [ ] Victor frankl. Mans search for meaning
+* [ ] the narrow road to the far north
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
@@ -32,6 +33,7 @@
 * [X] [[Hornblower and the Atropos]]
 * [X] [[Matilda]]
 * [X] [[Thinking fast and slow]]
+* [X] [Harry potter and the methods of rationality](http://hpmor.com/chapter/2)
 
 
 [HN Thread on interesting books](https://news.ycombinator.com/item?id=8716111)

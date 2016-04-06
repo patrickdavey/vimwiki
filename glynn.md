@@ -1,2 +1,0 @@
-* Etherpad
-* postie for wordpress

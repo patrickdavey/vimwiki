@@ -8,9 +8,8 @@ http://www.sitebuilderreport.com/websites-101/design-guides/where-the-best-desig
 
 
 next two links about hosting a static site on S3 with cloudfront
-http://caisson.co/
-
-http://paulstamatiou.com/hosting-on-amazon-s3-with-cloudfront/
+http://caisson.co/  
+http://paulstamatiou.com/hosting-on-amazon-s3-with-cloudfront/  
 
 http://barrysmyth.me/2014/01/18/building-a-better-ski-app/
 
@@ -21,8 +20,6 @@ http://asoftmurmur.com/
 http://creativecommons.org/licenses/by-sa/2.0/deed.en_GB
 
 http://gofreerange.com/tracing-the-git-history-of-a-ruby-method
-
-[Password Manager HN Thread](https://news.ycombinator.com/item?id=7495337)
 
 http://luminescente.com/2014/03/how-to-build-your-own-phonegap-clone-on-ios/
 
@@ -44,19 +41,11 @@ http://www.passwordstore.org/
 
 [Google Mail Search Tips](https://support.google.co/mail/answer/7190?hl=en)
 
-Change vimwiki to work with markdown
-https://vimwiki.googlecode.com/hg-history/afe0572c9e4a27432866135801388b0479df453a/src/autoload/vimwiki/customwiki2html.sh
-
 https://readme.io/
 
 = regex =
 http://regex101.com/ very nice explain tool
 
-
 http://www.dancarlin.com/product/hardcore-history-50-blueprint-for-armageddon-i/
 
-
 [https://play.google.com/store/apps/details?id=com.blogspot.solheimsoftware.gps.location.saver](Possibly useful gps location)
-
-
-if capture("cd #{latest_release} && #{source.local.log(from)} lib/assets/ vendor/assets/ app/assets/ | wc -l").to_i > 0

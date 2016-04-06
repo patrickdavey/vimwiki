@@ -29,9 +29,7 @@
 ## Hack ideas
 * [[timelapses]]
 * https://docs.docker.com/compose/wordpress/
-* https://github.com/junegunn/vim-plug
 * https://telegram.org/ and https://rbnrpi.wordpress.com/raspberry-pi-control-gpio-and-your-pi-camera-using-your-phone/
-* https://gist.github.com/xavriley/418f8283af2fbe95fc90
 * [HN Link on climate etc.](https://news.ycombinator.com/item?id=10622615)
 * play with google speech recognition api (also [this HN thread on voice recognition](https://news.ycombinator.com/item?id=11347872)
 * [arduino starter - thanks to Pete Nicholls for the link](https://gist.github.com/Aupajo/501c719de8647320ebe2)
@@ -41,13 +39,16 @@
 * https://www.youtube.com/user/CooperPress/videos watch sometime
 * http://www.ember-fastboot.com/
 * [Link on trying EVIL mode in emacs, and on orgmode](https://news.ycombinator.com/item?id=11387787)
+* [[retro pi]]
+* [[setup a proper git commit template]]
+* https://zealdocs.org/ (integrate with vim on linux, integrate dash with vim on osx)
+* http://stackoverflow.com/questions/25637485/access-google-contacts-api-on-ruby
+* http://www.bedsforcyclists.co.uk/articles/2014/04/13/how-to-plan-a-route-in-google-maps-and-export-it-to-gpx-your-phone/
+* try i3 on ubuntu
+
 
 ## Presentation Tools
 * [nice code formatting](https://github.com/thejameskyle/spectacle-code-slide)
-
-## Railscamp stuff
-* [[ideas]]
-* [[glynn]]
 
 ## Languages & Frameworks
 * [[Things to play with and try out]]

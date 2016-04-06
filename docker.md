@@ -15,3 +15,6 @@ http://www.ybrikman.com/writing/2015/05/19/docker-osx-dev/
 http://blog.codeship.com/testing-rails-application-docker/
 
 http://merrigrove.blogspot.co.nz/2015/10/visualizing-docker-containers-and-images.html
+
+http://bencane.com/2015/12/01/getting-started-with-docker-by-dockerizing-this-blog/?utm_source=webopsweekly&utm_medium=email
+
