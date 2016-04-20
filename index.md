@@ -44,11 +44,14 @@
 * https://zealdocs.org/ (integrate with vim on linux, integrate dash with vim on osx)
 * http://stackoverflow.com/questions/25637485/access-google-contacts-api-on-ruby
 * http://www.bedsforcyclists.co.uk/articles/2014/04/13/how-to-plan-a-route-in-google-maps-and-export-it-to-gpx-your-phone/
+* http://developer.telerik.com/featured/tools-learn-javascript
 * try i3 on ubuntu
 
 
 ## Presentation Tools
 * [nice code formatting](https://github.com/thejameskyle/spectacle-code-slide)
+* [creative commons picture sharing](https://visualhunt.com/)
+* [licecap](http://www.cockos.com/licecap/)
 
 ## Languages & Frameworks
 * [[Things to play with and try out]]

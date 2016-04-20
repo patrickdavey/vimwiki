@@ -80,6 +80,8 @@ Taken from the '[Classical Inheritence is Obsolete](https://www.youtube.com/watc
   patrick.set('name', 'Blah'); // Blah
 ```
 
+http://developer.telerik.com/featured/tools-learn-javascript/
+
 [[Speedtest snippet]]
 
 [[How to give an object Public + Private methods & properties]]
