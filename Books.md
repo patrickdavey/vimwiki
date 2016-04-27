@@ -12,6 +12,7 @@
 * [ ] [[The Happiness Trap]]
 * [ ] Victor frankl. Mans search for meaning
 * [ ] the narrow road to the far north
+* [ ] McMafia (Bart, Colombia recommendation)
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
@@ -34,6 +35,7 @@
 * [X] [[Matilda]]
 * [X] [[Thinking fast and slow]]
 * [X] [Harry potter and the methods of rationality](http://hpmor.com/chapter/2)
+* [X] [[Twelve years a slave]]
 
 
 [HN Thread on interesting books](https://news.ycombinator.com/item?id=8716111)

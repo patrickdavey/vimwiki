@@ -19,3 +19,36 @@ https://www.ted.com/talks/david_mackay_a_reality_check_on_renewables?language=en
 
 ------- 17/04/2016 15:36:29 ---------
 https://taihen.org/managing-dotfiles-with-gnu-stow/
+
+------- 20/04/2016 17:57:56 ---------
+https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/?utm_source=webopsweekly&utm_medium=email
+
+------- 21/04/2016 16:26:11 ---------
+http://javascriptweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=dbd1eeffdc&e=530387fb06
+
+------- 21/04/2016 16:28:37 ---------
+
+https://gist.github.com/Aupajo/055eef576bc9cbe4918ce9719d08afb2
+
+------- 22/04/2016 09:37:39 ---------
+talks: the noun project
+
+------- 22/04/2016 15:57:12 ---------
+https://glot.io/
+
+------- 24/04/2016 21:27:08 ---------
+http://introjs.com/example/hint/index.html
+
+------- 24/04/2016 21:27:51 ---------
+http://www.wsj.com/articles/the-science-of-making-friends-1460992572
+
+------- 26/04/2016 13:25:04 ---------
+https://news.ycombinator.com/item?id=11571756
+
+------- 26/04/2016 13:50:12 ---------
+https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.jf25ppg8l
+
+------- 26/04/2016 17:38:09 ---------
+Address is not known yet
+Location: geo:5.076863,-75.539185?z=16
+http://osmand.net/go?lat=5.076863&lon=-75.539185&z=16
