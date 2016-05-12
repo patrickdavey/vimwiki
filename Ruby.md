@@ -148,6 +148,12 @@ message.scan(/.{4}|.+/).map { |a| [a.to_i(16)].pack('U') }
 
 ```
 
+```ruby
+# if you want to see the bytecode of a method..
+insns = RubyVM::InstructionSequence.of Foo.new.method(:foo)
+puts insns.disasm
+```
+
 
 [[Example of a decorator]]
 
@@ -165,3 +171,4 @@ https://sourcemaking.com/refactoring/bad-smells-in-code
 * http://lanyrd.com/topics/ruby/
 
 [ASCII tables for testing](https://punctuatedproductivity.wordpress.com/2016/02/02/ascii-tables-for-clearer-testing/)
+

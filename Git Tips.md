@@ -71,4 +71,8 @@ git commit -m "my happy state"
 git reset --hard
 ```
 
+```bash
+# run rake for all versions of [master](master)
+git rev-list --reverse master | while read rev; do git checkout $rev; git clean -df; rake; done; git checkout master
+```
 https://medium.freecodecamp.com/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.xtwfkhby6

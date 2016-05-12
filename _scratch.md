@@ -52,3 +52,54 @@ https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.jf25ppg8l
 Address is not known yet
 Location: geo:5.076863,-75.539185?z=16
 http://osmand.net/go?lat=5.076863&lon=-75.539185&z=16
+
+------- 30/04/2016 16:37:32 ---------
+https://github.com/node-red/node-red/blob/master/README.md
+
+------- 30/04/2016 16:37:38 ---------
+https://news.ycombinator.com/item?id=11600739
+
+------- 30/04/2016 17:12:49 ---------
+http://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/?utm_source=javascriptweekly&utm_medium=email
+
+------- 30/04/2016 20:51:24 ---------
+https://github.com/justincampbell/tmux-pomodoro/blob/master/README.md
+
+------- 02/05/2016 21:50:58 ---------
+import picamera.array
+import numpy as np
+
+with picamera.array.PiRGBArray(camera) as stream:
+            camera.resolution = (100, 100)
+            camera.start_preview()
+            time.sleep(2)
+            camera.capture(stream, 'rgb')
+            immean1=int(np.mean(stream.array))
+            
+
+Basically dumps a small test image into an array, and then takes the mean of the array. Then if immean1>a certain value, take photo :). This isn't the whole code (happy to share if you want) but it's the interesting bits
+
+
+•••
+
+
+
+
+
+------- 03/05/2016 06:15:11 ---------
+https://learnxinyminutes.com/
+
+------- 04/05/2016 08:24:11 ---------
+Phoenix Tips and Tricks
+https://dockyard.com/blog/2016/05/02/phoenix-tips-and-tricks
+
+------- 12/05/2016 02:08:31 ---------
+a few thoughts. 
+
+change this append app to use a db backed queue with categories of pages to append to. something like an iftt app perhaps ?
+
+games controllers for retropi? see if they work.
+
+plug in ngrok gem to ento when the time comes.
+
+

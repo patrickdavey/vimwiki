@@ -33,3 +33,38 @@ http://dougblack.io/words/a-good-vimrc.html
 
 String replace over newlines (useful for wordpress picture insertion)  
 :%s/<\/a>\n\{-}<a href/<\/a><a href/g
+
+
+### execute a vim script over files
+Say you have a file with the word "change" in it, and you want to change
+it to "wibble". And further say there are a few of these files in various
+sub directories.
+
+Create a bash script like this:
+
+```bash
+#!/bin/bash
+
+for file in `find . -name *.txt`; do
+	vim -e -s $file < wibble.vim
+done;
+```
+
+and create the wibble.vim script above which contains the Ex commands
+required:
+
+```
+%s/change/garble/ge
+write
+quit
+```
+
+Then you simply run the script, and the Ex commands will be run over
+all of the files found in the find.
+
+Now, it's easier to simply use the args command above, for this simple
+search and replace, however, if you have more commands to do, this
+might be a decent way to do it.
+
+I had issues trying to do this using find & xargs, it's to do with
+stdin which I really should open a StackOverflow about.

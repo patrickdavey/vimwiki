@@ -46,7 +46,8 @@
 * http://www.bedsforcyclists.co.uk/articles/2014/04/13/how-to-plan-a-route-in-google-maps-and-export-it-to-gpx-your-phone/
 * http://developer.telerik.com/featured/tools-learn-javascript
 * try i3 on ubuntu
-* Make pi post video to youtube and then compile list straight into timelapse file
+* Make google contacts local app.
+* fix this text "I you have really badly indented code, you can re-indent the whole file with:"
 
 
 ## Presentation Tools
@@ -63,6 +64,8 @@
 * [[JavaScript]]
 * [[elixir]]
 * [Spanish](Spanish)
+* [Bugs](Bugs)
+* [tech videos](tech_videos.md)
 
 ## Scratch pad
 * [[_scratch]]

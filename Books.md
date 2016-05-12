@@ -13,6 +13,12 @@
 * [ ] Victor frankl. Mans search for meaning
 * [ ] the narrow road to the far north
 * [ ] McMafia (Bart, Colombia recommendation)
+* [ ] The art of empathy
+* [ ] Programming pearls
+* [ ] The Phoenix Project
+* [ ] Practices of an aglie developer
+* [ ] Unix Powertools
+* [ ] Rails freelancing book (maybe)
 
 === Read ===
 * [X] Pragmatic Thinking and Learning

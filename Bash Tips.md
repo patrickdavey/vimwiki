@@ -120,3 +120,40 @@ ls -1tr | xargs -I {} stat -f '%m %N' {} | xargs -L1 bash -c 'id3tag -s$0_$1 $1'
 # from http://serverfault.com/a/98750/129747
 while ! rsync -a .... ;do sleep 5;done
 ```
+
+```bash
+# from the first DAS episode, this loops over all blobs in
+# git revisions on master and shows the line count. Good example
+# of a few different control flows, pipeing etc.
+# still feels a little magic to be hones
+
+#!/bin/bash
+
+set -e
+grep_arg=$1
+echo $grep_arg
+
+function main {
+  for rev in `revisions`; do
+    echo "`line_count` `revision_info`"
+  done
+}
+
+function revision_info {
+  git log --oneline -1 $rev
+}
+
+function line_count {
+  git ls-tree -r $rev |
+  grep "$grep_arg" |
+  awk '{print $3}' |
+  xargs git show |
+  wc -l
+}
+
+function revisions {
+  git rev-list --reverse master
+}
+
+main
+```
