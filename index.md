@@ -2,9 +2,6 @@
 
 * [[Books]]
 * [[Movies to watch]]
-* [[Vim Tips]]
-* [[Git Tips]]
-* [[Bash Tips]]
 * [[Mysql Tips]]
 * [[css - responsive - design Tips]]
 * [[Backbone]]
@@ -15,7 +12,6 @@
 * [[lent items]]
 * [[bike and car stuff]]
 * [[raspberrypi]]
-* [[docker]]
 * [[privacy]]
 * [[speaking and presentations]]
 * [[stuff to buy maybe someday]]
@@ -48,6 +44,16 @@
 * try i3 on ubuntu
 * Make google contacts local app.
 * fix this text "I you have really badly indented code, you can re-indent the whole file with:"
+* https://taihen.org/managing-dotfiles-with-gnu-stow/
+* [three js javascript 3d modelling](http://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/?utm_source=javascriptweekly&utm_medium=email)
+* https://github.com/justincampbell/tmux-pomodoro/blob/master/README.md
+* https://learnxinyminutes.com/
+* change Appender app to use a db backed queue with categories of pages to append to. something like an iftt app perhaps ?
+* http://stackoverflow.com/questions/3828606/vim-markdown-folding
+* https://github.com/vimwiki/vimwiki/issues/117
+* [Electron - Githubs Desktop app project](https://github.com/blog/2167-electron-1-0-is-here?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
+* CERTBOT - ssl cert generator https://news.ycombinator.com/item?id=11705731
+* Maybe think about installing vim-sneak justinmk/vim-sneak allows you to jump to two sequential chars in the file
 
 
 ## Presentation Tools
@@ -59,6 +65,7 @@
 * [[Things to play with and try out]]
 * [[Ruby]]
 * [[Rails]]
+* [React](React)
 * [[iOS]]
 * [[android]]
 * [[JavaScript]]
@@ -66,6 +73,16 @@
 * [Spanish](Spanish)
 * [Bugs](Bugs)
 * [tech videos](tech_videos.md)
+* [IOT](IOT)
+* [[Vim Tips]]
+* [[Git Tips]]
+* [[Bash Tips]]
+
+## Tools
+[Screenshotting and testing tool](http://casperjs.org/)
+* [[docker]]
+* https://glot.io/ open source runnable pastebin
+* http://sqlmap.org/ SQL injection testing tool
 
 ## Scratch pad
 * [[_scratch]]

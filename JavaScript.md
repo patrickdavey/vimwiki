@@ -1,4 +1,4 @@
-[Screenshotting and testing tool](http://casperjs.org/)
+https://ponyfoo.com/articles/tagged/es6-in-depth
 
 
 ```javascript

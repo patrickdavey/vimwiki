@@ -34,6 +34,10 @@
       h1, h2, h3, h4, h5 {
         position: relative;
       }
+
+      p {
+        width: 40em;
+      }
     </style>
   <title>%title%</title>
   <meta http-equiv="Content-Type" content="text/html; charset=%encoding%">

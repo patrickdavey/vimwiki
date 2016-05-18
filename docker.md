@@ -18,3 +18,4 @@ http://merrigrove.blogspot.co.nz/2015/10/visualizing-docker-containers-and-image
 
 http://bencane.com/2015/12/01/getting-started-with-docker-by-dockerizing-this-blog/?utm_source=webopsweekly&utm_medium=email
 
+https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/?utm_source=webopsweekly&utm_medium=email

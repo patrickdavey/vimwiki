@@ -68,3 +68,5 @@ might be a decent way to do it.
 
 I had issues trying to do this using find & xargs, it's to do with
 stdin which I really should open a StackOverflow about.
+
+[Commands I'm trying to learn](commands_to_learn.md)

@@ -1,105 +1,55 @@
 
-------- 04/04/2016 07:45:59 ---------
-https://medium.com/the-year-of-the-looking-glass/unintuitive-things-i-ve-learned-about-management-f2c42d68604b#.vfz9kv7ot
+------- 14/05/2016 09:34:51 ---------
+http://rubyweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=8e17fd8cd4&e=aba8b9cf6c
 
-------- 13/04/2016 06:21:38 ---------
-https://www.smashingmagazine.com/2016/04/consider-react-native-mobile-app/?utm_source=javascriptweekly&utm_medium=email
+------- 14/05/2016 09:40:10 ---------
+When you work collaboratively, you make a deliberate choice to be vulnerable. It may be just a sliver of vulnerability, but you're making a choice to share ideas that aren’t fully formed. It only works if you trust that the team is operating similarly,” 
 
-------- 13/04/2016 06:30:06 ---------
-https://ponyfoo.com/articles/tagged/es6-in-depth
+http://firstround.com/review/reddit-and-facebook-veteran-on-how-to-troubleshoot-troublemakers/
 
-------- 13/04/2016 06:42:20 ---------
-https://infinum.co/the-capsized-eight/articles/whitelisting-with-the-lesser-known-presence-in-method?utm_source=rubyweekly&utm_medium=email
+------- 14/05/2016 09:47:01 ---------
+http://firstround.com/review/reddit-and-facebook-veteran-on-how-to-troubleshoot-troublemakers/
 
-------- 13/04/2016 09:06:20 ---------
-http://renderedtext.com/blog/2016/04/07/ecto-for-rails-developers/?utm_source=rubyweekly&utm_medium=email
+------- 14/05/2016 12:03:29 ---------
+Sandi SOLID
 
-------- 17/04/2016 14:50:05 ---------
-https://www.ted.com/talks/david_mackay_a_reality_check_on_renewables?language=en
+only mock objects I own
 
-------- 17/04/2016 15:36:29 ---------
-https://taihen.org/managing-dotfiles-with-gnu-stow/
+no mock object under test
 
-------- 20/04/2016 17:57:56 ---------
-https://www.smashingmagazine.com/2016/04/stop-installing-your-webdev-environment-locally-with-docker/?utm_source=webopsweekly&utm_medium=email
+Refactor stage, check single responsibility
+Check if it's insides change at the same rate
+Check if it's dependencies change less often
 
-------- 21/04/2016 16:26:11 ---------
-http://javascriptweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=dbd1eeffdc&e=530387fb06
-
-------- 21/04/2016 16:28:37 ---------
-
-https://gist.github.com/Aupajo/055eef576bc9cbe4918ce9719d08afb2
-
-------- 22/04/2016 09:37:39 ---------
-talks: the noun project
-
-------- 22/04/2016 15:57:12 ---------
-https://glot.io/
-
-------- 24/04/2016 21:27:08 ---------
-http://introjs.com/example/hint/index.html
-
-------- 24/04/2016 21:27:51 ---------
-http://www.wsj.com/articles/the-science-of-making-friends-1460992572
-
-------- 26/04/2016 13:25:04 ---------
-https://news.ycombinator.com/item?id=11571756
-
-------- 26/04/2016 13:50:12 ---------
-https://medium.com/@akosma/being-a-developer-after-40-3c5dd112210c#.jf25ppg8l
-
-------- 26/04/2016 17:38:09 ---------
-Address is not known yet
-Location: geo:5.076863,-75.539185?z=16
-http://osmand.net/go?lat=5.076863&lon=-75.539185&z=16
-
-------- 30/04/2016 16:37:32 ---------
-https://github.com/node-red/node-red/blob/master/README.md
-
-------- 30/04/2016 16:37:38 ---------
-https://news.ycombinator.com/item?id=11600739
-
-------- 30/04/2016 17:12:49 ---------
-http://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/?utm_source=javascriptweekly&utm_medium=email
-
-------- 30/04/2016 20:51:24 ---------
-https://github.com/justincampbell/tmux-pomodoro/blob/master/README.md
-
-------- 02/05/2016 21:50:58 ---------
-import picamera.array
-import numpy as np
-
-with picamera.array.PiRGBArray(camera) as stream:
-            camera.resolution = (100, 100)
-            camera.start_preview()
-            time.sleep(2)
-            camera.capture(stream, 'rgb')
-            immean1=int(np.mean(stream.array))
-            
-
-Basically dumps a small test image into an array, and then takes the mean of the array. Then if immean1>a certain value, take photo :). This isn't the whole code (happy to share if you want) but it's the interesting bits
+extract, inject, Refactor
 
 
-•••
+if you're going to instantiate an instance of a class, do it on your initialize method (dependency injection)
 
+------- 14/05/2016 12:30:40 ---------
+open closed means adding new behaviour means you don't have to change existing code
 
+duplication is far cheaper than the wrong abstraction
 
+------- 14/05/2016 12:39:44 ---------
+Corey full stack fest talk deriving if
 
+------- 14/05/2016 12:55:12 ---------
+book: refactoring to patterns, Sandi Metz something is nothing talk
 
-------- 03/05/2016 06:15:11 ---------
-https://learnxinyminutes.com/
+------- 14/05/2016 13:09:47 ---------
+composition. inject a thing to play the role that varies
 
-------- 04/05/2016 08:24:11 ---------
-Phoenix Tips and Tricks
-https://dockyard.com/blog/2016/05/02/phoenix-tips-and-tricks
+------- 14/05/2016 13:28:06 ---------
+test isolation and refactoring das
 
-------- 12/05/2016 02:08:31 ---------
-a few thoughts. 
+shows a where polluting a few different points. extracts a recent method, talks about tests influencing your design, driving out abstractions
 
-change this append app to use a db backed queue with categories of pages to append to. something like an iftt app perhaps ?
+------- 16/05/2016 15:54:40 ---------
+http://avdi.us1.list-manage.com/track/click?u=53a12bfed319e2ce36b906532&id=a0cb1992e3&e=4d3818b31c
 
-games controllers for retropi? see if they work.
+------- 16/05/2016 15:55:40 ---------
+http://avdi.us1.list-manage.com/track/click?u=53a12bfed319e2ce36b906532&id=fc6d051200&e=4d3818b31c
 
-plug in ngrok gem to ento when the time comes.
-
-
+------- 16/05/2016 16:47:31 ---------
+https://news.ycombinator.com/item?id=11707493
