@@ -53,3 +53,15 @@ http://avdi.us1.list-manage.com/track/click?u=53a12bfed319e2ce36b906532&id=fc6d0
 
 ------- 16/05/2016 16:47:31 ---------
 https://news.ycombinator.com/item?id=11707493
+
+------- 20/05/2016 10:09:22 ---------
+http://blog.jquery.com/2016/05/19/jquery-migrate-1-4-1-released-and-the-path-to-jquery-3-0/?utm_source=javascriptweekly&utm_medium=email
+
+------- 20/05/2016 10:10:00 ---------
+http://javascriptweekly.us1.list-manage1.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=9831d0897f&e=530387fb06
+
+------- 21/05/2016 11:44:15 ---------
+http://wiki.gkbrk.com/Hotel_Music.html
+
+------- 21/05/2016 16:43:17 ---------
+https://news.ycombinator.com/item?id=11745532
