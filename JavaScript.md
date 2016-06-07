@@ -1,5 +1,9 @@
 https://ponyfoo.com/articles/tagged/es6-in-depth
 
+https://learnredux.com/
+
+https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/
+
 
 ```javascript
   //scroll to the first field_with_errors field

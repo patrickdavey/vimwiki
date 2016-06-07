@@ -33,11 +33,11 @@
 * [three js javascript 3d modelling](http://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/)
 * https://learnxinyminutes.com/
 * change Appender app to use a db backed queue with categories of pages to append to. something like an iftt app perhaps ?
-* http://stackoverflow.com/questions/3828606/vim-markdown-folding
-* https://github.com/vimwiki/vimwiki/issues/117
+  * https://realm.io/news/realm-1.0/ Realm database possibly useful here.
 * [Electron - Githubs Desktop app project](https://github.com/blog/2167-electron-1-0-is-here?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
 * CERTBOT - ssl cert generator https://news.ycombinator.com/item?id=11705731
 * Maybe think about installing vim-sneak justinmk/vim-sneak allows you to jump to two sequential chars in the file
+* [Arduino brewbot pete gist](https://gist.github.com/Aupajo/501c719de8647320ebe2)
 
 
 ## Presentation Tools

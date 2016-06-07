@@ -65,3 +65,26 @@ http://wiki.gkbrk.com/Hotel_Music.html
 
 ------- 21/05/2016 16:43:17 ---------
 https://news.ycombinator.com/item?id=11745532
+
+------- 24/05/2016 22:55:39 ---------
+https://news.ycombinator.com/item?id=11765581
+
+------- 27/05/2016 08:38:42 ---------
+http://timewellspent.io/
+
+------- 27/05/2016 12:04:08 ---------
+https://news.ycombinator.com/item?id=11785078
+
+------- 27/05/2016 12:16:29 ---------
+https://news.ycombinator.com/item?id=11785702
+
+------- 27/05/2016 13:55:09 ---------
+http://t.rdsv1.net/wf/click?upn=BNP9UTiYvn78kUCiiXTtcpBbjCgObsA1cRePNGlTgnOe89KyuLH0wF16NstEPR8qyMdTOJB7MSye3EK9dQeLH3xNrh4qBCXE0G3oeCYuAIItUdxK-2Bbdth5P1NLPBaLIcevZprPX87qaehUkxS6JUXgopzG9LRVAt-2Br2nekjCXXT16eJ886O5nolmDVFJk1-2Fb6S7JPz9QwbUCXELM2EvJmw-3D-3D_Kd5TrgWPa9kIBV1pnxZ-2FWUgH3C2P2iLBdInIAs4prK5GbOY4iW-2BY4NwCX8wmwbrvoo2YZfso3y6S3kiy43-2BQ6kNIE3pv5BnWGiy1EHWWmOOdITvOP6n8P8lqng8n9gtDjxPeFWhO4jummK2lestKufHlFNjaWbTuZ-2FLbSR-2BR5AwPwZN36A9GMTL4d4HQeizenpcvYKojWfslx0f5WwO8Lg6hL8aOrbiirb7nDchnaZWiGshKCbNdWPvBjlmWUDa3ZY9toUKlgPxFNi4rAHjMr6YtGW20xCr-2FrI63-2FKaJHufLB-2BFePVEGwFbM11QJvNcE2XBf8E-2B4qjvagGh-2Fk9zbZ9obcvs3ZTyU9Hfaj47FIPucNS5Z31zF39oJJYe2IrsYJJGE70uq41dkk8mkIntIg6rRd2ewUWYx9MrbU6DtrieIMkFKHmV8KzNYqj-2FtKZOPE1wqB8j3j-2BAEeGmq9bhLDDcZh398AZbdmq8GE-2B7qYbg-3D
+
+------- 27/05/2016 13:55:34 ---------
+http://t.rdsv1.net/wf/click?upn=bg9XLHtAvH28b-2Bh0-2B6hK0swCrRxkM-2FFAUCmzbKd0BYGa5HTzGEMt6Nox9uWeZKoYgVKhagEBUjipbh75KGLt0SL-2FwTTMPJl-2BheaWSOoMo4QXRKbu3bZkOIQU5cSsXF-2FUTBAG-2BMDsAUFkNZng5wGsEDTwo4NF68i3-2B7fRgrS0ezSfSLE7-2Fotx-2FBkoogY97GsU_Kd5TrgWPa9kIBV1pnxZ-2FWUgH3C2P2iLBdInIAs4prK5GbOY4iW-2BY4NwCX8wmwbrvoo2YZfso3y6S3kiy43-2BQ6kNIE3pv5BnWGiy1EHWWmOOdITvOP6n8P8lqng8n9gtDjxPeFWhO4jummK2lestKufHlFNjaWbTuZ-2FLbSR-2BR5AwPwZN36A9GMTL4d4HQeizenpcvYKojWfslx0f5WwO8Lg6hL8aOrbiirb7nDchnaZWiGshKCbNdWPvBjlmWUDa3ZY9toUKlgPxFNi4rAHjMr6YtGW20xCr-2FrI63-2FKaJHufLB-2BFePVEGwFbM11QJvNcE2XBf8E-2B4qjvagGh-2Fk9zbZ3eol9qh7seLRZH2pvq8mHL1HgkjdNLFwqahFbmIutvjsrK9sqn-2BNwDtkJ8dfjx3ZTQ-2FmWZr6lj-2FA6cLIDa4KmOEUxLprMZ6-2FkqQQtPbNpukXhZgwv0UexpIUVxkcFT9Ot8Oyz7YXas2Y3j6DD6j5Rc-3D
+
+------- 30/05/2016 20:11:59 ---------
+The Signal and the Noise
+
+https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics
