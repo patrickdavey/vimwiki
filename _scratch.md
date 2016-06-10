@@ -88,3 +88,9 @@ http://t.rdsv1.net/wf/click?upn=bg9XLHtAvH28b-2Bh0-2B6hK0swCrRxkM-2FFAUCmzbKd0BY
 The Signal and the Noise
 
 https://www.countbayesie.com/blog/2016/5/1/a-guide-to-bayesian-statistics
+
+------- 08/06/2016 06:57:31 ---------
+http://www.lycamobile.ie/en/
+
+------- 08/06/2016 10:09:06 ---------
+https://github.com/jkbrzt/httpie

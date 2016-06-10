@@ -1,3 +1,4 @@
+[notes](notes)
 ### 0010 fast tests with and without rails
 look at DAS 10 rspec runner. Not sure how that's going to play with vim.rails though.
 
