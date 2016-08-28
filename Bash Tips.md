@@ -157,3 +157,13 @@ function revisions {
 
 main
 ```
+
+find . -type f -name "*.mp3"  -print0 | xargs -0 -I {} mid3v2 -aBlah -ABlah -cBlah -gPodcast {}
+
+
+```bash
+# combine all columns after the first one (grepping history)
+# from http://stackoverflow.com/questions/2961635/using-awk-to-print-all-columns-from-the-nth-to-the-last
+
+history | grep docker | awk '{$1=""; print $0}'
+```

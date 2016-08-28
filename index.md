@@ -15,6 +15,7 @@
 * [[learning]]
 * [[travel]]
 * [[home setup]]
+* [[Podcasts to try]]
 
 ## Hack ideas
 * https://docs.docker.com/compose/wordpress/
@@ -31,13 +32,19 @@
 * try i3 on ubuntu
 * Make google contacts local app.
 * [three js javascript 3d modelling](http://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/)
+* [one second dash - raspberry pi IoT button](https://github.com/ridiculousfish/one-second-dash)
 * https://learnxinyminutes.com/
 * change Appender app to use a db backed queue with categories of pages to append to. something like an iftt app perhaps ?
   * https://realm.io/news/realm-1.0/ Realm database possibly useful here.
 * [Electron - Githubs Desktop app project](https://github.com/blog/2167-electron-1-0-is-here?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
+* Add pgcasts to casts_browser https://www.pgcasts.com/
 * CERTBOT - ssl cert generator https://news.ycombinator.com/item?id=11705731
 * Maybe think about installing vim-sneak justinmk/vim-sneak allows you to jump to two sequential chars in the file
 * [Arduino brewbot pete gist](https://gist.github.com/Aupajo/501c719de8647320ebe2)
+* [elm intro](http://www.gizra.com/content/how-think-elm/)
+* https://ifttt.com
+* [TCP primer / quiz](https://www.joyent.com/blog/tcp-puzzlers)
+* [command line push notification - look at pushover too](https://github.com/dschep/ntfy)
 
 
 ## Presentation Tools
@@ -72,7 +79,9 @@
 * https://glot.io/ open source runnable pastebin
 * http://sqlmap.org/ SQL injection testing tool
 * [[database tools]]
+* [Geocoding link](https://news.ycombinator.com/item?id=11937467)
 
 ## Scratch pad
+* http://www.jonathanbriehl.com/2014/01/17/vertical-menu-for-bootstrap-3/
 * [vim commands to learn](commands_to_learn.md)
 * [[_scratch]]

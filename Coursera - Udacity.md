@@ -11,3 +11,6 @@ http://courses.cs.washington.edu/courses/cse341/13sp/
 Standford Machine learning course - aja Hammerly recommendation
 
 https://github.com/open-source-society/computer-science
+
+
+[Archived Coursera courses](https://archive.org/details/archiveteam_coursera)

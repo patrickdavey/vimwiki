@@ -1,6 +1,6 @@
 === To Read ===
 * [ ] [[7 languages in 7 weeks]]
-* [ ] [[http://www.feynmanlectures.caltech.edu/I_toc.html|Feynman Lectures]]
+* [ ] [Feynman Lecutres (written)](http://www.feynmanlectures.caltech.edu/I_toc.html) and [videos](http://www.cornell.edu/video/playlist/richard-feynman-messenger-lectures)
 * [ ] http://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/ref=sr_1_1?ie=UTF8&qid=1427217491&sr=8-1&keywords=mastery
 * [ ] http://www.amazon.com/The-Power-Broker-Robert-Moses/dp/0394720245 (Alex Lam suggestion)
 * [ ] , Robert Caro books - Churchill bios (also Alex Lam suggestions)
@@ -8,7 +8,6 @@
 * [ ]  http://www.amazon.com/Long-Way-Gone-Memoirs-Soldier/dp/0374531269
 * [ ] Aurora by Kim Stanley Robinson.(Isaac suggestion)
 * [ ] Masters of Doom (Tim suggestion)
-* [ ] When life nearly died (Yvonne - antarctica)
 * [ ] [[The Happiness Trap]]
 * [ ] Victor frankl. Mans search for meaning
 * [ ] the narrow road to the far north
@@ -19,6 +18,9 @@
 * [ ] Practices of an aglie developer
 * [ ] Unix Powertools
 * [ ] Rails freelancing book (maybe)
+* [ ] Prosperity without growth.
+* [ ] When life nearly died (Yvonne - antarctica)
+* [ ] The world without us (Thomas' friend)
 
 === Read ===
 * [X] Pragmatic Thinking and Learning

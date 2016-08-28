@@ -4,6 +4,19 @@ https://learnredux.com/
 
 https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/
 
+http://mint-ui.github.io/#!/en
+
+https://vuejs.org/
+
+https://laracasts.com/series/learning-vue-step-by-step/episodes/2?autoplay=true
+
+https://rlafranchi.github.io/2016/03/09/vuejs-and-rails/
+
+[vuejs mock](https://github.com/vuejs/vueify-example/blob/master/test/unit/a.spec.js#L23-L43)
+
+[use of nexttick for testing](http://codepen.io/sirlancelot/pen/BKdyRj?editors=1010)
+
+[SO on mocking es6](http://stackoverflow.com/questions/27323031/how-to-mock-dependencies-for-unit-tests-with-es6-modules?rq=1)
 
 ```javascript
   //scroll to the first field_with_errors field

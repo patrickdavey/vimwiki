@@ -1,6 +1,9 @@
 [Interesting link on asset gems](https://github.com/rails/rails/commit/49c4af43ec5819d8f5c1a91f9b84296c927ce6e7) basically discusses a way around memory bloat of loading asset oriented gems in production.  Seems completely reasonable to me.
 
 [Nice example of an rspec rails_helper file](http://blog.thefrontiergroup.com.au/2016/02/clean-rails_helper-file/?utm_source=rubyweekly&utm_medium=email)
+[Rails javascript integration strategies](https://github.com/chrisvfritz/rails-javascript-integrations)
+https://github.com/browserify-rails/browserify-rails/issues/100
+http://blog.arkency.com/2015/04/bring-commonjs-to-your-asset-pipeline/
 
 http://blog.heapsource.com/post/55696145680/effortless-two-factor-authentication-in-rails
 

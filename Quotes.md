@@ -11,3 +11,4 @@ http://downlode.org/Etext/index.html
 
 http://firstround.com/review/reddit-and-facebook-veteran-on-how-to-troubleshoot-troublemakers/
 
+[how to be a wizard programmer](https://twitter.com/b0rk/status/755020037979856896)

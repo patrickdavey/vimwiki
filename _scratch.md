@@ -94,3 +94,194 @@ http://www.lycamobile.ie/en/
 
 ------- 08/06/2016 10:09:06 ---------
 https://github.com/jkbrzt/httpie
+
+------- 10/06/2016 17:03:48 ---------
+https://gist.github.com/endolith/3896948
+
+------- 11/06/2016 12:39:12 ---------
+https://news.ycombinator.com/item?id=11881767
+
+------- 11/06/2016 22:19:33 ---------
+http://blog.ptsecurity.com/2016/06/phd-vi-how-they-stole-our-drone.html?m=1
+
+------- 12/06/2016 09:31:32 ---------
+https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-dialogs/
+
+------- 12/06/2016 15:22:42 ---------
+http://www.cyclebanter.com/showthread.php?p=1618066
+
+------- 13/06/2016 07:06:41 ---------
+http://jvns.ca/blog/2016/06/12/a-weird-system-call-process-vm-readv/
+
+------- 13/06/2016 07:12:41 ---------
+https://remotebase.io/
+
+------- 13/06/2016 18:36:55 ---------
+http://android.stackexchange.com/questions/106856/how-to-root-oneplus-one
+
+------- 14/06/2016 22:01:18 ---------
+http://www.robinwieruch.de/the-soundcloud-client-in-react-redux/
+
+------- 18/06/2016 22:18:05 ---------
+Reading The Richest Man in Babylon did the magic instead. Check it out, even if just the wiki article. It is worth its weight in gold-pressed latinum.
+
+------- 19/06/2016 08:24:11 ---------
+https://github.com/jwt/ruby-jwt/blob/master/README.md
+
+------- 19/06/2016 09:34:50 ---------
+https://news.ycombinator.com/item?id=11929267
+
+------- 19/06/2016 11:40:46 ---------
+https://auth0.com/how-it-works
+
+------- 19/06/2016 13:20:23 ---------
+https://github.com/karan/Projects/issues/75
+
+------- 19/06/2016 15:19:14 ---------
+https://codelabs.developers.google.com/codelabs/firebase-web/#0
+
+------- 19/06/2016 15:20:50 ---------
+https://auth0.com/docs/server-apis/firebase
+
+------- 19/06/2016 16:38:26 ---------
+http://maps.google.com/maps?q=loc:51.136215,5.923212
+
+------- 19/06/2016 16:38:32 ---------
+http://maps.google.com/maps?q=loc:51.136219,5.923213
+
+------- 19/06/2016 16:41:14 ---------
+http://maps.google.com/maps?q=loc:51.136547,5.923260
+
+------- 21/06/2016 21:08:10 ---------
+http://devintorr.es/blog/2013/06/11/elixir-its-not-about-syntax/
+
+------- 24/06/2016 17:31:31 ---------
+http://threerockbooks.com/index.php/mongolia-bikepacking-logistics/
+
+------- 25/06/2016 08:51:15 ---------
+https://vimeo.com/170380151
+
+------- 25/06/2016 10:42:49 ---------
+https://github.com/getify/You-Dont-Know-JS
+
+------- 25/06/2016 17:41:13 ---------
+bla bla car hitch hike
+
+------- 02/07/2016 09:45:16 ---------
+https://news.ycombinator.com/item?id=12021476
+
+------- 02/07/2016 15:09:49 ---------
+https://news.ycombinator.com/item?id=12016155
+
+------- 03/07/2016 08:50:45 ---------
+https://www.getlektor.com/
+
+------- 03/07/2016 10:51:38 ---------
+https://github.com/vuejs/awesome-vue/blob/master/README.md#podcasts
+
+------- 04/07/2016 19:25:17 ---------
+http://www.cycle-route.com/
+
+------- 06/07/2016 19:07:40 ---------
+gingerknits
+
+------- 09/07/2016 07:30:34 ---------
+http://jvns.ca/blog/2016/07/03/debugging-tools-i-love/
+
+------- 10/07/2016 17:59:26 ---------
+#210: ngrok and Go with Alan Shreve
+https://changelog.com/210/
+
+------- 14/07/2016 22:20:38 ---------
+http://blog.carbonfive.com/2016/07/06/rails-meet-phoenix-add-phoenix-to-your-rails-ecosystem-with-session-sharing/?utm_source=rubyweekly&utm_medium=email
+
+------- 26/07/2016 07:08:18 ---------
+https://github.com/vue-comps/vue-clusterize/blob/master/README.md
+
+------- 26/07/2016 07:18:45 ---------
+https://forum.vuejs.org/topic/2310/html-tables-with-live-filtering-and-sorting-for-large-recordsets/2
+
+------- 26/07/2016 07:50:06 ---------
+https://forum.vuejs.org/topic/3456/slots-but-with-data-binding/3
+
+------- 26/07/2016 10:05:12 ---------
+https://github.com/PeachScript/vue-infinite-loading/blob/master/README.md
+
+------- 26/07/2016 14:54:21 ---------
+https://github.com/Media24si/vue-pagination/blob/master/README.md
+
+------- 26/07/2016 14:56:02 ---------
+https://github.com/hootlex/vuejs-paginator/blob/master/README.md
+
+------- 26/07/2016 15:07:04 ---------
+http://stackoverflow.com/questions/22268079/how-to-do-infinite-scrolling-with-javascript-only-without-jquery
+
+------- 27/07/2016 22:10:31 ---------
+https://news.ycombinator.com/item?id=12172379
+
+------- 31/07/2016 06:37:14 ---------
+Should You Buy Or Rent Property?
+http://www.nytimes.com/interactive/2014/upshot/buy-rent-calculator.html?partner=digg
+
+------- 03/08/2016 21:27:19 ---------
+http://webopsweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=786118ac8b&e=5cc73bf51a
+
+------- 12/08/2016 10:55:04 ---------
+https://github.com/fatedier/frp
+
+------- 14/08/2016 15:39:33 ---------
+https://streamacon.com/video/laracon-us/evan-you-vuejs-workshop
+
+------- 17/08/2016 14:22:25 ---------
+https://news.ycombinator.com/item?id=12302128
+
+------- 17/08/2016 17:05:56 ---------
+The book is "Learned Optimism," by Dr. Martin Seligman
+
+https://github.com/raganwald/presentations/blob/master/optimism.md
+
+------- 17/08/2016 18:22:43 ---------
+https://github.com/raganwald/presentations/blob/master/optimism.md
+
+------- 18/08/2016 21:14:00 ---------
+http://rubyweekly.us1.list-manage1.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=27ceb185b7&e=aba8b9cf6c
+
+------- 18/08/2016 21:58:32 ---------
+http://javascriptweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=7c6fefe6e1&e=530387fb06
+
+------- 19/08/2016 04:14:37 ---------
+
+Only somewhat related: I'm currently reading Anathem by Neal Stephenson.
+
+------- 20/08/2016 18:07:59 ---------
+http://thelongandshort.org/society/war-on-cash
+
+------- 20/08/2016 22:16:40 ---------
+http://pandoc.org/
+
+------- 21/08/2016 07:09:15 ---------
+https://github.com/Kickball/awesome-selfhosted
+
+------- 21/08/2016 07:14:24 ---------
+http://vrl.cs.brown.edu/color
+
+------- 21/08/2016 15:43:24 ---------
+https://media.defcon.org/DEF%20CON%2024/DEF%20CON%2024%20presentations/DEFCON-24-Jennifer-Granick-Slouching-Towards-Utopia.pdf
+
+------- 22/08/2016 03:18:22 ---------
+https://joelkuiper.eu/change
+
+------- 24/08/2016 12:37:51 ---------
+elixir conf Justin shnceck
+
+------- 24/08/2016 12:14:23 ---------
+http://stackoverflow.com/questions/7694887/is-there-a-command-line-utility-for-rendering-github-flavored-markdown
+
+------- 26/08/2016 07:40:47 ---------
+http://www.freenas.org/for-home/
+
+------- 27/08/2016 06:52:34 ---------
+https://github.com/dschep/ntfy
+
+------- 27/08/2016 07:30:04 ---------
+http://keepachangelog.com/en/0.3.0/

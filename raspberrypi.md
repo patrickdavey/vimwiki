@@ -4,6 +4,8 @@
 
 [[retro pi]]
 
+[more retro pi](https://news.ycombinator.com/item?id=12093600)
+
 [[My setup for timelapse]]
 
 [nice hack for a video in markdown](http://stackoverflow.com/questions/4279611/how-to-embed-a-video-into-github-readme-md)
