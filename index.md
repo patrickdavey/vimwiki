@@ -45,6 +45,9 @@
 * https://ifttt.com
 * [TCP primer / quiz](https://www.joyent.com/blog/tcp-puzzlers)
 * [command line push notification - look at pushover too](https://github.com/dschep/ntfy)
+* [docker on raspberry pi - cluster play?](https://www.raspberrypi.org/blog/docker-comes-to-raspberry-pi/)
+* [battery pack for the pi](https://www.amazon.com/dp/B00BB5VQCE/ref=asc_df_B00BB5VQCE4485563?smid=AMJPACPHKNW1L&tag=shopzilla0d-20&ascsubtag=shopzilla_rev_72-20;14728055387331646053110080302008005&linkCode=df0&creative=395129&creativeASIN=B00BB5VQCE) 
+* https://galem.wordpress.com/2014/10/14/configuring-the-raspberry-pi-to-share-a-macs-internet-connection/
 
 
 ## Presentation Tools

@@ -285,3 +285,18 @@ https://github.com/dschep/ntfy
 
 ------- 27/08/2016 07:30:04 ---------
 http://keepachangelog.com/en/0.3.0/
+
+------- 01/09/2016 07:18:30 ---------
+https://youtu.be/QWfHrbSqnB0?t=29m34s
+
+------- 02/09/2016 21:16:58 ---------
+http://api.windyty.com/
+
+------- 05/09/2016 07:29:11 ---------
+https://lob.com/services/postcards
+
+------- 05/09/2016 07:31:43 ---------
+http://www.billatkinson.com/Pages/aboutPhotoCard.html
+
+------- 05/09/2016 20:07:35 ---------
+http://maps.google.com/maps?q=loc:53.234116,-6.125677

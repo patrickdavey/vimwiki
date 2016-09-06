@@ -6,3 +6,8 @@
 * http://renderedtext.com/blog/2016/04/07/ecto-for-rails-developers/?utm_source=rubyweekly&utm_medium=email
 * https://dockyard.com/blog/2016/05/02/phoenix-tips-and-tricks
 * https://www.dailydrip.com/topics/elm/drips/elm-phoenix-socket
+
+```elixir
+  # to turn tracing on for a pid
+  :sys.trace pid, true
+```
