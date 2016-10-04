@@ -30,6 +30,8 @@ http://rubyweekly.com/issues/213 possibly useful upgrade 3.2 4.+ links
 
 [Refactoring Rails Recipes](http://rails-refactoring.com/recipes/)
 
+[Uploading from a file](http://stackoverflow.com/questions/2515931/how-can-i-download-a-file-from-a-url-and-save-it-in-rails) and [multi type attachments](http://stackoverflow.com/questions/2919811/styles-in-paperclip-only-if-its-an-image-rails) and [nice dropzone tutorial](http://josephndungu.com/tutorials/ajax-file-upload-with-dropezonejs-and-paperclip-rails)
+
 
 http://awesome-ruby.com/
 

@@ -1,3 +1,5 @@
+[bash beginners guide](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/intro_01.html)
+
 ```bash
 # Search and Replace in files
   find ./path -type f -exec sed -i 's/find_this/replace_this/g' {} \;
@@ -166,4 +168,10 @@ find . -type f -name "*.mp3"  -print0 | xargs -0 -I {} mid3v2 -aBlah -ABlah -cBl
 # from http://stackoverflow.com/questions/2961635/using-awk-to-print-all-columns-from-the-nth-to-the-last
 
 history | grep docker | awk '{$1=""; print $0}'
+```
+
+```bash
+# perform a task a number of times.
+# shows appending to a file and writing an empty line of text
+for i in {1..5}; do something >> file.txt; echo "" >> file.txt; done
 ```

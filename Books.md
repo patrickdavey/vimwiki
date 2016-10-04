@@ -21,6 +21,7 @@
 * [ ] Prosperity without growth.
 * [ ] When life nearly died (Yvonne - antarctica)
 * [ ] The world without us (Thomas' friend)
+* [ ] Bad Pharma
 
 === Read ===
 * [X] Pragmatic Thinking and Learning

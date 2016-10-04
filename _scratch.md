@@ -300,3 +300,70 @@ http://www.billatkinson.com/Pages/aboutPhotoCard.html
 
 ------- 05/09/2016 20:07:35 ---------
 http://maps.google.com/maps?q=loc:53.234116,-6.125677
+
+------- 09/09/2016 20:12:25 ---------
+"The End of Alchemy" by Mervyn King [0].
+
+------- 10/09/2016 10:30:01 ---------
+http://www.elixirconf.com/2016/speakers.html#grayii
+
+------- 10/09/2016 20:46:25 ---------
+http://www.elixirconf.com/2016/speakers.html#grayii
+
+------- 10/09/2016 20:46:30 ---------
+https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548
+
+------- 11/09/2016 07:05:31 ---------
+here is
+how you would define a mapping for only the quickfix window.
+ 
+au BufWinEnter quickfix nnoremap <buffer> noremap <up> :echo "hello"<CR>
+
+------- 12/09/2016 21:17:50 ---------
+https://hexdocs.pm/conqueuer/0.5.1/Conqueuer.html
+
+------- 13/09/2016 13:32:54 ---------
+Just finished @beckysaysrawr's "The Long Way to a Small, Angry Planet". Smart, thoughtful, and heartwarming. More books like this please!
+
+------- 15/09/2016 07:31:38 ---------
+https://www.youtube.com/watch?v=WQZio5DlSXM
+
+------- 15/09/2016 20:40:13 ---------
+smoke and mirrors
+
+------- 17/09/2016 21:31:28 ---------
+https://www.sitepoint.com/pragmatic-monkey-patching/?utm_source=javascriptweekly&utm_medium=email
+
+------- 22/09/2016 13:48:21 ---------
+http://m.business.govt.nz/news/negotiate-personal-guarantees-without-putting-home-at-risk?utm_medium=email&utm_campaign=September-2016-Businessgovtnz%20Newsletter-72-Existing%20companies&utm_content=September-2016-Businessgovtnz%20Newsletter-72-Existing%20companies+CID_3ab9334b7ff154037bdce4d5f7b128ec&utm_source=Newsletter&utm_term=Heres%20how
+
+------- 22/09/2016 17:10:26 ---------
+https://github.com/testdouble/suture/blob/master/README.md
+
+------- 22/09/2016 17:21:39 ---------
+https://github.com/testdouble/suture/blob/master/README.md
+
+------- 22/09/2016 21:24:53 ---------
+https://teamgaslight.com/blog/microservices-in-phoenix-part-2
+
+------- 23/09/2016 11:44:42 ---------
+http://thomasleecopeland.com/2016/09/20/programs-that-rewrite-ruby-programs.html?utm_source=rubyweekly&utm_medium=email
+
+------- 25/09/2016 16:42:34 ---------
+brene brown Ted talk vulnerability
+
+------- 28/09/2016 07:02:45 ---------
+https://m.facebook.com/l.php?u=https%3A%2F%2Fgoo.gl%2Fforms%2FgNd3dlSjLgxEn5Pp1&h=DAQEqMrE7&s=1
+
+------- 28/09/2016 09:09:38 ---------
+https://gist.github.com/KozakIvan/fbc992fb1f864de1b907
+
+------- 29/09/2016 21:03:55 ---------
+http://rubyweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=067b6bc6c0&e=aba8b9cf6c
+
+------- 03/10/2016 08:12:14 ---------
+time ./vim -u vimrc --noplugin +87 -c 'norm! O' -c 'q!' foo.py
+ 
+real 0m0.269s
+user 0m0.137s
+sys 0m0.028s
