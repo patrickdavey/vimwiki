@@ -22,6 +22,9 @@
 * [ ] When life nearly died (Yvonne - antarctica)
 * [ ] The world without us (Thomas' friend)
 * [ ] Bad Pharma
+* [ ] [Refactoring to patterns](https://industriallogic.com/xp/refactoring/)
+* [ ] The Richest Man in Babylon
+* [ ] Learned Optimism
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
