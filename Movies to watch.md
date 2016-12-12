@@ -21,3 +21,5 @@ https://www.youtube.com/watch?v=DSjbTC-hvqQ
 https://www.youtube.com/watch?v=XhNacMst_1o
 https://www.youtube.com/watch?v=-UKEPd2ipEk
 https://www.youtube.com/watch?v=hyry8mgXiTk
+
+http://www.rubypigeon.com/posts/screencast-debugging-with-byebug

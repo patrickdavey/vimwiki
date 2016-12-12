@@ -175,3 +175,8 @@ history | grep docker | awk '{$1=""; print $0}'
 # shows appending to a file and writing an empty line of text
 for i in {1..5}; do something >> file.txt; echo "" >> file.txt; done
 ```
+
+```bash
+# update all git repos below a common parent
+find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {} pull \;
+```

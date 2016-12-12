@@ -16,6 +16,7 @@
 * [[travel]]
 * [[home setup]]
 * [[Podcasts to try]]
+* [Woodwork](Woodwork)
 
 ## Hack ideas
 * https://docs.docker.com/compose/wordpress/
@@ -48,6 +49,7 @@
 * [docker on raspberry pi - cluster play?](https://www.raspberrypi.org/blog/docker-comes-to-raspberry-pi/)
 * [battery pack for the pi](https://www.amazon.com/dp/B00BB5VQCE/ref=asc_df_B00BB5VQCE4485563?smid=AMJPACPHKNW1L&tag=shopzilla0d-20&ascsubtag=shopzilla_rev_72-20;14728055387331646053110080302008005&linkCode=df0&creative=395129&creativeASIN=B00BB5VQCE) 
 * https://galem.wordpress.com/2014/10/14/configuring-the-raspberry-pi-to-share-a-macs-internet-connection/
+* [Dropbox with Android Studio](https://www.sitepoint.com/adding-the-dropbox-api-to-an-android-app/)
 
 
 ## Presentation Tools
@@ -56,6 +58,7 @@
 * [licecap](http://www.cockos.com/licecap/)
 * http://speaking.io/
 * http://cmx.io/
+* https://asciinema.org/about
 
 ## Languages & Frameworks
 * [[Things to play with and try out]]
@@ -65,6 +68,7 @@
 * [[iOS]]
 * [[android]]
 * [[JavaScript]]
+* [VueJs](VueJs)
 * [[elixir]]
 * [Spanish](Spanish)
 * [Bugs](Bugs)
@@ -83,6 +87,7 @@
 * http://sqlmap.org/ SQL injection testing tool
 * [[database tools]]
 * [Geocoding link](https://news.ycombinator.com/item?id=11937467)
+* [mind mapping](https://coggle.it/#pricing)
 
 ## Scratch pad
 * http://www.jonathanbriehl.com/2014/01/17/vertical-menu-for-bootstrap-3/
