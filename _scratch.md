@@ -118,3 +118,30 @@ https://m.reddit.com/r/tasker/comments/34v6ta/can_tasker_read_an_incoming_text_m
 
 ------- 12/12/2016 03:33:23 ---------
 https://www.google.nl/amp/s/amp.reddit.com/r/tasker/comments/3mj0z3/help_how_to_take_and_send_picture_triggered_by_a/?client=ms-android-oneplus
+
+------- 13/12/2016 19:51:12 ---------
+https://elixirforum.com/t/extract-data-from-plug-assign-to-render-in-json-views/857/2
+
+------- 14/12/2016 13:33:23 ---------
+https://m.reddit.com/r/adventofcode/comments/5i8pzz/2016_day_14_solutions/db6cm0z/
+
+------- 15/12/2016 10:13:44 ---------
+https://youtu.be/ayc_qpB-93o
+
+------- 15/12/2016 15:14:57 ---------
+https://elixirforum.com/t/beginner-ok-or-not-ok-cyclic-function-calls/757/7
+
+------- 15/12/2016 15:17:25 ---------
+http://stackoverflow.com/questions/32164370/does-elixir-infinite-recursion-ever-overflow-the-stack
+
+------- 15/12/2016 15:50:31 ---------
+http://tratt.net/laurie/blog/entries/tail_call_optimization.html
+
+------- 15/12/2016 15:53:19 ---------
+http://www.cs.grinnell.edu/~walker/courses/151.fa05/readings/tail-recursion.xhtml
+
+------- 15/12/2016 16:38:32 ---------
+http://benignbemine.github.io/2015/07/19/es6-tail-calls/
+
+------- 15/12/2016 18:41:01 ---------
+http://rubyweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=74f38b0918&e=aba8b9cf6c

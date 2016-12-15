@@ -93,3 +93,5 @@
 * http://www.jonathanbriehl.com/2014/01/17/vertical-menu-for-bootstrap-3/
 * [vim commands to learn](commands_to_learn.md)
 * [[_scratch]]
+
+[something](subdir/test)
