@@ -146,3 +146,9 @@ http://benignbemine.github.io/2015/07/19/es6-tail-calls/
 ------- 15/12/2016 18:41:01 ---------
 http://rubyweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=74f38b0918&e=aba8b9cf6c
 
+------- 16/12/2016 09:13:53 ---------
+	askalski • 1d
+Open input in new browser tab, C-a C-c, switch to vim, "+pkdd:w<Enter>
+
+------- 23/12/2016 00:36:05 ---------
+https://m.reddit.com/r/adventofcode/comments/5jry0y/2016_day_22_part_2_any_general_solution/
