@@ -9,6 +9,8 @@ Indie Game: The Movie
 Indie Game: Life After
 Man vs Snake: The Long and Twisted Tale of Nibbler
 The King of Kong
+Peep Show
+That Mitchell and Web.
 
 https://streamacon.com/video/laracon-us/evan-you-vuejs-workshop
 https://www.youtube.com/watch?v=L0qC97ytMjQ
@@ -23,3 +25,4 @@ https://www.youtube.com/watch?v=-UKEPd2ipEk
 https://www.youtube.com/watch?v=hyry8mgXiTk
 
 http://www.rubypigeon.com/posts/screencast-debugging-with-byebug
+https://medium.com/humans-create-software/composition-over-inheritance-cb6f88070205#.8gqy7j7w7

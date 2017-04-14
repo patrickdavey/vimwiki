@@ -3,4 +3,54 @@
 * https://vuejs.org/
 * [vuejs mock](https://github.com/vuejs/vueify-example/blob/master/test/unit/a.spec.js#L23-L43)
 * [vue-strap](http://yuche.github.io/vue-strap/#tabs)
+* [vue js with phonegap](http://devgirl.org/2017/01/10/phonegap-apps-with-vue-js-yes-please/)
+* [[Approch to vue with asset pipeline]]
 
+html
+
+<body>
+  <div id="App">
+    <app />
+  </div>
+  <script src="/js/main.js"></script>
+</body>
+
+main.js
+
+new Vue({
+  components: { App },
+  el: '#App',
+})
+
+App.vue
+
+<template>
+  <div>
+    <header-area />
+    <preloader />
+    <transition name="fade" mode="out-in">
+      <keep-alive>
+        <router-view class="router-view" />
+      </keep-alive>
+    </transition>
+    <footer-area />
+    <fixed-feedback />
+    <form-builder />
+  </div>
+</template>
+
+<script>
+import Preloader from './partials/Preloader.vue'
+import HeaderArea from './partials/HeaderArea.vue'
+import FooterArea from './partials/FooterArea.vue'
+import FormBuilder from './partials/FormBuilder.vue'
+import FixedFeedback from './partials/FixedFeedback.vue'
+
+export default {
+  name: 'App',
+  components: { FormBuilder, HeaderArea, FooterArea, Preloader, FixedFeedback },
+  methods: {
+    // ...
+  }
+}
+</script>

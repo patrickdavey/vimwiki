@@ -1,27 +1,27 @@
-[Interesting link on asset gems](https://github.com/rails/rails/commit/49c4af43ec5819d8f5c1a91f9b84296c927ce6e7) basically discusses a way around memory bloat of loading asset oriented gems in production.  Seems completely reasonable to me.
+* [Interesting link on asset gems](https://github.com/rails/rails/commit/49c4af43ec5819d8f5c1a91f9b84296c927ce6e7) basically discusses a way around memory bloat of loading asset oriented gems in production.  Seems completely reasonable to me.
+* [Nice example of an rspec rails_helper file](http://blog.thefrontiergroup.com.au/2016/02/clean-rails_helper-file)
+* [Rails javascript integration strategies](https://github.com/chrisvfritz/rails-javascript-integrations)
+* http://blog.heapsource.com/post/55696145680/effortless-two-factor-authentication-in-rails
 
-[Nice example of an rspec rails_helper file](http://blog.thefrontiergroup.com.au/2016/02/clean-rails_helper-file/?utm_source=rubyweekly&utm_medium=email)
-[Rails javascript integration strategies](https://github.com/chrisvfritz/rails-javascript-integrations)
-https://github.com/browserify-rails/browserify-rails/issues/100
-http://blog.arkency.com/2015/04/bring-commonjs-to-your-asset-pipeline/
+* ## Test Links
+* http://www.sitepoint.com/lite-spec-helper-faster-rails-tests/
+* http://stackoverflow.com/questions/9822624/rails-isolated-tests-running-under-rails-env
+* http://viget.com/extend/8-insanely-useful-activeadmin-customizations
+* http://www.sitepoint.com/basecamp-like-subdomains-with-devise/
+* flog, flay, rails-best-practice : test out these gems
+* [Really nice video on Draper, by Jeff Casimir - Mr. Draper](https://www.youtube.com/watch?v=VC5z8nadnQE)
+* [Foreign Keys](http://robots.thoughtbot.com/referential-integrity-with-foreign-keys)
+* [Rails event store](http://us5.campaign-archive2.com/?u=1bb42b52984bfa86e2ce35215&id=c22d38ebe1&e=83934cf279)
+* [gist on composable query objects](https://paste.ofcode.org/758SJedzuvdU6yYQmWFAQv)
 
-http://blog.heapsource.com/post/55696145680/effortless-two-factor-authentication-in-rails
-
-## Test Links
-
-http://www.sitepoint.com/lite-spec-helper-faster-rails-tests/
-http://stackoverflow.com/questions/9822624/rails-isolated-tests-running-under-rails-env
-
-http://viget.com/extend/8-insanely-useful-activeadmin-customizations
-
-http://www.sitepoint.com/basecamp-like-subdomains-with-devise/
-
-flog, flay, rails-best-practice : test out these gems
-
-http://rubyweekly.com/issues/213 possibly useful upgrade 3.2 4.+ links
-
-[Really nice video on Draper, by Jeff Casimir - Mr. Draper](https://www.youtube.com/watch?v=VC5z8nadnQE)
-[Foreign Keys](http://robots.thoughtbot.com/referential-integrity-with-foreign-keys)
+## performance testing?
+* https://github.com/rails/rails-perftest
+* https://github.com/piotrmurach/rspec-benchmark
+* https://github.com/schneems/derailed_benchmarks
+* https://www.schneems.com/2017/04/12/jumping-off-the-memory-cliff/
+* https://github.com/MiniProfiler/rack-mini-profiler
+* https://github.com/ruby-prof/ruby-prof
+* https://github.com/flyerhzm/bullet
 
 ```ruby
 # useful for printing out SQL in rails2 console
@@ -45,4 +45,18 @@ class ApplicationController
     Time.use_zone(current_user.time_zone, &block)
   end
 end
+```
+
+```ruby
+# Set up a custom logger.  View output in /log/my_error.log
+class MyLogger < Logger
+  def format_message(severity, timestamp, progname, msg)
+    "[%s] %s\n" % [timestamp.to_s(:short), msg]
+  end
+end
+
+logfile = File.open(Rails.root.to_s + '/log/my_error.log','a')
+logfile.sync = true
+MYLOG = MyLogger.new(logfile)
+# TO USE: MYLOG.info(<stuff>) (or whatever level of debug info you want to use)
 ```

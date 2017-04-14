@@ -70,3 +70,12 @@ I had issues trying to do this using find & xargs, it's to do with
 stdin which I really should open a StackOverflow about.
 
 [Commands I'm trying to learn](commands_to_learn.md)
+
+
+```
+# for when your vim is going really really slowly and you reckon
+# it might be to do with syntax.
+# http://stackoverflow.com/a/20519492/435817
+:syntime on
+:syntime report
+```

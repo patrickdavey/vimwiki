@@ -115,12 +115,14 @@ find . -type f -name *.txt -print0 | xargs -0 -I {} mv {} .
 # of the mp3, and set that as the title (title = title_filename)
 find . -type f -name *.mp3  -print0 | xargs -0 -I {} mv {} .
 ls -1tr | xargs -I {} stat -f '%m %N' {} | xargs -L1 bash -c 'id3tag -s$0_$1 $1'
+
+find . -type f -name "*.mp3"  -print0 | xargs -0 -I {} mid3v2 -aBlah -ABlah -cBlah -gPodcast {}
 ```
 
 ```bash
 # repeat an rsync command until it is complete
 # from http://serverfault.com/a/98750/129747
-while ! rsync -a .... ;do sleep 5;done
+while ! rsync -a .... ;do sleep 6;done
 ```
 
 ```bash
@@ -160,9 +162,6 @@ function revisions {
 main
 ```
 
-find . -type f -name "*.mp3"  -print0 | xargs -0 -I {} mid3v2 -aBlah -ABlah -cBlah -gPodcast {}
-
-
 ```bash
 # combine all columns after the first one (grepping history)
 # from http://stackoverflow.com/questions/2961635/using-awk-to-print-all-columns-from-the-nth-to-the-last
@@ -179,4 +178,19 @@ for i in {1..5}; do something >> file.txt; echo "" >> file.txt; done
 ```bash
 # update all git repos below a common parent
 find . -mindepth 1 -maxdepth 1 -type d -print -exec git -C {} pull \;
+```
+
+```bash
+#!/bin/bash
+
+# run a script sourcing rvm (handy for cron)
+source "$HOME/.rvm/scripts/rvm"
+rvm use 2.3.0
+not_running="$(t n 2>&1 > /dev/null)"
+if [[ "$not_running" =~ .*not\ running ]]
+then
+  rm -f ~/.timesheet_running
+else
+  touch ~/.timesheet_running
+fi
 ```

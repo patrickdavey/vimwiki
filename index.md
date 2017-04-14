@@ -17,6 +17,7 @@
 * [[home setup]]
 * [[Podcasts to try]]
 * [Woodwork](Woodwork)
+* [[Hiking Ideas]]
 
 ## Hack ideas
 * https://docs.docker.com/compose/wordpress/
@@ -38,6 +39,7 @@
 * change Appender app to use a db backed queue with categories of pages to append to. something like an iftt app perhaps ?
   * https://realm.io/news/realm-1.0/ Realm database possibly useful here.
 * [Electron - Githubs Desktop app project](https://github.com/blog/2167-electron-1-0-is-here?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
+* [Home Barista](http://www.home-barista.com/)
 * Add pgcasts to casts_browser https://www.pgcasts.com/
 * CERTBOT - ssl cert generator https://news.ycombinator.com/item?id=11705731
 * Maybe think about installing vim-sneak justinmk/vim-sneak allows you to jump to two sequential chars in the file
@@ -50,6 +52,7 @@
 * [battery pack for the pi](https://www.amazon.com/dp/B00BB5VQCE/ref=asc_df_B00BB5VQCE4485563?smid=AMJPACPHKNW1L&tag=shopzilla0d-20&ascsubtag=shopzilla_rev_72-20;14728055387331646053110080302008005&linkCode=df0&creative=395129&creativeASIN=B00BB5VQCE) 
 * https://galem.wordpress.com/2014/10/14/configuring-the-raspberry-pi-to-share-a-macs-internet-connection/
 * [Dropbox with Android Studio](https://www.sitepoint.com/adding-the-dropbox-api-to-an-android-app/)
+* [[React Native for Snowpool]]
 
 
 ## Presentation Tools
@@ -69,6 +72,7 @@
 * [[android]]
 * [[JavaScript]]
 * [VueJs](VueJs)
+* [Regex](Regex)
 * [[elixir]]
 * [Spanish](Spanish)
 * [Bugs](Bugs)
@@ -77,7 +81,9 @@
 * [[Vim Tips]]
 * [[Git Tips]]
 * [[Bash Tips]]
+* [[Latex Tips]]
 * [[Backbone]]
+* https://sourcemaking.com/refactoring
 
 ## Tools
 * http://regex101.com/ very nice explain tool
@@ -88,6 +94,11 @@
 * [[database tools]]
 * [Geocoding link](https://news.ycombinator.com/item?id=11937467)
 * [mind mapping](https://coggle.it/#pricing)
+* [HN on openVPN](https://news.ycombinator.com/item?id=13351211)
+* [snap SVG](http://snapsvg.io/)
+* don't forget licecap!
+* http://www.learnwithdaniel.com/2015/01/apache-puma-via-reverse-proxy/
+* envato/guide - lukearndt on a testing documentation thingy.
 
 ## Scratch pad
 * http://www.jonathanbriehl.com/2014/01/17/vertical-menu-for-bootstrap-3/

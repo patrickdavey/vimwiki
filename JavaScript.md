@@ -1,3 +1,5 @@
+[javascript prettifier](http://jlongster.com/A-Prettier-Formatter)
+
 https://ponyfoo.com/articles/tagged/es6-in-depth
 
 https://learnredux.com/

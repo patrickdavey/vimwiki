@@ -9,6 +9,9 @@
 * [simple intro to plug](http://www.brianstorti.com/getting-started-with-plug-elixir/)
 * [Phoenix and vuejs](https://medium.com/front-end-hacking/phoenix-and-vue-js-b974d8b91cb6#.4v4cs823w)
 * [Phoenix and webpack](http://manukall.de/2015/05/01/automatically-building-your-phoenix-assets-with-webpack/)
+* https://dev.bleacherreport.com/starting-a-phoenix-project-with-docker-ab2a171fa2f4#.lef9dhw1q
+* [good HN link on elixir](https://news.ycombinator.com/item?id=13437515)
+* https://www.futurelearn.com/courses/functional-programming-erlang
 
 ```elixir
   # to turn tracing on for a pid

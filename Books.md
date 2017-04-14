@@ -25,6 +25,8 @@
 * [ ] [Refactoring to patterns](https://industriallogic.com/xp/refactoring/)
 * [ ] The Richest Man in Babylon
 * [ ] Learned Optimism
+* [ ] [Learn enough to be dangerous - Bash](https://www.learnenough.com/command-line-tutorial)
+* [ ] https://www.goodreads.com/book/show/11553604-the-tangled-web
 
 === Read ===
 * [X] Pragmatic Thinking and Learning

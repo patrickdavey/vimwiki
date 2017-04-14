@@ -76,3 +76,8 @@ git reset --hard
 git rev-list --reverse master | while read rev; do git checkout $rev; git clean -df; rake; done; git checkout master
 ```
 https://medium.freecodecamp.com/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.xtwfkhby6
+
+```bash
+# see lines of code changed between branch and master, excluding spec directory
+git diff master --stat -- . ':(exclude)spec'
+```

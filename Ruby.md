@@ -154,21 +154,14 @@ insns = RubyVM::InstructionSequence.of Foo.new.method(:foo)
 puts insns.disasm
 ```
 
-
-[[Example of a decorator]]
-
-[[Playing with iterators]]
-
-[Awesome awesome link about blocks, procs and closures](https://innig.net/software/ruby/closures-in-ruby)
-
-https://sourcemaking.com/refactoring/bad-smells-in-code
-
-[interesting looking article on signals](www.sitepoint.com/license-to-sigkill/?utm_source=rubyweekly&utm_medium=email)
-[Really good Ruby weekly article](http://rubyweekly.com/issues/255)
+* [garbage collection](http://tmm1.net/ruby21-oobgc/)
+* [[Example of a decorator]]
+* [[Playing with iterators]]
+* [Awesome awesome link about blocks, procs and closures](https://innig.net/software/ruby/closures-in-ruby)
+* https://sourcemaking.com/refactoring/bad-smells-in-code
+* [interesting looking article on signals](www.sitepoint.com/license-to-sigkill/?utm_source=rubyweekly&utm_medium=email)
+* [Really good Ruby weekly article](http://rubyweekly.com/issues/255)
 
 #### Ruby conferences
 * http://rubyconferences.org/ 
 * http://lanyrd.com/topics/ruby/
-
-[ASCII tables for testing](https://punctuatedproductivity.wordpress.com/2016/02/02/ascii-tables-for-clearer-testing/)
-

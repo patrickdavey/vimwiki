@@ -12,3 +12,5 @@ Really enjoyed this STABLE acronym from Sarah Mei:
 https://speakerdeck.com/sarahmei/is-your-code-too-solid-with-transcript
 
 http://drboolean.gitbooks.io/mostly-adequate-guide/
+
+https://code.tutsplus.com/articles/rubyrails-code-smell-basics-01--cms-25261
