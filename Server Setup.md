@@ -24,6 +24,8 @@
 * [ ] Install mod-passenger
 * [ ] Setup apache virtual-hosts directives for specific sites
 * [ ] Find out what a deploy user should be able to do - file system
+* [ ] https://www.sparkpost.com/docs/integrations/postfix/
+
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-14-04
  'unattended-upgrades' - ubuntu auto update - look into this
 possibly useful links:
@@ -51,3 +53,8 @@ http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-li
 
 [[upgrading to ceder-14]]
 
+[[discussion on rubynz]]
+
+https://medium.com/@kirill_shevch/using-chef-and-capistrano-to-deploy-rails-application-on-ubuntu-16-04-fae1dfe0dd12
+
+https://www.digitalocean.com/community/tutorials/how-to-create-a-puppet-module-to-automate-wordpress-installation-on-ubuntu-14-04

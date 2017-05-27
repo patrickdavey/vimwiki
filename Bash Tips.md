@@ -45,6 +45,11 @@ find . -print0 | xargs -0 -- touch -a -m -t 200501181205.09
 ```
 
 ```bash
+# show disk usage for just one level deep(summed)
+du -h --max-depth=1 /
+```
+
+```bash
 # list files by increasing (human readable) sizes
   ls -lSrh
 ```
@@ -193,4 +198,10 @@ then
 else
   touch ~/.timesheet_running
 fi
+```
+
+
+```bash
+# use a timestamped file for appending.
+PATRICKTEMP="$(date).txt" ; while true; do sudo passenger-memory-stats | grep dirty >> "$PATRICKTEMP"; sleep 2; done
 ```

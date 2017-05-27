@@ -5,6 +5,8 @@
 * [vue-strap](http://yuche.github.io/vue-strap/#tabs)
 * [vue js with phonegap](http://devgirl.org/2017/01/10/phonegap-apps-with-vue-js-yes-please/)
 * [[Approch to vue with asset pipeline]]
+* [dynamic modal with component](https://forum.vuejs.org/t/loading-components-into-modal/2855/10)
+* [nice bridge to jQuery tutorial](https://gambardella.info/2016/09/05/guide-how-to-use-vue-js-with-jquery-plugins/)
 
 html
 

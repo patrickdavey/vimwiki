@@ -18,6 +18,7 @@
 * [[Podcasts to try]]
 * [Woodwork](Woodwork)
 * [[Hiking Ideas]]
+* [[Recipes]]
 
 ## Hack ideas
 * https://docs.docker.com/compose/wordpress/
@@ -53,6 +54,7 @@
 * https://galem.wordpress.com/2014/10/14/configuring-the-raspberry-pi-to-share-a-macs-internet-connection/
 * [Dropbox with Android Studio](https://www.sitepoint.com/adding-the-dropbox-api-to-an-android-app/)
 * [[React Native for Snowpool]]
+* [[For my own VPS]]
 
 
 ## Presentation Tools
@@ -103,4 +105,4 @@
 ## Scratch pad
 * http://www.jonathanbriehl.com/2014/01/17/vertical-menu-for-bootstrap-3/
 * [vim commands to learn](commands_to_learn.md)
-* [[_scratch]]
+* [scratch](new_scratch)

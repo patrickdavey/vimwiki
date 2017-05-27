@@ -27,6 +27,7 @@
 * [ ] Learned Optimism
 * [ ] [Learn enough to be dangerous - Bash](https://www.learnenough.com/command-line-tutorial)
 * [ ] https://www.goodreads.com/book/show/11553604-the-tangled-web
+* [ ] [adults in the room](https://www.theguardian.com/books/2017/may/03/yanis-varoufakis-greece-greatest-political-memoir)
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
