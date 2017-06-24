@@ -24,8 +24,8 @@
 * https://github.com/flyerhzm/bullet
 
 ```ruby
-# useful for printing out SQL in rails2 console
-  ActiveRecord::Base.connection.instance_variable_set :@logger, Logger.new(STDOUT)
+# useful for printing out SQL console
+  ActiveRecord::Base.logger = Logger.new(STDOUT)
 ```
 
 [Refactoring Rails Recipes](http://rails-refactoring.com/recipes/)

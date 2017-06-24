@@ -25,6 +25,8 @@
 * [ ] Setup apache virtual-hosts directives for specific sites
 * [ ] Find out what a deploy user should be able to do - file system
 * [ ] https://www.sparkpost.com/docs/integrations/postfix/
+* [ ] https://github.com/malclocke/db-backup
+* [ ] https://www.digitalocean.com/community/questions/discussion-about-permissions-for-web-folders
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-14-04
  'unattended-upgrades' - ubuntu auto update - look into this

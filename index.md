@@ -101,8 +101,10 @@
 * don't forget licecap!
 * http://www.learnwithdaniel.com/2015/01/apache-puma-via-reverse-proxy/
 * envato/guide - lukearndt on a testing documentation thingy.
+* fun fun function (luke)
 
 ## Scratch pad
 * http://www.jonathanbriehl.com/2014/01/17/vertical-menu-for-bootstrap-3/
 * [vim commands to learn](commands_to_learn.md)
 * [scratch](new_scratch)
+* https://github.com/wee-slack/wee-slack

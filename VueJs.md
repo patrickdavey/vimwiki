@@ -7,6 +7,10 @@
 * [[Approch to vue with asset pipeline]]
 * [dynamic modal with component](https://forum.vuejs.org/t/loading-components-into-modal/2855/10)
 * [nice bridge to jQuery tutorial](https://gambardella.info/2016/09/05/guide-how-to-use-vue-js-with-jquery-plugins/)
+* [good post on nested data](https://forum.vuejs.org/t/vuex-best-practices-for-complex-objects/10143/4)
+* [good post on store](https://medium.com/@bradfmd/vue-vuex-getting-started-f78c03d9f65)
+* https://github.com/vuejs/vuex/issues/416 another good intro to vuex
+* [nice article on getters](https://laracasts.com/discuss/channels/vue/vuex-getters)
 
 html
 

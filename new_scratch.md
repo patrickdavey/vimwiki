@@ -84,3 +84,75 @@ LINODEÂ Â SPONSORED
 
 ------- 27/05/2017 11:07:16 ---------
 https://m.facebook.com/story.php?story_fbid=1356273814420389&id=193825113998604
+
+------- 28/05/2017 08:13:04 ---------
+http://www.theverge.com/2017/3/16/14950798/memory-palace-method-of-loci-brain-fmri-activity-neuroscience
+
+------- 28/05/2017 08:14:17 ---------
+https://memocamp.com/
+
+------- 31/05/2017 07:22:13 ---------
+https://scotch.io/tutorials/state-management-in-vue-getting-started-with-vue?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=revue
+
+------- 03/06/2017 05:11:35 ---------
+http://javascriptweekly.us1.list-manage1.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=5fe33c42e6&e=530387fb06
+
+------- 03/06/2017 05:11:47 ---------
+http://javascriptweekly.us1.list-manage2.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=736d339da1&e=530387fb06
+
+------- 07/06/2017 06:47:47 ---------
+https://github.com/monicahq/monica/blob/master/readme.md
+
+------- 07/06/2017 07:04:22 ---------
+https://www.amazon.com/b/?_encoding=UTF8&node=15547130011&ref_=cd_auth_home
+
+------- 08/06/2017 06:35:45 ---------
+https://m.youtube.com/watch?v=AQce2LNDo0s
+
+------- 08/06/2017 06:40:30 ---------
+https://www.youtube.com/watch?v=xT_YaduPYlk
+
+------- 10/06/2017 02:35:43 ---------
+http://www.tweetegy.com/2013/04/create-nested-comments-in-rails-using-ancestry-gem/
+
+------- 10/06/2017 03:26:10 ---------
+https://stackoverflow.com/questions/20484183/rails-polymorphic-association-or-single-table-inheritance
+
+------- 10/06/2017 08:10:21 ---------
+https://medium.com/@kentcdodds/classes-complexity-and-functional-programming-a8dd86903747
+
+------- 10/06/2017 08:13:10 ---------
+https://github.com/getify/You-Dont-Know-JS
+
+------- 11/06/2017 10:10:01 ---------
+https://github.com/kristianmandrup/vue2-dragula-demo/
+
+------- 13/06/2017 06:38:56 ---------
+https://news.ycombinator.com/item?id=14534113
+
+------- 15/06/2017 08:08:17 ---------
+https://github.com/odeke-em/drive/blob/master/README.md
+
+------- 15/06/2017 23:01:35 ---------
+https://news.ycombinator.com/item?id=14555935
+
+------- 15/06/2017 23:36:09 ---------
+https://webopsweekly.com/link/15027/502fe0e8de
+
+------- 21/06/2017 03:45:54 ---------
+https://news.ycombinator.com/item?id=14593906
+
+------- 22/06/2017 13:25:24 ---------
+mail cuba
+
+------- 22/06/2017 13:47:16 ---------
+021 756 052 Ana haase. Dean Johnston
+
+------- 23/06/2017 18:24:24 ---------
+https://www.google.co.nz/amp/s/amp.reddit.com/r/vuejs/comments/5x0va0/vue_drag_and_drop/
+
+------- 23/06/2017 18:32:55 ---------
+https://github.com/kristianmandrup/vue2-dragula/issues/14
+
+------- 23/06/2017 22:16:59 ---------
+https://flutter.io/
