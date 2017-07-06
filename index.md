@@ -55,6 +55,7 @@
 * [Dropbox with Android Studio](https://www.sitepoint.com/adding-the-dropbox-api-to-an-android-app/)
 * [[React Native for Snowpool]]
 * [[For my own VPS]]
+* [[christchurch ruby ask away threads]]
 
 
 ## Presentation Tools
@@ -106,5 +107,5 @@
 ## Scratch pad
 * http://www.jonathanbriehl.com/2014/01/17/vertical-menu-for-bootstrap-3/
 * [vim commands to learn](commands_to_learn.md)
-* [scratch](new_scratch)
 * https://github.com/wee-slack/wee-slack
+* [scratch](new_scratch)

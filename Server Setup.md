@@ -27,6 +27,7 @@
 * [ ] https://www.sparkpost.com/docs/integrations/postfix/
 * [ ] https://github.com/malclocke/db-backup
 * [ ] https://www.digitalocean.com/community/questions/discussion-about-permissions-for-web-folders
+* [ ] https://www.vultr.com/docs/how-to-install-openvas-vulnerability-scanner-on-ubuntu-16-04
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-postfix-as-a-send-only-smtp-server-on-ubuntu-14-04
  'unattended-upgrades' - ubuntu auto update - look into this

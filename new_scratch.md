@@ -156,3 +156,30 @@ https://github.com/kristianmandrup/vue2-dragula/issues/14
 
 ------- 23/06/2017 22:16:59 ---------
 https://flutter.io/
+
+------- 26/06/2017 08:58:08 ---------
+https://forum.vuejs.org/t/is-it-a-good-way-to-use-promise-axios-in-vue/12981/6
+
+------- 27/06/2017 08:05:07 ---------
+https://news.ycombinator.com/item?id=14634964
+
+------- 28/06/2017 05:42:12 ---------
+https://mtlynch.io/greenpithumb/
+
+------- 01/07/2017 07:39:50 ---------
+http://javascriptweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=b3a897ff65&e=530387fb06
+
+------- 01/07/2017 07:40:39 ---------
+http://javascriptweekly.us1.list-manage1.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=ad5b807976&e=530387fb06
+
+------- 01/07/2017 07:46:33 ---------
+http://hackernewsletter.us1.list-manage.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=4a0d1144a4&e=8dc29a812d
+
+------- 01/07/2017 15:06:34 ---------
+test
+
+------- 01/07/2017 22:25:55 ---------
+https://dzone.com/articles/postmessage-html5-send
+
+------- 02/07/2017 17:59:39 ---------
+https://rachelandrew.co.uk/archives/2017/07/01/you-do-not-need-a-css-grid-based-grid-system

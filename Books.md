@@ -30,6 +30,7 @@
 * [ ] [adults in the room](https://www.theguardian.com/books/2017/may/03/yanis-varoufakis-greece-greatest-political-memoir)
 * [ ] [Destined for War, Pete Nicholls recommendation](https://www.amazon.com/Destined-War-America-Escape-Thucydidess-ebook/dp/B01IAS9FZY?cn=bWVzc2FnZQ%3D%3D)
 * [ ] An optimists tour of the future.
+* [ ] https://www.railsspeed.com/
 
 === Read ===
 * [X] Pragmatic Thinking and Learning

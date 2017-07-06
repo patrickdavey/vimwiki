@@ -11,6 +11,7 @@
 * [good post on store](https://medium.com/@bradfmd/vue-vuex-getting-started-f78c03d9f65)
 * https://github.com/vuejs/vuex/issues/416 another good intro to vuex
 * [nice article on getters](https://laracasts.com/discuss/channels/vue/vuex-getters)
+* https://jsfiddle.net/Linusborg/935wfbaz/1/ possbily useful on props.
 
 html
 
