@@ -183,3 +183,85 @@ https://dzone.com/articles/postmessage-html5-send
 
 ------- 02/07/2017 17:59:39 ---------
 https://rachelandrew.co.uk/archives/2017/07/01/you-do-not-need-a-css-grid-based-grid-system
+
+------- 08/07/2017 08:34:29 ---------
+http://javascriptweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=410ffceba6&e=530387fb06
+
+------- 08/07/2017 08:42:23 ---------
+https://news.ycombinator.com/item?id=14684307&utm_source=hackernewsletter&utm_medium=email&utm_term=ask_hn
+
+------- 08/07/2017 08:56:25 ---------
+http://hackernewsletter.us1.list-manage1.com/track/click?u=faa8eb4ef3a111cef92c4f3d4&id=82d9a5ee66&e=8dc29a812d
+
+------- 08/07/2017 13:42:05 ---------
+https://news.ycombinator.com/item?id=14717341
+
+------- 09/07/2017 08:29:09 ---------
+https://medium.freecodecamp.org/10-common-data-structures-explained-with-videos-exercises-aaff6c06fb2b?utm_source=DailyDrip%20Homepage%20Newsletter&gi=3c7366e948a2
+
+------- 14/07/2017 08:44:49 ---------
+https://jtway.co/speed-up-your-rails-test-suite-by-6-in-1-line-13fedb869ec4
+
+------- 15/07/2017 16:50:02 ---------
+https://news.ycombinator.com/item?id=14774167
+
+------- 15/07/2017 22:35:05 ---------
+http://cs231n.github.io/
+
+------- 16/07/2017 08:21:56 ---------
+Patrick, we just bought tim a new camera... the canon powershot sx60 hs. It's great. Almost same zoom.....
+
+------- 17/07/2017 21:43:34 ---------
+kubo and the two strings. Malc film
+
+------- 18/07/2017 04:21:36 ---------
+https://news.ycombinator.com/item?id=14787927
+
+------- 19/07/2017 08:08:25 ---------
+http://eng.datafox.com/javascript/2017/07/18/decaffeinating-large-coffeescript-codebase/
+
+------- 20/07/2017 02:36:42 ---------
+https://webopsweekly.com/link/20009/502fe0e8de
+
+------- 20/07/2017 02:36:58 ---------
+https://webopsweekly.com/link/19986/502fe0e8de
+
+------- 20/07/2017 18:00:58 ---------
+http://blog.jpalardy.com/posts/awk-tutorial-part-1
+
+------- 22/07/2017 08:40:27 ---------
+12-13-10 Â  Obituary Â  Today we mourn the passing of a beloved old friend,Â Common Sense, who has been with us for many years. Â No one knows for sure how old he was, since his birth records were long ago lost in bureaucratic red tape. He will be remembered as having cultivated such valuable lessons as: Â  - Knowing when to come in out of the rain; - Why the early bird gets the worm;Â  - Life isn't always fair; and - Maybe it was my fault.. Â  Common SenseÂ lived by simple, sound financial policies (don't spend more than you can earn) and reliable strategies (adults, not children, are in charge).Â Â His health began to deteriorate rapidly when well-intentioned but overbearing regulations were set in place. Reports of a 6-year-old boy charged with sexual harassment for kissing a classmate; teens suspended from school for using mouthwash after lunch; and a teacher fired for reprimanding an unruly student, only worsened his condition.Â  Â  Common SenseÂ lost ground when parents attacked teachers for doing the job that they themselves had failed to do in disciplining their unruly children.Â  Â  It declined even further when schools were required to get parental consent to administer sun lotion or an aspirin to a student; but could not inform parents when a student became pregnant and wanted to have an abortion.Â  Â  Common SenseÂ lost the will to live as the churches became businesses; and criminals received better treatment than their victims.Â  Â  Common SenseÂ took a beating when you couldn't defend yourself from a burglar in your own home and the burglar could sue you for assault. Â  Common SenseÂ finally gave up the will to live, after a woman failed to realize that a steaming cup of coffee was hot. She spilled a little in her lap, and was promptly awarded a huge settlement.Â  Â  Common SenseÂ was preceded in death, by his parents, Truth and Trust, by his wife, Discretion, by his daughter, Responsibility, and by his son, Reason.Â  Â  He is survived by his 4 stepbrothers: I Know My RightsÂ  I Want It NowÂ  Someone Else Is To BlameÂ  I'm A Victim Not many attended his funeral becauseÂ  so few realized he was gone.. If you still remember him, pass this on.Â  If not, join the majority and do nothing. Author Unknown
+
+------- 26/07/2017 07:32:47 ---------
+http://em.getrevue.co/wf/click?upn=Cxddp8diHLcW45D85hCuPVHnKBpjUOUQ-2FCkg1Z2TeNuZza41OaNl3r-2Bl5ZJWYU7qRYxhrI7F1Mu5A2s8l65GQt-2B7LGR38FJ9ON5uGy4GPtDLOXOWpsLv9cHiD-2B21SHM9U3MhGg3NhOcJM6UncaChclMSlABmvsLxn0IsDusM5YpHZsqeiAxQzecNVeR3rqSnyWy2Fn3owuG4GER-2FJH5QqkQRj0EZmhS9O67ebqmvrj8-3D_hd5MWLYio3LKalPvP-2FNuQzESHfm-2Fnob07wthphkcOKh2UrCZpF3SEiazR-2Fe1EAOAirz7NNiTqGj4KJUIgN7-2B0Jo-2BcIjEAW3SJVQ3SRqKEyanQC7WX-2B6qsz2wwdM6dXuK7INuReAL0ipa4HQTo4Ekpc13ToVO5Tfnj2pURiKMDYqxW47POJsqY44PnsE64YTsWxjfbF-2BpX3BrsAo2Z04CMs7MxZGAFhAkh5ba-2FkRu9AB8W9DbHo2KbyX7Xj2v-2FdYXmhTFWt2O-2FExD70gye5Yg5meygmQdthjK6-2Fu5thgiydnixrX7JneCfJHE2pC-2BakFeVtzTtptOS1Rwy5vUF-2FEAbQ-3D-3D
+
+------- 26/07/2017 07:37:30 ---------
+https://blog.pusher.com/getting-started-vuex-state-management-vuejs/?utm_campaign=Revue%20newsletter&utm_medium=Newsletter&utm_source=Anthony%20Gore
+
+------- 28/07/2017 07:16:22 ---------
+https://youtu.be/dKRbsE061u4 Jim solid
+
+------- 28/07/2017 07:17:27 ---------
+http://rubyblog.pro/2017/07/solid-dependency-inversion-principle?utm_source=rubyweekly&utm_medium=email
+
+------- 29/07/2017 07:17:25 ---------
+https://medium.com/javascript-scene/why-composition-is-harder-with-classes-c3e627dcd0aa
+
+------- 29/07/2017 07:17:50 ---------
+http://javascriptweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=902d96b996&e=530387fb06
+
+------- 29/07/2017 07:18:14 ---------
+http://javascriptweekly.us1.list-manage.com/track/click?u=0618f6a79d6bb9675f313ceb2&id=98291896d7&e=530387fb06
+
+------- 29/07/2017 07:31:39 ---------
+Take a look at @PhD_femme's Tweet: https://twitter.com/PhD_femme/status/890680297133617152?s=09
+
+------- 29/07/2017 07:37:13 ---------
+
+https://speakerdeck.com/paulfioravanti/everything-is-reduce
+
+------- 30/07/2017 08:28:17 ---------
+https://youtu.be/dKRbsE061u4 Jim solid
+
+------- 30/07/2017 08:28:23 ---------
+(3, "hello", true) == 6

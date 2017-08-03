@@ -129,3 +129,38 @@ http://js2.coffee/
 https://hacks.mozilla.org/2015/08/es6-in-depth-modules/
 
 http://www.sitepoint.com/video-an-introduction-to-component-state/
+
+```javascript
+// from https://railsware.com/blog/2017/01/10/mocking-es6-module-import-without-dependency-injection/
+// feature.js module
+import { fetchData as originalFetchData } from './backend';
+ 
+let fetchData = originalFetchData;
+ 
+export function mock(mockedFetchData) {
+  fetchData = mockedFetchData || originalFetchData;
+}
+ 
+export function doSomething() {
+  // some code which calls fetchData
+}
+
+//use it with
+
+// feature.test.js module
+import { expect } from 'chai';
+import { mock, doSomething } from './feature';
+ 
+const dummyFetchData = () => {};
+ 
+describe('doSomething', () => {
+  beforeEach(() => { mock(dummyFetchData); });
+  afterEach(() => { mock(); });
+ 
+  it('does something meaningful', () => {
+    // use doSomething with mocked fetchData
+  });
+});
+
+//advantage, once ES6 modules roll out proper, you won't be able to mock them as they're immutable bindings. So there.
+```

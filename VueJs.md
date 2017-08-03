@@ -12,6 +12,7 @@
 * https://github.com/vuejs/vuex/issues/416 another good intro to vuex
 * [nice article on getters](https://laracasts.com/discuss/channels/vue/vuex-getters)
 * https://jsfiddle.net/Linusborg/935wfbaz/1/ possbily useful on props.
+* [vue and jest](https://medium.com/@kevin_peters/unit-testing-vue-js-components-with-jest-86e14ef499da)
 
 html
 
