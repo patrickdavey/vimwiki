@@ -79,3 +79,8 @@ stdin which I really should open a StackOverflow about.
 :syntime on
 :syntime report
 ```
+
+```
+# switch to window named blah and run tests
+nmap <leader>e :!tmux select-window -t blah <CR> :!tmux send-keys -t pa:blah "npm run test" C-m <CR> 
+```

@@ -166,3 +166,22 @@ puts insns.disasm
 #### Ruby conferences
 * http://rubyconferences.org/ 
 * http://lanyrd.com/topics/ruby/
+
+```ruby
+
+require 'pathname'
+LINK_REGEX = /\((?<link>[^)]+)/
+
+files = Dir.glob(Pathname("**/*.md"))
+
+files.each do |file|
+  contents = File.read(file)
+  matches = []
+  contents.scan(LINK_REGEX) { matches << $~ }
+
+  puts "File: #{file}"
+  matches.each { |match| puts match["link"] }
+
+  puts "\n\n"
+end
+```

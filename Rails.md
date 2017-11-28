@@ -2,6 +2,7 @@
 * [Nice example of an rspec rails_helper file](http://blog.thefrontiergroup.com.au/2016/02/clean-rails_helper-file)
 * [Rails javascript integration strategies](https://github.com/chrisvfritz/rails-javascript-integrations)
 * http://blog.heapsource.com/post/55696145680/effortless-two-factor-authentication-in-rails
+* [asset pipeline post -rails 4](https://schneems.com/2017/11/22/self-hosted-config-introducing-the-sprockets-manifestjs/)
 
 * ## Test Links
 * http://www.sitepoint.com/lite-spec-helper-faster-rails-tests/

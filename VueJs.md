@@ -13,52 +13,5 @@
 * [nice article on getters](https://laracasts.com/discuss/channels/vue/vuex-getters)
 * https://jsfiddle.net/Linusborg/935wfbaz/1/ possbily useful on props.
 * [vue and jest](https://medium.com/@kevin_peters/unit-testing-vue-js-components-with-jest-86e14ef499da)
-
-html
-
-<body>
-  <div id="App">
-    <app />
-  </div>
-  <script src="/js/main.js"></script>
-</body>
-
-main.js
-
-new Vue({
-  components: { App },
-  el: '#App',
-})
-
-App.vue
-
-<template>
-  <div>
-    <header-area />
-    <preloader />
-    <transition name="fade" mode="out-in">
-      <keep-alive>
-        <router-view class="router-view" />
-      </keep-alive>
-    </transition>
-    <footer-area />
-    <fixed-feedback />
-    <form-builder />
-  </div>
-</template>
-
-<script>
-import Preloader from './partials/Preloader.vue'
-import HeaderArea from './partials/HeaderArea.vue'
-import FooterArea from './partials/FooterArea.vue'
-import FormBuilder from './partials/FormBuilder.vue'
-import FixedFeedback from './partials/FixedFeedback.vue'
-
-export default {
-  name: 'App',
-  components: { FormBuilder, HeaderArea, FooterArea, Preloader, FixedFeedback },
-  methods: {
-    // ...
-  }
-}
-</script>
+* [nice issue on v-model and emit etc.](https://github.com/vuejs/vue/issues/4373) - [and jsfiddle linked](https://jsfiddle.net/yyx990803/58kxs8tj/)
+* [6 handy tips](https://medium.com/@stijlbreuk/six-random-issues-and-their-solutions-in-vuejs-b16d470a6462)

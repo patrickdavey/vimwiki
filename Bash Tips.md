@@ -205,3 +205,8 @@ fi
 # use a timestamped file for appending.
 PATRICKTEMP="$(date).txt" ; while true; do sudo passenger-memory-stats | grep dirty >> "$PATRICKTEMP"; sleep 2; done
 ```
+
+```bash
+# watch directories, run a test
+fswatch -o src/ test/unit/specs/  | xargs -n1 -I{} npm run test
+```

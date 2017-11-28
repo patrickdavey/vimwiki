@@ -103,6 +103,7 @@
 * http://www.learnwithdaniel.com/2015/01/apache-puma-via-reverse-proxy/
 * envato/guide - lukearndt on a testing documentation thingy.
 * fun fun function (luke)
+* [socks5 article](https://www.digitalocean.com/community/tutorials/how-to-route-web-traffic-securely-without-a-vpn-using-a-socks-tunnel)
 
 ## Scratch pad
 * http://www.jonathanbriehl.com/2014/01/17/vertical-menu-for-bootstrap-3/
