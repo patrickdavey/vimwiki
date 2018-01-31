@@ -15,3 +15,10 @@
 * [vue and jest](https://medium.com/@kevin_peters/unit-testing-vue-js-components-with-jest-86e14ef499da)
 * [nice issue on v-model and emit etc.](https://github.com/vuejs/vue/issues/4373) - [and jsfiddle linked](https://jsfiddle.net/yyx990803/58kxs8tj/)
 * [6 handy tips](https://medium.com/@stijlbreuk/six-random-issues-and-their-solutions-in-vuejs-b16d470a6462)
+
+
+### mobile app dev
+* https://docs.monaca.io/en/monaca_cli/samples/vue_onsen/ 
+* https://community.onsen.io/topic/1666/how-do-you-actually-use-onsen-with-vue-js-and-cordova/3
+* https://onsen.io/vue/
+* weex was super hard to get started with.
