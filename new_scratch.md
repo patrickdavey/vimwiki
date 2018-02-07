@@ -162,3 +162,37 @@ Check out @paulfioravantiâs Tweet: https://twitter.com/paulfioravanti/statu
 ------- 01/02/2018 08:14:40 ---------
 
 https://m.signalvnoise.com/stimulus-1-0-a-modest-javascript-framework-for-the-html-you-already-have-f04307009130
+
+------- 02/02/2018 20:19:34 ---------
+
+https://github.com/AndrewRadev/splitjoin.vim/blob/master/README.markdown
+
+------- 03/02/2018 12:37:51 ---------
+https://github.com/rckclmbr/pyportify
+
+------- 05/02/2018 10:01:52 ---------
+
+https://astoundingmagic.com/collections/books/products/you-will-be-able-to-say-a-thousand-words
+
+------- 05/02/2018 10:02:57 ---------
+consider "The Practicing Mind" by Thomas Sterner.
+
+------- 05/02/2018 12:06:00 ---------
+Check out @toolmantimâs Tweet: https://twitter.com/toolmantim/status/960285623528534016?s=09
+
+------- 06/02/2018 01:38:34 ---------
+https://news.ycombinator.com/item?id=16305620
+
+------- 06/02/2018 01:49:38 ---------
+
+https://github.com/Josantonius/vue-simple-notify/blob/master/README.md
+
+------- 06/02/2018 13:37:28 ---------
+Check out @jessiecathâs Tweet: https://twitter.com/jessiecath/status/960585378947354625?s=09
+
+------- 07/02/2018 02:21:49 ---------
+https://mobile.twitter.com/peterbourgon/status/807757490310025216?lang=en
+
+------- 07/02/2018 02:36:43 ---------
+
+https://github.com/maralla/completor.vim/blob/master/README.md

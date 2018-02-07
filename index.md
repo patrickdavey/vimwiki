@@ -19,6 +19,7 @@
 * [Woodwork](Woodwork)
 * [[Hiking Ideas]]
 * [[Recipes]]
+* [[typing]]
 
 ## Hack ideas
 * https://docs.docker.com/compose/wordpress/
