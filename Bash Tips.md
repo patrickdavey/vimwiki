@@ -131,6 +131,15 @@ while ! rsync -a .... ;do sleep 6;done
 ```
 
 ```bash
+  # handy magic for dealing with spaces in filenames
+  function fileswithspaces {
+  while IFS= read -r -u3 -d $'\0' dir; do
+    convert "$dir/*.jpg" "$dir.pdf"
+    done 3< <(find . -type d -name "As*" -print0)
+  }
+```
+
+```bash
 # from the first DAS episode, this loops over all blobs in
 # git revisions on master and shows the line count. Good example
 # of a few different control flows, pipeing etc.
@@ -210,3 +219,11 @@ PATRICKTEMP="$(date).txt" ; while true; do sudo passenger-memory-stats | grep di
 # watch directories, run a test
 fswatch -o src/ test/unit/specs/  | xargs -n1 -I{} npm run test
 ```
+
+```bash
+# print all the colours which you can use in TMUX configs.
+# from https://superuser.com/a/285400
+for i in {0..255}; do     printf "\x1b[38;5;${i}mcolour${i}\x1b[0m\n"; done
+```
+
+[bork on nmap](https://twitter.com/b0rk/status/1094294577505361921)

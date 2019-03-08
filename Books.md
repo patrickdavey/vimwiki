@@ -31,6 +31,11 @@
 * [ ] [Destined for War, Pete Nicholls recommendation](https://www.amazon.com/Destined-War-America-Escape-Thucydidess-ebook/dp/B01IAS9FZY?cn=bWVzc2FnZQ%3D%3D)
 * [ ] An optimists tour of the future.
 * [ ] https://www.railsspeed.com/
+* [ ] https://pragprog.com/book/jwdsal/a-common-sense-guide-to-data-structures-and-algorithms
+* [ ] The brain that changes itself
+* [ ] Make it Stick: The Science of Successful Learning (https://twitter.com/tveastman/status/1033247253207515137)
+* [ ] The way of kings
+* [ ] Tales of morrigan crow [malc suggestion]
 
 === Read ===
 * [X] Pragmatic Thinking and Learning

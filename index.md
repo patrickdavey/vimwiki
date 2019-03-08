@@ -85,6 +85,8 @@
 * [[Vim Tips]]
 * [[Git Tips]]
 * [[Bash Tips]]
+* [[System Tips]]
+* [[Python Tips]]
 * [[Latex Tips]]
 * [[Backbone]]
 * https://sourcemaking.com/refactoring

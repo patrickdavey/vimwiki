@@ -11,6 +11,11 @@ Man vs Snake: The Long and Twisted Tale of Nibbler
 The King of Kong
 Peep Show
 That Mitchell and Web.
+Sunshine with ralph fiennes
+the mouse that roared
+black 47
+making a murderer
+hypernormalization
 
 https://streamacon.com/video/laracon-us/evan-you-vuejs-workshop
 https://www.youtube.com/watch?v=L0qC97ytMjQ

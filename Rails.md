@@ -3,6 +3,8 @@
 * [Rails javascript integration strategies](https://github.com/chrisvfritz/rails-javascript-integrations)
 * http://blog.heapsource.com/post/55696145680/effortless-two-factor-authentication-in-rails
 * [asset pipeline post -rails 4](https://schneems.com/2017/11/22/self-hosted-config-introducing-the-sprockets-manifestjs/)
+* [react-rails-webpacker](https://mailchi.mp/arkency/testing-reactjs-components-with-jest-in-railswebpackerwebpack-environment-the-setup-1064401?e=570575c1b5)
+* [force ssh rollback](https://jamescrisp.org/2013/08/04/moving-to-https-rails-force_ssl-and-rollback/)
 
 * ## Test Links
 * http://www.sitepoint.com/lite-spec-helper-faster-rails-tests/
