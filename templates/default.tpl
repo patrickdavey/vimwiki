@@ -72,5 +72,6 @@
 		ga('send', 'pageview');
 
 	</script>
+  <p><small>Page created on %date%</small></p>
 </body>
 </html>

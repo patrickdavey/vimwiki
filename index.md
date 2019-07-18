@@ -20,6 +20,7 @@
 * [[Hiking Ideas]]
 * [[Recipes]]
 * [[typing]]
+* [[backup software]]
 
 ## Hack ideas
 * https://docs.docker.com/compose/wordpress/
@@ -57,6 +58,7 @@
 * [[React Native for Snowpool]]
 * [[For my own VPS]]
 * [[christchurch ruby ask away threads]]
+* [knots](https://www.animatedknots.com/complete-knot-list)
 
 
 ## Presentation Tools
@@ -91,6 +93,7 @@
 * [[Backbone]]
 * https://sourcemaking.com/refactoring
 
+
 ## Tools
 * http://regex101.com/ very nice explain tool
 * [Screenshotting and testing tool](http://casperjs.org/)
@@ -107,6 +110,7 @@
 * envato/guide - lukearndt on a testing documentation thingy.
 * fun fun function (luke)
 * [socks5 article](https://www.digitalocean.com/community/tutorials/how-to-route-web-traffic-securely-without-a-vpn-using-a-socks-tunnel)
+* [testing](testing)
 
 ## Scratch pad
 * http://www.jonathanbriehl.com/2014/01/17/vertical-menu-for-bootstrap-3/

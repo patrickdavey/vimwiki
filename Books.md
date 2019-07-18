@@ -36,6 +36,12 @@
 * [ ] Make it Stick: The Science of Successful Learning (https://twitter.com/tveastman/status/1033247253207515137)
 * [ ] The way of kings
 * [ ] Tales of morrigan crow [malc suggestion]
+* [ ] Non violent communication
+* [ ] The bug Short
+* [ ] Algorithms to live by -> https://twitter.com/raquelxmoss/status/1133319314264793090
+* [ ] a walk in the woods. Ben & Keith recommendation
+* [ ] bring me sunshine (book with keith in it?)
+* [ ] how your house works (liz suggestion)
 
 === Read ===
 * [X] Pragmatic Thinking and Learning

@@ -25,6 +25,15 @@
 * https://github.com/MiniProfiler/rack-mini-profiler
 * https://github.com/ruby-prof/ruby-prof
 * https://github.com/flyerhzm/bullet
+* https://devhints.io/arel
+
+
+### ActiveModel & Attributes API
+* https://github.com/rails/rails/issues/28020
+* https://github.com/rails/rails/pull/30985
+* https://api.rubyonrails.org/classes/ActiveRecord/Attributes/ClassMethods.html
+* https://blog.bigbinary.com/2018/12/11/rails-5-attributes-api.html
+* 
 
 ```ruby
 # useful for printing out SQL console
