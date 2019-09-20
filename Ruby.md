@@ -187,3 +187,5 @@ end
 ```
 
 [pattern matching slidedeck](https://speakerdeck.com/k_tsj/pattern-matching-new-feature-in-ruby-2-dot-7?slide=35)
+
+https://idiosyncratic-ruby.com/

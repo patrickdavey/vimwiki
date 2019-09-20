@@ -59,6 +59,8 @@
 * [[For my own VPS]]
 * [[christchurch ruby ask away threads]]
 * [knots](https://www.animatedknots.com/complete-knot-list)
+* [[comment system]]
+* [curl cookbook](https://catonmat.net/cookbooks/curl)
 
 
 ## Presentation Tools
@@ -92,6 +94,9 @@
 * [[Latex Tips]]
 * [[Backbone]]
 * https://sourcemaking.com/refactoring
+* [[vue-native]]
+* [[graphql talk]]
+
 
 
 ## Tools

@@ -2,3 +2,5 @@
 * [[lets encrypt setup]]
 * [[where to start learning rails]]
 * [[pete on signing git commits and gems]]
+* [[nick on AI]]
+* [[aidan on payments]]

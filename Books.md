@@ -42,6 +42,8 @@
 * [ ] a walk in the woods. Ben & Keith recommendation
 * [ ] bring me sunshine (book with keith in it?)
 * [ ] how your house works (liz suggestion)
+* [ ] http://clean-ruby.com/dsl maybe
+* [ ] Shakeltons forgotten men (dentist suggestion)
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
