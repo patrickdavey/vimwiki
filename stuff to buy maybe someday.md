@@ -4,3 +4,6 @@
 * https://www.turingtumble.com/
 * https://www.myravensburger.com/nl-NL/foto-memory/
 * [gooseneck kettle](https://www.google.com/search?q=hario+gooseneck+kettle&oq=hario+g&aqs=chrome.3.69i57j0l3.4663j0j4&client=ms-unknown&sourceid=chrome-mobile&ie=UTF-8)
+* [air filter](https://www.amazon.com/Alen-BreatheSmart-45i-Purifier-Allergies/dp/B07J6GCMX3/)
+* [air quality checker](https://getawair.com/)
+* https://remarkable.com/store/remarkable-2

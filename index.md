@@ -116,9 +116,11 @@
 * fun fun function (luke)
 * [socks5 article](https://www.digitalocean.com/community/tutorials/how-to-route-web-traffic-securely-without-a-vpn-using-a-socks-tunnel)
 * [testing](testing)
+* [dash alternative](https://github.com/zealdocs/zeal#query--filter-docsets)
 
 ## Scratch pad
 * http://www.jonathanbriehl.com/2014/01/17/vertical-menu-for-bootstrap-3/
 * [vim commands to learn](commands_to_learn.md)
+* [[apple crashes]]
 * https://github.com/wee-slack/wee-slack
 * [scratch](new_scratch)

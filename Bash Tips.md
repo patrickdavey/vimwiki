@@ -226,4 +226,8 @@ fswatch -o src/ test/unit/specs/  | xargs -n1 -I{} npm run test
 for i in {0..255}; do     printf "\x1b[38;5;${i}mcolour${i}\x1b[0m\n"; done
 ```
 
+```bash
+  find all the files matching a certain grep in git, and "show" them back out
+  git diff deploy --name-only | grep support | while read line ; do git show deploy:$line > $line ; done
+```
 [bork on nmap](https://twitter.com/b0rk/status/1094294577505361921)

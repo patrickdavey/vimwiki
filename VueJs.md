@@ -15,6 +15,8 @@
 * [vue and jest](https://medium.com/@kevin_peters/unit-testing-vue-js-components-with-jest-86e14ef499da)
 * [nice issue on v-model and emit etc.](https://github.com/vuejs/vue/issues/4373) - [and jsfiddle linked](https://jsfiddle.net/yyx990803/58kxs8tj/)
 * [6 handy tips](https://medium.com/@stijlbreuk/six-random-issues-and-their-solutions-in-vuejs-b16d470a6462)
+* https://www.sitepoint.com/vue-async-components/
+* https://vuedose.tips/tips/improve-performance-on-large-lists-in-vue-js/
 
 
 ### mobile app dev

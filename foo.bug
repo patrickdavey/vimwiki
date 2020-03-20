@@ -1,0 +1,23 @@
+A KeyError occurred in problem_containers#create:
+
+key not found: 49
+app/services/documents/problems/add.rb:70:in `fetch'
+
+
+Backtrace:
+
+app/services/documents/problems/add.rb:70:in `fetch'
+app/services/documents/problems/add.rb:70:in `block in values'
+app/services/documents/problems/add.rb:69:in `each'
+app/services/documents/problems/add.rb:69:in `each_with_index'
+app/services/documents/problems/add.rb:69:in `each'
+app/services/documents/problems/add.rb:69:in `map'
+app/services/documents/problems/add.rb:69:in `values'
+app/services/documents/problems/add.rb:44:in `new_document_problem_ids!'
+app/services/documents/problems/add.rb:14:in `block in add_problem_links'
+app/services/documents/problems/add.rb:12:in `add_problem_links'
+app/services/problem_links/container_adder.rb:54:in `add_problems_to_document!'
+app/services/problem_links/container_adder.rb:22:in `process!'
+app/services/nodes/container_adder.rb:30:in `process!'
+app/controllers/problem_containers_controller.rb:12:in `create'
+app/controllers/application_controller.rb:193:in `set_timezone_for_this_request'

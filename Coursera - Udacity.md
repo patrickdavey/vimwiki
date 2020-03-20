@@ -14,3 +14,5 @@ https://github.com/open-source-society/computer-science
 
 
 [Archived Coursera courses](https://archive.org/details/archiveteam_coursera)
+
+https://www.coursera.org/learn/the-science-of-well-being

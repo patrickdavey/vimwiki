@@ -44,6 +44,8 @@
 * [ ] how your house works (liz suggestion)
 * [ ] http://clean-ruby.com/dsl maybe
 * [ ] Shakeltons forgotten men (dentist suggestion)
+* [ ] Rocket Man - audiobook Robert Kurzon? (Pete Nicholls suggestion)
+* [ ] An Astronaut's Guide to Life on Earth: What Going to Space Taught Me About Ingenuity, Determination, and Being Prepared for Anything
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
