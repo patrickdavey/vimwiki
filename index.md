@@ -124,3 +124,5 @@
 * [[apple crashes]]
 * https://github.com/wee-slack/wee-slack
 * [scratch](new_scratch)
+
+![blah](blah.png)

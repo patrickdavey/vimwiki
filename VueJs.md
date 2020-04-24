@@ -17,6 +17,7 @@
 * [6 handy tips](https://medium.com/@stijlbreuk/six-random-issues-and-their-solutions-in-vuejs-b16d470a6462)
 * https://www.sitepoint.com/vue-async-components/
 * https://vuedose.tips/tips/improve-performance-on-large-lists-in-vue-js/
+* https://jschof.com/vue/a-form-component-in-vue-js-making-nice-wrappers/
 
 
 ### mobile app dev
