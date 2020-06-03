@@ -37,7 +37,7 @@
 * [ ] The way of kings
 * [ ] Tales of morrigan crow [malc suggestion]
 * [ ] Non violent communication
-* [ ] The bug Short
+* [ ] The big Short
 * [ ] Algorithms to live by -> https://twitter.com/raquelxmoss/status/1133319314264793090
 * [ ] a walk in the woods. Ben & Keith recommendation
 * [ ] bring me sunshine (book with keith in it?)
@@ -46,6 +46,9 @@
 * [ ] Shakeltons forgotten men (dentist suggestion)
 * [ ] Rocket Man - audiobook Robert Kurzon? (Pete Nicholls suggestion)
 * [ ] An Astronaut's Guide to Life on Earth: What Going to Space Taught Me About Ingenuity, Determination, and Being Prepared for Anything
+* [ ] Scarcity (dad recommendation)
+* [ ] The spirit level (dad recommendation)
+* [ ] Dark money (dad recommendation)
 
 === Read ===
 * [X] Pragmatic Thinking and Learning

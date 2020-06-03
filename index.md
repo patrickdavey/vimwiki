@@ -21,6 +21,7 @@
 * [[Recipes]]
 * [[typing]]
 * [[backup software]]
+* [[remote working]]
 
 ## Hack ideas
 * https://docs.docker.com/compose/wordpress/
@@ -124,5 +125,3 @@
 * [[apple crashes]]
 * https://github.com/wee-slack/wee-slack
 * [scratch](new_scratch)
-
-![blah](blah.png)

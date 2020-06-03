@@ -18,11 +18,13 @@ making a murderer
 hypernormalization
 American history x
 Fury
-dawn wall documentary
 the valley uprising
 the hundred foot journey (mum and dad recommendation)
 as old as ireland
 black 47 (famine film)
+https://en.wikipedia.org/wiki/Preacher_(TV_series) 
+Hidden figures
+The imitation game
 
 https://streamacon.com/video/laracon-us/evan-you-vuejs-workshop
 https://www.youtube.com/watch?v=L0qC97ytMjQ
