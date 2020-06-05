@@ -23,7 +23,7 @@
 * [[remote working]]
 
 ## physical skills to learn
-* [over under cable](2019-11-23 https://youtu.be/ktI0mLAoSTc)
+* [over under cable](https://youtu.be/ktI0mLAoSTc)
 
 ## tools to play with
 * [ff send](https://news.ycombinator.com/item?id=21898310)
