@@ -49,6 +49,9 @@
 * [ ] Scarcity (dad recommendation)
 * [ ] The spirit level (dad recommendation)
 * [ ] Dark money (dad recommendation)
+* [ ] The subtle art of not giving a fuck (ian chesterman recommendation)..
+* [ ] https://www.amazon.com/Say-Nothing-Murder-Northern-Ireland/dp/0385521316 Sylvia reccommendation
+* [ ] https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet @pat recommendation
 
 === Read ===
 * [X] Pragmatic Thinking and Learning

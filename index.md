@@ -1,5 +1,4 @@
 ## Patrick Davey personal Wiki
-
 * [[Books]]
 * [[Movies to watch]]
 * [[Mysql Tips]]
@@ -23,6 +22,12 @@
 * [[backup software]]
 * [[remote working]]
 
+## physical skills to learn
+* [over under cable](2019-11-23 https://youtu.be/ktI0mLAoSTc)
+
+## tools to play with
+* [ff send](https://news.ycombinator.com/item?id=21898310)
+
 ## Hack ideas
 * https://docs.docker.com/compose/wordpress/
 * https://telegram.org/ and https://rbnrpi.wordpress.com/raspberry-pi-control-gpio-and-your-pi-camera-using-your-phone/
@@ -40,7 +45,7 @@
 * [three js javascript 3d modelling](http://tympanus.net/codrops/2016/04/26/the-aviator-animating-basic-3d-scene-threejs/)
 * [one second dash - raspberry pi IoT button](https://github.com/ridiculousfish/one-second-dash)
 * https://learnxinyminutes.com/
-* change Appender app to use a db backed queue with categories of pages to append to. something like an iftt app perhaps ?
+* change Apphysical pender app to use a db backed queue with categories of pages to append to. something like an iftt app perhaps ?
   * https://realm.io/news/realm-1.0/ Realm database possibly useful here.
 * [Electron - Githubs Desktop app project](https://github.com/blog/2167-electron-1-0-is-here?utm_source=hackernewsletter&utm_medium=email&utm_term=show_hn)
 * [Home Barista](http://www.home-barista.com/)
@@ -62,6 +67,7 @@
 * [knots](https://www.animatedknots.com/complete-knot-list)
 * [[comment system]]
 * [curl cookbook](https://catonmat.net/cookbooks/curl)
+* [more curl tips](https://news.ycombinator.com/item?id=20811829)
 
 
 ## Presentation Tools
@@ -97,6 +103,8 @@
 * https://sourcemaking.com/refactoring
 * [[vue-native]]
 * [[graphql talk]]
+* [typescript](https://exploringjs.com/tackling-ts/)
+* [tailwind](https://speakerdeck.com/janko_m/rapid-designing-with-tailwind-css?slide=31)
 
 
 

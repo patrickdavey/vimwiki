@@ -25,6 +25,13 @@ black 47 (famine film)
 https://en.wikipedia.org/wiki/Preacher_(TV_series) 
 Hidden figures
 The imitation game
+Hinawai - fools and dreamers
+[julia evens talks](2019-08-28 https://jvns.ca/talks/)
+[alpha go](https://www.youtube.com/watch?v=WXuK6gekU1Y)
+[elixir talk](https://twitter.com/josevalim/status/1255998044304277509?s=09)
+
+TV:
+Preacher (glynn recommendation)
 
 https://streamacon.com/video/laracon-us/evan-you-vuejs-workshop
 https://www.youtube.com/watch?v=L0qC97ytMjQ
