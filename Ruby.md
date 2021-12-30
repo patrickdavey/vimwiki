@@ -37,6 +37,8 @@ end
 
 http://andycroll.com/ruby/benchmarking-each_with_object-against-inject-when-building-hashes-from-arrays
 
+https://github.com/pmq20/ruby-packer
+
 Nice example of a decorator
 ```ruby
 class ItemDecorator
@@ -189,3 +191,8 @@ end
 [pattern matching slidedeck](https://speakerdeck.com/k_tsj/pattern-matching-new-feature-in-ruby-2-dot-7?slide=35)
 
 https://idiosyncratic-ruby.com/
+
+https://www.thegreatcodeadventure.com/ruby-custom-class-macros-with-class-instance-variables/
+
+
+[[upgrading to 2_7]]

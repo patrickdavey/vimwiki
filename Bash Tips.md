@@ -83,6 +83,10 @@ du -sh ./*/
 ```bash
 # create 100 small files
 for i in {1..100}; do dd if=/dev/urandom bs=1 count=1 of=file$i; done 
+
+#create 10 1G files (slowly, but disk use is what I want to stress)
+
+for i in {1..10}; do dd if=/dev/zero of=file$i.txt count=1024000 bs=1024 ; done
 ```
 
 ```bash
@@ -128,6 +132,11 @@ find . -type f -name "*.mp3"  -print0 | xargs -0 -I {} mid3v2 -aBlah -ABlah -cBl
 # repeat an rsync command until it is complete
 # from http://serverfault.com/a/98750/129747
 while ! rsync -a .... ;do sleep 6;done
+```
+
+```bash
+# only sync the directory names (no contents)
+rsync -a --include='*/' --exclude='*' source destination
 ```
 
 ```bash
@@ -231,3 +240,27 @@ for i in {0..255}; do     printf "\x1b[38;5;${i}mcolour${i}\x1b[0m\n"; done
   git diff deploy --name-only | grep support | while read line ; do git show deploy:$line > $line ; done
 ```
 [bork on nmap](https://twitter.com/b0rk/status/1094294577505361921)
+
+```bash
+# mtr command - handy show showing slowness between two points.
+mtr  -rwbzc 100 <IP ADDRESS>
+ while true; do mtr  -rwbzc 100 IP_ADDRESS >> mtr.production.log 2>&1 && sleep 1; done;
+```
+
+```bash
+#find the exact package you have installed
+apt list --installed | grep sudo
+```
+
+```bash
+figlet -f banner "4:30" | sed -e's/#/:beer:/g' | sed -e's/ /:blank:/g' | pbcopy
+# creates a slack copy-paste banner
+```
+
+```download matching files
+aws s3 ls s3://2021-05-09-update/ | grep import | awk '{print $4}' | xargs -I{} aws s3 cp s3://2021-05-09-update/{} .
+```
+
+```bash
+ S_TIME_FORMAT=ISO iostat -xt 2 >> "$(date -u +"%Y-%m-%d-%Z").txt"; 
+```

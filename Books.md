@@ -52,6 +52,22 @@
 * [ ] The subtle art of not giving a fuck (ian chesterman recommendation)..
 * [ ] https://www.amazon.com/Say-Nothing-Murder-Northern-Ireland/dp/0385521316 Sylvia reccommendation
 * [ ] https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet @pat recommendation
+* [ ] Neuro Linguistic Programming for dummies
+* [ ] The moon is a harsh mistress
+* [ ] The ocean at the end of the lane
+* [ ] In Search of Dibbs (Mary Nash recommendation)
+* [ ] unbroken - Dan suggestion
+* [ ] seabiscuit - Dan suggestion
+* [ ] Brandon Sanderson (author - Graham suggestion)
+* [ ] The Wasp Factory, the play of games, complicity, crow road, the use of weapons (Mikkel)
+* [ ] Delivering Happiness
+* [ ] "The splendid and the vile" - Liz
+* [ ] The richest man in babylon (HN recommendation)
+* [ ] A voyage for madmen (Ian C reccommendation)
+* [ ] Murder bot diaries
+* [ ] The dispossessed - Urslua K Le guin
+* [ ] A boy made of blocks (Ian)
+* [ ] Drive to survive (Abhinav)
 
 === Read ===
 * [X] Pragmatic Thinking and Learning
@@ -75,7 +91,9 @@
 * [X] [[Thinking fast and slow]]
 * [X] [Harry potter and the methods of rationality](http://hpmor.com/chapter/2)
 * [X] [[Twelve years a slave]]
-
+* [X] https://www.goodreads.com/book/show/40180098-the-overstory Could not get into it. Writing style didn't agree
+* [X] [[Children of time (Alex James recommendation)]]
+* [X] [[South Sea Vagabond (dentist - Carl McGregor recommendation)]]
 
 [HN Thread on interesting books](https://news.ycombinator.com/item?id=8716111)
 

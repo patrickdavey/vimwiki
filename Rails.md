@@ -1,11 +1,15 @@
+* https://tad.thorley.dev/2021/01/31/vue-for-the-html-you-already-have.html excellent link on integrating vue and rails
 * [Interesting link on asset gems](https://github.com/rails/rails/commit/49c4af43ec5819d8f5c1a91f9b84296c927ce6e7) basically discusses a way around memory bloat of loading asset oriented gems in production.  Seems completely reasonable to me.
 * [Nice example of an rspec rails_helper file](http://blog.thefrontiergroup.com.au/2016/02/clean-rails_helper-file)
 * [Rails javascript integration strategies](https://github.com/chrisvfritz/rails-javascript-integrations)
 * http://blog.heapsource.com/post/55696145680/effortless-two-factor-authentication-in-rails
 * [asset pipeline post -rails 4](https://schneems.com/2017/11/22/self-hosted-config-introducing-the-sprockets-manifestjs/)
 * [react-rails-webpacker](https://mailchi.mp/arkency/testing-reactjs-components-with-jest-in-railswebpackerwebpack-environment-the-setup-1064401?e=570575c1b5)
-* [webpacker and vue](2019-10-04 https://medium.com/@hunterae/rails-webpacker-and-vue-cli-can-actually-play-nicely-10215fe833e1)
+* [webpacker and vue](https://medium.com/@hunterae/rails-webpacker-and-vue-cli-can-actually-play-nicely-10215fe833e1)
+* https://dev.to/vannsl/vue3-on-rails-l9d
 * [force ssh rollback](https://jamescrisp.org/2013/08/04/moving-to-https-rails-force_ssl-and-rollback/)
+* [decently sized rails project to look at](https://github.com/pupilfirst/pupilfirst/tree/master/app/graphql/types)
+* https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one
 
 * ## Test Links
 * http://www.sitepoint.com/lite-spec-helper-faster-rails-tests/

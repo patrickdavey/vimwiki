@@ -1,0 +1,1 @@
+Earth has colonized part of the galaxy and a scientist is experimenting with terraforming and infecting apes with a virus to make them super smart. Goes wrong as there's an attack. Virus goes down to planet and ends up making spiders super smart. End of human civilization tries to come to the terraformed planet with interesting results.

@@ -1,4 +1,4 @@
-## Patrick Davey personal Wiki
+# Patrick Davey personal Wiki
 * [[Books]]
 * [[Movies to watch]]
 * [[Mysql Tips]]
@@ -33,6 +33,7 @@
 * http://developer.telerik.com/featured/tools-learn-javascript
 * https://learnxinyminutes.com/
 * [battery pack for the pi](https://www.amazon.com/dp/B00BB5VQCE/ref=asc_df_B00BB5VQCE4485563?smid=AMJPACPHKNW1L&tag=shopzilla0d-20&ascsubtag=shopzilla_rev_72-20;14728055387331646053110080302008005&linkCode=df0&creative=395129&creativeASIN=B00BB5VQCE) 
+* [garmin open street map](https://wiki.openstreetmap.org/wiki/Mkgmap/help/How_to_create_a_map)
 * [knots](https://www.animatedknots.com/complete-knot-list)
 * [[comment system]]
 * [curl cookbook](https://catonmat.net/cookbooks/curl)
@@ -73,7 +74,8 @@
 * [[vue-native]]
 * [[graphql talk]]
 * [typescript](https://exploringjs.com/tackling-ts/)
-* [tailwind](https://speakerdeck.com/janko_m/rapid-designing-with-tailwind-css?slide=31)
+* [[tailwind]]
+* [[世界]]
 
 
 
@@ -87,3 +89,8 @@
 
 ## Scratch pad
 * [vim commands to learn](commands_to_learn.md)
+
+## To Study
+* https://pgexercises.com/
+
+<!-- a comment -->
