@@ -1,0 +1,1 @@
+A test was using ObjectSpace to find classes which had inherited from a particular class.  Instances of the singleton classes were also returned (these were periodically cleaned up by GC), so, that took a little minute to track down as it  was really sporadic when it would happen (as you might imagine)

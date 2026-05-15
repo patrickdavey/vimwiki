@@ -7,8 +7,8 @@
 * [ ] Mistakes Were Made But Not By Me (@cczona)
 * [ ]  http://www.amazon.com/Long-Way-Gone-Memoirs-Soldier/dp/0374531269
 * [ ] Aurora by Kim Stanley Robinson.(Isaac suggestion)
-* [ ] Masters of Doom (Tim suggestion)
-* [ ] [[The Happiness Trap]]
+* [X] Masters of Doom (Tim suggestion)
+* [X] [[The Happiness Trap]]
 * [ ] Victor frankl. Mans search for meaning
 * [ ] the narrow road to the far north
 * [ ] McMafia (Bart, Colombia recommendation)
@@ -17,7 +17,6 @@
 * [ ] The Phoenix Project
 * [ ] Practices of an aglie developer
 * [ ] Unix Powertools
-* [ ] Rails freelancing book (maybe)
 * [ ] Prosperity without growth.
 * [ ] When life nearly died (Yvonne - antarctica)
 * [ ] The world without us (Thomas' friend)
@@ -34,12 +33,10 @@
 * [ ] https://pragprog.com/book/jwdsal/a-common-sense-guide-to-data-structures-and-algorithms
 * [ ] The brain that changes itself
 * [ ] Make it Stick: The Science of Successful Learning (https://twitter.com/tveastman/status/1033247253207515137)
-* [ ] The way of kings
-* [ ] Tales of morrigan crow [malc suggestion]
+* [ ] Tales of morrigan crow [malc suggestion] (for anna)
 * [ ] Non violent communication
 * [ ] The big Short
 * [ ] Algorithms to live by -> https://twitter.com/raquelxmoss/status/1133319314264793090
-* [ ] a walk in the woods. Ben & Keith recommendation
 * [ ] bring me sunshine (book with keith in it?)
 * [ ] how your house works (liz suggestion)
 * [ ] http://clean-ruby.com/dsl maybe
@@ -54,11 +51,9 @@
 * [ ] https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet @pat recommendation
 * [ ] Neuro Linguistic Programming for dummies
 * [ ] The moon is a harsh mistress
-* [ ] The ocean at the end of the lane
 * [ ] In Search of Dibbs (Mary Nash recommendation)
 * [ ] unbroken - Dan suggestion
 * [ ] seabiscuit - Dan suggestion
-* [ ] Brandon Sanderson (author - Graham suggestion)
 * [ ] The Wasp Factory, the play of games, complicity, crow road, the use of weapons (Mikkel)
 * [ ] Delivering Happiness
 * [ ] "The splendid and the vile" - Liz
@@ -68,9 +63,13 @@
 * [ ] The dispossessed - Urslua K Le guin
 * [ ] A boy made of blocks (Ian)
 * [ ] Drive to survive (Abhinav)
+* [ ] [A burglers guide to the city](https://www.amazon.com/Burglars-Guide-City-Geoff-Manaugh/dp/0374117268/)
+* [ ] Small things like these. Clare Keegan. Helene recommendation
 
 === Read ===
+* [X] The ocean at the end of the lane
 * [X] Pragmatic Thinking and Learning
+* [X] a walk in the woods. Ben & Keith recommendation
 * [X] Crucial Conversations
 * [X] [[So Good they can't ignore you]]
 * [X] Objects on Rails
@@ -81,6 +80,7 @@
 * [X] A Dance with Dragons
 * [X] [[Design Patterns in Ruby]]
 * [X] [[Limits to growth - the 30 year update]]
+* [X] Brandon Sanderson (author - Graham suggestion)
 * [X] [[The pragmatic programmer]]
 * [X] [[This changes everything]]
 * [X] [[A mind for numbers]]
@@ -94,6 +94,7 @@
 * [X] https://www.goodreads.com/book/show/40180098-the-overstory Could not get into it. Writing style didn't agree
 * [X] [[Children of time (Alex James recommendation)]]
 * [X] [[South Sea Vagabond (dentist - Carl McGregor recommendation)]]
+* [X] Frankenstein - Orianna recommendation
 
 [HN Thread on interesting books](https://news.ycombinator.com/item?id=8716111)
 

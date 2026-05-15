@@ -10,6 +10,10 @@
 * [force ssh rollback](https://jamescrisp.org/2013/08/04/moving-to-https-rails-force_ssl-and-rollback/)
 * [decently sized rails project to look at](https://github.com/pupilfirst/pupilfirst/tree/master/app/graphql/types)
 * https://evilmartians.com/chronicles/how-to-graphql-with-ruby-rails-active-record-and-no-n-plus-one
+* [hotwire and stimulus book](https://davidcolby.gumroad.com/l/hotwired-ats/68y8c5c)
+* [twitter hotwire link](https://twitter.com/joemasilotti/status/1504095146840760321)
+* https://www.hotrails.dev/turbo-rails/turbo-rails-tutorial-introduction
+* https://tighten.com/blog/stimulus-101-building-a-modal/
 
 * ## Test Links
 * http://www.sitepoint.com/lite-spec-helper-faster-rails-tests/
@@ -38,7 +42,8 @@
 * https://github.com/rails/rails/pull/30985
 * https://api.rubyonrails.org/classes/ActiveRecord/Attributes/ClassMethods.html
 * https://blog.bigbinary.com/2018/12/11/rails-5-attributes-api.html
-* 
+* [learning - railscastsish](https://www.driftingruby.com/pages/pricing)
+* [learning - modern rails](https://world.hey.com/dhh/no-railsconf-faa7935e)
 
 ```ruby
 # useful for printing out SQL console

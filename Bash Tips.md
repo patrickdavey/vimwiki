@@ -1,4 +1,4 @@
-[bash beginners guide](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/intro_01.html)
+zzRsh beginners guide](http://www.tldp.org/LDP/Bash-Beginners-Guide/html/intro_01.html)
 
 ```bash
 # Search and Replace in files
@@ -120,7 +120,7 @@ find . -type f -name *.txt -print0 | xargs -0 -I {} mv {} .
 
 ```bash
 # useful for modifying podcasts so that they'll work nicely on an old ipod sorting wise
-# first we move all the mp3.s into the current directory, then we get the modified time
+# first we move all the mp4.s into the current directory, then we get the modified time
 # of the mp3, and set that as the title (title = title_filename)
 find . -type f -name *.mp3  -print0 | xargs -0 -I {} mv {} .
 ls -1tr | xargs -I {} stat -f '%m %N' {} | xargs -L1 bash -c 'id3tag -s$0_$1 $1'
@@ -264,3 +264,14 @@ aws s3 ls s3://2021-05-09-update/ | grep import | awk '{print $4}' | xargs -I{} 
 ```bash
  S_TIME_FORMAT=ISO iostat -xt 2 >> "$(date -u +"%Y-%m-%d-%Z").txt"; 
 ```
+
+```bash
+
+ grep -l "Fatal error" * | grep Pdftex | gawk 'match($0, /user\-([0-9]+)/, ary) {print ary[1]}'  | sort | uniq
+```
+
+```bash
+# see what mysql service has been up to (useful if it won't start)
+journalctl -u mysql.service -n 60
+```
+

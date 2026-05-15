@@ -17,12 +17,10 @@ hypernormalization
 American history x
 Fury
 the valley uprising
-the hundred foot journey (mum and dad recommendation)
 as old as ireland
 black 47 (famine film)
 https://en.wikipedia.org/wiki/Preacher_(TV_series) 
 Hidden figures
-The imitation game
 Hinawai - fools and dreamers
 [julia evens talks](2019-08-28 https://jvns.ca/talks/)
 [alpha go](https://www.youtube.com/watch?v=WXuK6gekU1Y)
@@ -30,6 +28,8 @@ Hinawai - fools and dreamers
 "Tracks Camel" ? australia film and book
 The haunting of blind manor (Tim suggestion, horrorish so maybe not me)
 My octopus teacher (Ruth neighbour recommendation)
+[Allelujah](https://www.imdb.com/title/tt15765412/). Hannah recommendation
+[temple grandin](https://www.imdb.com/title/tt1278469/) (hannah)
 
 
 ### Social (tv/film)
@@ -55,6 +55,12 @@ My octopus teacher (Ruth neighbour recommendation)
 * Promising young woman (film) - Saltworks Brianna
 * Valhalla murders (Lucy suggestion)
 * https://www.youtube.com/watch?v=dwYyrbX9LUY Flying Kazimov brothers
+* what we do in the shadows
+* Love death and robots - liz&tim suggestion
+* Lower decks - Alex (cath and) suggestion.
+* Avatar anime series (Liz suggestion)
+* For all mankind (Ben reccommendation)
+* Halt and catch fire series (Paddy recommendation)
 
 
 

@@ -10,3 +10,5 @@
 * [[rails counter cache and associations]]
 * [[deleting homepage html]]
 * [[ssl cert expiring]]
+* [[memory leak]]
+* [[ObjectSpace bug]]

@@ -20,9 +20,12 @@
 
 ## physical skills to learn
 * [over under cable](https://youtu.be/ktI0mLAoSTc)
+* [knots](https://news.ycombinator.com/item?id=31532199)
 
 ## tools to play with
 * [ff send](https://news.ycombinator.com/item?id=21898310)
+* cleanshot https://cleanshot.com/ screen capture and recording tool
+* https://github.com/psanford/wormhole-william
 
 ## Hack ideas
 * http://skilldrick.github.io/easyforth/
@@ -32,6 +35,7 @@
 * http://www.bedsforcyclists.co.uk/articles/2014/04/13/how-to-plan-a-route-in-google-maps-and-export-it-to-gpx-your-phone/
 * http://developer.telerik.com/featured/tools-learn-javascript
 * https://learnxinyminutes.com/
+* [learn css HN](https://news.ycombinator.com/item?id=38780091)
 * [battery pack for the pi](https://www.amazon.com/dp/B00BB5VQCE/ref=asc_df_B00BB5VQCE4485563?smid=AMJPACPHKNW1L&tag=shopzilla0d-20&ascsubtag=shopzilla_rev_72-20;14728055387331646053110080302008005&linkCode=df0&creative=395129&creativeASIN=B00BB5VQCE) 
 * [garmin open street map](https://wiki.openstreetmap.org/wiki/Mkgmap/help/How_to_create_a_map)
 * [knots](https://www.animatedknots.com/complete-knot-list)
@@ -75,7 +79,8 @@
 * [[graphql talk]]
 * [typescript](https://exploringjs.com/tackling-ts/)
 * [[tailwind]]
-* [[世界]]
+* [ngrok alternative](https://vitobotta.com/2022/02/27/free-ngrok-alternative-with-cloudflare-tunnels/)
+* [[wix project]]
 
 
 
@@ -92,5 +97,4 @@
 
 ## To Study
 * https://pgexercises.com/
-
-<!-- a comment -->
+* [[css skills]]
